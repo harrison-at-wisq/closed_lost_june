@@ -1,0 +1,34 @@
+{
+  "company": "AutoZone",
+  "deal_id": 52414843968,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-02-20 0:06",
+  "last_activity_date": "2026-01-20 10:56",
+  "reengage_score": 60.2,
+  "contacts": [
+    {
+      "name": "Coriana Spight",
+      "title": "Benefits Specialist"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2025-12-31T17:30:00",
+      "direction": null,
+      "subject": "[Gong] Coriana Spight and Alex Macaulay | Wisq",
+      "person": "Coriana Spight",
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2025-12-31T17:30:00",
+      "direction": null,
+      "subject": "Coriana Spight and Alex Macaulay | Wisq",
+      "person": "Coriana Spight",
+      "text": "<p>Hey Coriana Spight,</p><p></p><p>Your meeting with Alex Macaulay | Wisq has been scheduled for 30 minutes at 11:30am (CST) on Wednesday, December 31, 2025.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/89242843853?pwd=FSHEE5wNmmkAacZAxr3ax2rS07anK0.1\">https://wisq.zoom.us/j/89242843853?pwd=FSHEE5wNmmkAacZAxr3ax2rS07anK0.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/1915863b-4a64-4c5d-b4f7-638419250d25/reschedule\">https://meet.wisq.com/meetings/1915863b-4a64-4c5d-b4f7-638419250d25/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/1915863b-4a64-4c5d-b4f7-638419250d25/cancel\">https://meet.wisq.com/meetings/1915863b-4a64-4c5d-b4f7-638419250d25/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=alex@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Coriana Spight\n\ud83d\udcbc Sr. Benefits Specialist\n\ud83c\udfe2 <a href=\"https://careers.autozone.com/?src=SNS-10680\">AutoZone</a>\n\ud83d\udccd Memphis, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/corianaspight\">Linkedin Profile</a>\n\n\ud83d\udc64 Alex Macaulay\n\ud83d\udcbc Senior Account Executive\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Atlanta, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/alexmacaulay1\">Linkedin Profile</a>\n<p><strong>// pow"
+    }
+  ]
+}

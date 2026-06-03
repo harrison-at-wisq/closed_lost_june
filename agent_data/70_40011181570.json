@@ -1,0 +1,38 @@
+{
+  "company": "Restaurant Brands International",
+  "deal_id": 40011181570,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Disqualified / DQ'd",
+  "close_date": "2025-08-13 8:21",
+  "last_activity_date": "2025-07-24 14:00",
+  "reengage_score": 37.4,
+  "contacts": [
+    {
+      "name": "Tarna Daniel",
+      "title": "Director, HR Services"
+    },
+    {
+      "name": "Enrique Guitart",
+      "title": "Director of AI"
+    }
+  ],
+  "next_step_notes": "7/11\n\nCompleted intro call with VP of HR Ops and two IT contacts. They want to pilot a tool like Wisq for Tier 0 service delivery. No scheduled next steps yet, but we verbally discussed executing an NDA and scheduling a scoping session. Following up next week. \n\nWill move to SQO once that meeting is scheduled.",
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2026-02-03T19:00:00",
+      "direction": null,
+      "subject": "[Gong] Tarna Daniel and Fraser Aitken | Wisq",
+      "person": "Tarna Daniel",
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2026-02-03T19:00:00",
+      "direction": null,
+      "subject": "Tarna Daniel and Fraser Aitken | Wisq",
+      "person": "Tarna Daniel",
+      "text": "<p>Hey Tarna Daniel,</p><p></p><p>Your meeting with Fraser Aitken | Wisq has been scheduled for 30 minutes at 11:00am (PST) on Tuesday, February 03, 2026.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/82481652811?pwd=U6EjZcxpe3wR1w6abiGnVtqzlhKySd.1\">https://wisq.zoom.us/j/82481652811?pwd=U6EjZcxpe3wR1w6abiGnVtqzlhKySd.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/209693d2-7b06-416c-b268-a14a2fb68831/reschedule\">https://meet.wisq.com/meetings/209693d2-7b06-416c-b268-a14a2fb68831/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/209693d2-7b06-416c-b268-a14a2fb68831/cancel\">https://meet.wisq.com/meetings/209693d2-7b06-416c-b268-a14a2fb68831/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=faitken@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Tarna Daniel\n\ud83d\udcbc Director, HR Services & Compliance @ Panda Restaurant Group | SPHR, SHRM-CP\n\ud83c\udfe2 <a href=\"PandaCareers.com\">Panda Restaurant</a>\n\ud83d\udccd Rosemead, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/tarna-daniel-b09b1670\">Linkedin Profile</a>\n\n\ud83d\udc64 Fraser Aitken\n\ud83d\udcbc NA Sales\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Chicago, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/fraseraitken\">Linkedin Profile"
+    }
+  ]
+}

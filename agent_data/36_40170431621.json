@@ -1,0 +1,26 @@
+{
+  "company": "Altium Packaging",
+  "deal_id": 40170431621,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-12-11 11:07",
+  "last_activity_date": "2025-10-20 12:20",
+  "reengage_score": 60.9,
+  "contacts": [
+    {
+      "name": "Steven Rimmer",
+      "title": "HR Director"
+    }
+  ],
+  "next_step_notes": "8/22\n\nSteven wants to reconnect in early September, working to coordinate dates.\n\n7/13\n\nCompleted intro with Corporate HRD + Sr. Director, HRIS & Shared Services. There is definitely a use case here. Unclear on timing. Sending summary email on Monday to schedule a scoping session.",
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-08-12T13:22:34",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: should we pause this conversation?",
+      "person": "Steven Rimmer",
+      "text": "Hey Alex,\r\n\r\nSorry for not getting back to you.  It\u2019s definitely something that we\u2019re still thinking about, but I think there are a few other things we need to figure out first on our end..  Could we reconnect early September?\r\n\r\nAll the best,\r\n\r\n[cid:image001.png@01DC0B6A.9F8D0390]\r\nSteve Rimmer | Director, HRBP\r\nAltium Packaging\r\n2500 Windy Ridge Parkway SE| Suite 1400| Atlanta, GA 30339\r\nT: 678-529-2029 | C: 518-955-1285\r\nsteven.rimmer@altiumpkg.com<mailto:steven.rimmer@altiumpkg.com>\r\n\r\n[cid:image002.png@01DC0B6A.9F8D0390]\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, August 12, 2025 8:54 AM\r\nTo: Steven Rimmer <Steven.Rimmer@altiumpkg.com>\r\nCc: Aaron Hyatt <Aaron.Hyatt@altiumpkg.com>; Brad McGerald <Brad.McGerald@altiumpkg.com>\r\nSubject: Re: should we pause this conversation?\r"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "company": "Red Bull",
+  "deal_id": 35026837167,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-05-14 10:25",
+  "last_activity_date": "2025-04-09 13:17",
+  "reengage_score": 45.0,
+  "contacts": [
+    {
+      "name": "Kevin Navikas",
+      "title": "VP, People"
+    }
+  ],
+  "next_step_notes": "4/28\n\nProspect has been unresponsive since initial conversation 3.27. Will send break up email this week and close the opportunity if we do not receive response.",
+  "feed": []
+}

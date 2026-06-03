@@ -1,0 +1,17 @@
+{
+  "company": "Barton Malow",
+  "deal_id": 55034943302,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Timing: No Urgency",
+  "close_date": "2026-01-30 17:10",
+  "last_activity_date": "2026-02-04 9:00",
+  "reengage_score": 70.2,
+  "contacts": [
+    {
+      "name": "Samuel Veltri",
+      "title": "Labor Relations Vice President, Human Resources"
+    }
+  ],
+  "next_step_notes": "Nuture no next steps",
+  "feed": []
+}

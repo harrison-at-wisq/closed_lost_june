@@ -1,0 +1,34 @@
+{
+  "company": "Burlington Stores, Inc.",
+  "deal_id": 56272529692,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-03-31 0:05",
+  "last_activity_date": "2026-02-17 10:30",
+  "reengage_score": 62.1,
+  "contacts": [
+    {
+      "name": "James Q. Bryant",
+      "title": "stocker"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2026-02-17T15:30:00",
+      "direction": null,
+      "subject": "[Gong] James Q. Bryant and Alex Macaulay | Wisq",
+      "person": "James Q. Bryant",
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2026-02-17T15:30:00",
+      "direction": null,
+      "subject": "James Q. Bryant and Alex Macaulay | Wisq",
+      "person": "James Q. Bryant",
+      "text": "<p>Hey James Q. Bryant,</p><p></p><p>Your meeting with Alex Macaulay | Wisq has been scheduled for 30 minutes at 10:30am (EST) on Monday, February 16, 2026.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/87909966927?pwd=nzA70UcY4OcwsZ20HfaEJehzpnqmX1.1\">https://wisq.zoom.us/j/87909966927?pwd=nzA70UcY4OcwsZ20HfaEJehzpnqmX1.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/a3475c16-8939-4367-a24f-e7da74c77343/reschedule\">https://meet.wisq.com/meetings/a3475c16-8939-4367-a24f-e7da74c77343/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/a3475c16-8939-4367-a24f-e7da74c77343/cancel\">https://meet.wisq.com/meetings/a3475c16-8939-4367-a24f-e7da74c77343/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=alex@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Allie Pawlowski\n\ud83d\udcbc Receiving/Merchandising\n\ud83c\udfe2 <a href=\"http://www.burlington.com\">Burlington Stores</a>\n\ud83d\udccd Salt Lake City, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/allie-pawlowski-21028019a\">Linkedin Profile</a>\n\n\ud83d\udc64 Alex Macaulay\n\ud83d\udcbc Senior Account Executive\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Atlanta, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/alexmacaulay1\">Linkedin Profile</a>\n<p><stro"
+    }
+  ]
+}

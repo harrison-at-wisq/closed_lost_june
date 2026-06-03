@@ -1,0 +1,377 @@
+[
+  {
+    "deal_id": 42712762239,
+    "company": "Coca-Cola Southwest Beverages",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/00_42712762239.json"
+  },
+  {
+    "deal_id": 43529279117,
+    "company": "Archrock",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/01_43529279117.json"
+  },
+  {
+    "deal_id": 48536407140,
+    "company": "GE Appliances, a Haier company",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/02_48536407140.json"
+  },
+  {
+    "deal_id": 49537642576,
+    "company": "Mohawk Industries",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/03_49537642576.json"
+  },
+  {
+    "deal_id": 41094018077,
+    "company": "Clark Construction Group",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/04_41094018077.json"
+  },
+  {
+    "deal_id": 44896928554,
+    "company": "mSupply",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/05_44896928554.json"
+  },
+  {
+    "deal_id": 49148812041,
+    "company": "The Aaron's Company, Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/06_49148812041.json"
+  },
+  {
+    "deal_id": 37875500320,
+    "company": "PROCEPT BioRobotics",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/07_37875500320.json"
+  },
+  {
+    "deal_id": 47880739944,
+    "company": "Rocket Lab",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/08_47880739944.json"
+  },
+  {
+    "deal_id": 45652160864,
+    "company": "HD Supply",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/09_45652160864.json"
+  },
+  {
+    "deal_id": 54967139221,
+    "company": "Seadrill",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/10_54967139221.json"
+  },
+  {
+    "deal_id": 34687406357,
+    "company": "EG America",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/11_34687406357.json"
+  },
+  {
+    "deal_id": 55034943302,
+    "company": "Barton Malow",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/12_55034943302.json"
+  },
+  {
+    "deal_id": 55031200546,
+    "company": "Sysco",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/13_55031200546.json"
+  },
+  {
+    "deal_id": 40009431597,
+    "company": "SRS Distribution Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/14_40009431597.json"
+  },
+  {
+    "deal_id": 52511634261,
+    "company": "iFIT",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/15_52511634261.json"
+  },
+  {
+    "deal_id": 42409315142,
+    "company": "Haza Foods",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/16_42409315142.json"
+  },
+  {
+    "deal_id": 41078845312,
+    "company": "Entegris",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/17_41078845312.json"
+  },
+  {
+    "deal_id": 49633680388,
+    "company": "Kohl's",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/18_49633680388.json"
+  },
+  {
+    "deal_id": 41797413561,
+    "company": "Perry Homes",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/19_41797413561.json"
+  },
+  {
+    "deal_id": 46902348071,
+    "company": "CHANEL",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/20_46902348071.json"
+  },
+  {
+    "deal_id": 40011181333,
+    "company": "CarMax",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/21_40011181333.json"
+  },
+  {
+    "deal_id": 42491028809,
+    "company": "Pharmavite",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/22_42491028809.json"
+  },
+  {
+    "deal_id": 35681889100,
+    "company": "Mars",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/23_35681889100.json"
+  },
+  {
+    "deal_id": 45315271535,
+    "company": "Fabcon",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/24_45315271535.json"
+  },
+  {
+    "deal_id": 35852454785,
+    "company": "Nolan Transportation Group (NTG)",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/25_35852454785.json"
+  },
+  {
+    "deal_id": 56896863615,
+    "company": "Golden State Foods",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/26_56896863615.json"
+  },
+  {
+    "deal_id": 55212105117,
+    "company": "Panda Restaurant Group",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/27_55212105117.json"
+  },
+  {
+    "deal_id": 37277055366,
+    "company": "Benihana",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/28_37277055366.json"
+  },
+  {
+    "deal_id": 56420621376,
+    "company": "Baker Roofing Company",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/29_56420621376.json"
+  },
+  {
+    "deal_id": 56272529692,
+    "company": "Burlington Stores, Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/30_56272529692.json"
+  },
+  {
+    "deal_id": 46794766917,
+    "company": "Bloom Energy",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/31_46794766917.json"
+  },
+  {
+    "deal_id": 41327669061,
+    "company": "Worldpac",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/32_41327669061.json"
+  },
+  {
+    "deal_id": 55117240935,
+    "company": "Layton Construction",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/33_55117240935.json"
+  },
+  {
+    "deal_id": 51942303536,
+    "company": "Knowles Corporation",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/34_51942303536.json"
+  },
+  {
+    "deal_id": 53902378613,
+    "company": "Mattress Firm",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/35_53902378613.json"
+  },
+  {
+    "deal_id": 40170431621,
+    "company": "Altium Packaging",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/36_40170431621.json"
+  },
+  {
+    "deal_id": 51950779242,
+    "company": "Paul Davis Restoration, Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/37_51950779242.json"
+  },
+  {
+    "deal_id": 52414843968,
+    "company": "AutoZone",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/38_52414843968.json"
+  },
+  {
+    "deal_id": 51020286513,
+    "company": "Dairy Queen",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/39_51020286513.json"
+  },
+  {
+    "deal_id": 51514606674,
+    "company": "Daikin Applied Americas",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/40_51514606674.json"
+  },
+  {
+    "deal_id": 53550519144,
+    "company": "Custom Truck One Source",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/41_53550519144.json"
+  },
+  {
+    "deal_id": 55031439902,
+    "company": "Dakkota Integrated Systems",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/42_55031439902.json"
+  },
+  {
+    "deal_id": 55031194888,
+    "company": "Supermicro",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/43_55031194888.json"
+  },
+  {
+    "deal_id": 55757962052,
+    "company": "Hallmark Cards",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/44_55757962052.json"
+  },
+  {
+    "deal_id": 59186221865,
+    "company": "Enbridge",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/45_59186221865.json"
+  },
+  {
+    "deal_id": 35185527199,
+    "company": "Vast",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/46_35185527199.json"
+  },
+  {
+    "deal_id": 34542648922,
+    "company": "Kum & Go",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/47_34542648922.json"
+  },
+  {
+    "deal_id": 35594905953,
+    "company": "Claire's",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/48_35594905953.json"
+  },
+  {
+    "deal_id": 51015904615,
+    "company": "JM Family Enterprises, Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/49_51015904615.json"
+  },
+  {
+    "deal_id": 46269054601,
+    "company": "American Electric Power",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/50_46269054601.json"
+  },
+  {
+    "deal_id": 37360262213,
+    "company": "IFF",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/51_37360262213.json"
+  },
+  {
+    "deal_id": 51317323682,
+    "company": "CCC Group, Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/52_51317323682.json"
+  },
+  {
+    "deal_id": 44645060213,
+    "company": "Clarios",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/53_44645060213.json"
+  },
+  {
+    "deal_id": 43913601395,
+    "company": "Perry Homes",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/54_43913601395.json"
+  },
+  {
+    "deal_id": 40982045495,
+    "company": "Keolis North America Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/55_40982045495.json"
+  },
+  {
+    "deal_id": 40532923029,
+    "company": "Spreetail",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/56_40532923029.json"
+  },
+  {
+    "deal_id": 40832604977,
+    "company": "ICEYE",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/57_40832604977.json"
+  },
+  {
+    "deal_id": 40984905647,
+    "company": "ABC Fitness",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/58_40984905647.json"
+  },
+  {
+    "deal_id": 38950393271,
+    "company": "Delta Air Lines",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/59_38950393271.json"
+  },
+  {
+    "deal_id": 48942346276,
+    "company": "Cooper Standard",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/60_48942346276.json"
+  },
+  {
+    "deal_id": 35023900244,
+    "company": "TransPak",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/61_35023900244.json"
+  },
+  {
+    "deal_id": 42832759041,
+    "company": "Rexall Pharmacy Group Ltd.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/62_42832759041.json"
+  },
+  {
+    "deal_id": 35026837167,
+    "company": "Red Bull",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/63_35026837167.json"
+  },
+  {
+    "deal_id": 43542981229,
+    "company": "CNH",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/64_43542981229.json"
+  },
+  {
+    "deal_id": 45664147232,
+    "company": "Tractor Supply Company",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/65_45664147232.json"
+  },
+  {
+    "deal_id": 52207250283,
+    "company": "Invenergy",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/66_52207250283.json"
+  },
+  {
+    "deal_id": 49652733085,
+    "company": "BMS CAT",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/67_49652733085.json"
+  },
+  {
+    "deal_id": 39509204272,
+    "company": "Chevron",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/68_39509204272.json"
+  },
+  {
+    "deal_id": 45359052867,
+    "company": "Holiday Inn Club Vacations",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/69_45359052867.json"
+  },
+  {
+    "deal_id": 40011181570,
+    "company": "Restaurant Brands International",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/70_40011181570.json"
+  },
+  {
+    "deal_id": 43708897352,
+    "company": "Sara Lee Food & Beverage",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/71_43708897352.json"
+  },
+  {
+    "deal_id": 41517503857,
+    "company": "Hexion Inc.",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/72_41517503857.json"
+  },
+  {
+    "deal_id": 43576210318,
+    "company": "Vanguard Logistics Services",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/73_43576210318.json"
+  },
+  {
+    "deal_id": 57397077812,
+    "company": "Joby Aviation",
+    "file": "/Users/harrison/Desktop/VSCode Projects/closed_lost_june/agent_data/74_57397077812.json"
+  }
+]

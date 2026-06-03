@@ -1,0 +1,86 @@
+{
+  "company": "Fabcon",
+  "deal_id": 45315271535,
+  "owner": "Marc Lombardo",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-02-05 16:40",
+  "last_activity_date": "2026-01-21 11:11",
+  "reengage_score": 64.0,
+  "contacts": [
+    {
+      "name": "Krissy Alther",
+      "title": "HR Transformation Consultant"
+    },
+    {
+      "name": "Markus Fraund",
+      "title": "VP, People Operations & Innovation"
+    }
+  ],
+  "next_step_notes": "1/12 Reached out to schedule demo as requested in late November ( \"reconnect in the new year\")",
+  "feed": [
+    {
+      "type": "email",
+      "date": "2026-01-21T16:11:42",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Automatic reply: Closing the file",
+      "person": null,
+      "text": "Hi there,\r\nI am currently out of the office on vacation with limited access to email. If you need immediate assitance, please feel free to send an email to: 1_HR_Operations@fabconprecast.com.\r\nKrissy"
+    },
+    {
+      "type": "email",
+      "date": "2025-11-21T22:35:59",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: Closing the file",
+      "person": "Krissy Alther",
+      "text": "[heart]         Krissy Alther reacted to your message:\r\n________________________________\r\nFrom: Marc Lombardo <mlombardo@wisq.com>\r\nSent: Friday, November 21, 2025 6:13:42 PM\r\nTo: Krissy Alther <krissy.alther@fabconprecast.com>\r\nCc: Mitch Udany <mitch.udany@fabconprecast.com>\r\nSubject: Re: Closing the file\r\n\r\nSounds great, thank you.  Have a great holiday season.\r\n\r\nMy best,\r\nMarc\r\n\r\n\r\n[https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2sGjzt45-U_uyqvo8-r_229YnnlvzxZQJaZ5ZAPIbUQKlVxZUhMdyIzYeSeM6wjwOkDNPmmXxOYRBtw8fqepx9wb8rTuZ1HefeBK87fDhd2_pXZT6hc3F7oINqXUBUvBPURakMd-Qso970LZWNx17uHV1?key=yJ3lDqzFFZgZPk6LD-BQ0A]\r\n\r\n\r\nBook time with me!<https://d2yNPn04.na1.hs-sales-engage.com/Ctc/GG+23284/d2yNPn04/Jl22-6qcW7lCdLW6lZ3ltN1mNFSsM8T9PW1ZxNym58k3RHW33dWWZ3QtN5mW32HCS115Pvt-W7jx12m3HyjyKW5nsGB"
+    },
+    {
+      "type": "email",
+      "date": "2025-11-21T17:57:16",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: Closing the file",
+      "person": "Krissy Alther",
+      "text": "Hi Marc,\r\nWe\u2019ve been extremely busy \u2013 so apologies for the delayed reply.\r\nWe will definitely still want a demo, but at this point, thinking we won\u2019t get back around to this until next year.\r\nWe will keep you posted.\r\nThanks.\r\n\r\nFrom: Marc Lombardo <mlombardo@wisq.com>\r\nSent: Thursday, November 20, 2025 3:40 PM\r\nTo: Mitch Udany <mitch.udany@fabconprecast.com>; Krissy Alther <krissy.alther@fabconprecast.com>\r\nSubject: Closing the file\r\n\r\nHi Mitch and Krissy,\r\nI appreciated meeting with you on october 7th and discussing how Wisq can significantly reduce the cost of HR Operations while creating scale, a great user experience, and accuracy in delivery.\r\n\r\nI get the sense that my error of not having a zoom link in our meeting invite on 11/11 may have rubbed you the wrong way and led to you no l"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-11-11T17:45:00",
+      "direction": null,
+      "subject": "[Gong] 45 min demo with Wisq (Krissy Alther)",
+      "person": "Krissy Alther",
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2025-11-11T17:45:00",
+      "direction": null,
+      "subject": "45 min demo with Wisq (Krissy Alther)",
+      "person": "Krissy Alther",
+      "text": "<b>Booked by</b>\nKrissy Alther\nkrissy.alther@fabconprecast.com\n<br>Wisq demo.\u00a0 Zoom link to follow\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=mlombardo@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Krissy Alther\n\ud83d\udcbc HR Transformation Leader (Consultant)\n\ud83c\udfe2 <a href=\"http://www.fabconprecast.com\">Fabcon</a>\n\ud83d\udccd Chicago, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/krissy-alther-882a7b3\">Linkedin Profile</a>\n\n\ud83d\udc64 Marc Lombardo\n\ud83d\udcbc Sr. Account Executive\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Billerica, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/marclombardo\">Linkedin Profile</a>\n<p><strong>// powered by <a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=mlombardo@wisq.com\">amplemarket.com</a></strong></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\n\n"
+    },
+    {
+      "type": "email",
+      "date": "2025-10-10T20:48:02",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: Wisq - Agentic AI for HR",
+      "person": "Krissy Alther",
+      "text": "Hi Marc,\r\nWe did debrief and we will go through the demo but need a few weeks as some higher priority items have come through recently.\r\nI\u2019ll circle back with you when we are ready again.\r\nThanks for your patience and have a great weekend.\r\n\r\nFrom: Marc Lombardo <mlombardo@wisq.com>\r\nSent: Friday, October 10, 2025 11:04 AM\r\nTo: Krissy Alther <krissy.alther@fabconprecast.com>\r\nSubject: Re: Wisq - Agentic AI for HR\r\n\r\nHi Krissy,\r\nI hope you've had a good week.  Did you have a chance to debrief with Mitch to determine if a demo of Harper would make sense?\r\n\r\nThank you for your feedback,\r\nMarc\r\n\r\n\r\n\r\n[https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2sGjzt45-U_uyqvo8-r_229YnnlvzxZQJaZ5ZAPIbUQKlVxZUhMdyIzYeSeM6wjwOkDNPmmXxOYRBtw8fqepx9wb8rTuZ1HefeBK87fDhd2_pXZT6hc3F7oINqXUBUvBPURakMd-Qso970LZW"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-10-07T16:30:00",
+      "direction": null,
+      "subject": "[Gong] Zoom: Krissy Alther and Marc Lombardo | Wisq",
+      "person": "Krissy Alther",
+      "text": "<a href=\"https://us-5622.app.gong.io/call?id=6902292788382063323\" target=\"_blank\">See the call recording and summary.</a><br>Took place on: Tue., Oct. 7, 2025, 9:30 AM PDT, Duration: 47 minutes<br>\n-- Call highlights by Gong --<br><br>Call brief: <br>Marc from Wisq, along with Krissy from Fabcon, discussed Fabcon's HR challenges, including the need to automate repetitive tasks and free up HR teams to focus on more strategic initiatives. Mitch, the Head of HR at Fabcon, expressed interest in Wisq's AI-powered HR assistant, Harper, which could potentially help streamline HR processes and reduce the HR team's workload. Krissy, as a consultant, was evaluating Wisq's solution and pricing, considering Fabcon's cost-saving focus and the potential for a pilot or beta program to test the capabilities before committing to a long-term contract.<br><br>Key Discussion Points:<br>1. Fabcon's HR Challenges: Mitch, Head of HR at Fabcon, aims to automate tier zero and tier one HR tasks to increase efficiency, do more with less, and reduce the administrative burden on HR Business Partners, particularly for their 85% hourly workforce.<br>2. AI Adoption Driver: Mitch is the primary advocate for AI in HR within Fabcon, facing no resistance from leadership, though it's not a company-wide priority.<br>3. Wisq's Harper AI: Marc introduces Harper AI as a specialized, agentic AI for HR, trained with a s"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-10-07T16:30:00",
+      "direction": null,
+      "subject": "Krissy Alther and Marc Lombardo | Wisq",
+      "person": "Krissy Alther",
+      "text": "<p>Hey Krissy Alther,</p><p></p><p>Your meeting with Marc Lombardo | Wisq has been scheduled for 30 minutes at 09:30am (MST) on Tuesday, October 07, 2025.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/84542124129\">https://wisq.zoom.us/j/84542124129</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/7e45be30-314d-4bca-8633-4a56c31640c6/reschedule\">https://meet.wisq.com/meetings/7e45be30-314d-4bca-8633-4a56c31640c6/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/7e45be30-314d-4bca-8633-4a56c31640c6/cancel\">https://meet.wisq.com/meetings/7e45be30-314d-4bca-8633-4a56c31640c6/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=mlombardo@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Krissy Alther\n\ud83d\udcbc HR Transformation Leader (Consultant)\n\ud83c\udfe2 <a href=\"http://www.fabconprecast.com\">Fabcon</a>\n\ud83d\udccd Chicago, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/krissy-alther-882a7b3\">Linkedin Profile</a>\n\n\ud83d\udc64 Marc Lombardo\n\ud83d\udcbc Sr. Account Executive\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Billerica, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/marclombardo\">Linkedin Profile</a>\n<p><strong>// powered by <a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_cam"
+    }
+  ]
+}

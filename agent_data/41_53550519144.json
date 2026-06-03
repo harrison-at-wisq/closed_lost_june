@@ -1,0 +1,17 @@
+{
+  "company": "Custom Truck One Source",
+  "deal_id": 53550519144,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Timing: No Urgency",
+  "close_date": "2026-01-12 10:47",
+  "last_activity_date": null,
+  "reengage_score": 60.0,
+  "contacts": [
+    {
+      "name": "Shawn Richardson",
+      "title": "VP HR and Talent"
+    }
+  ],
+  "next_step_notes": "Not a good lead, but the right title and within our ICP. QM but then Close losts",
+  "feed": []
+}

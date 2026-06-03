@@ -1,0 +1,30 @@
+{
+  "company": "Perry Homes",
+  "deal_id": 41797413561,
+  "owner": "Marc Lombardo",
+  "closed_lost_reason": "Timing: Competing Priorities",
+  "close_date": "2025-12-12 17:14",
+  "last_activity_date": "2025-10-23 13:03",
+  "reengage_score": 66.9,
+  "contacts": [
+    {
+      "name": "Lakeisha Jones",
+      "title": "SVP HR"
+    },
+    {
+      "name": "Layne Browning",
+      "title": "Sr HR Generalist"
+    }
+  ],
+  "next_step_notes": "10/27: They are going to do other \"technology projects\" first and will take a look at this in the spring of 26'",
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-10-06T18:50:59",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq meeting",
+      "person": null,
+      "text": "Hi Marc,\r\n\r\nWe are currently reviewing a few different options. Once we\u2019ve reached a conclusion, we\u2019ll reach back out if Wisq is selected for further review.\r\n\r\n\r\nCatherine Nguyen\r\n\r\nHR Manager\r\n\r\n[Logo]<https://www.perryhomes.com/>\r\n\r\n\r\n\r\nPerry Homes \u2013 Human Resources\r\n\r\nt: 713.577.3517\r\n\r\nCatherine.Nguyen@perryhomes.com<mailto:Catherine.Nguyen@perryhomes.com@perryhomes.com>\r\n\r\n3200 Southwest Fwy, Ste 2800, Houston, TX 77027\r\n\r\nPerryHomes.com<http://perryhomes.com/>\r\n\r\n[facebook icon]<https://www.facebook.com/perryhomes/> [linkedin icon] <https://www.linkedin.com/company/perry-homes/>  [youtube icon] <https://www.youtube.com/user/PerryHomesTexas>  [instagram icon] <https://www.instagram.com/perryhomestexas/?hl=en>\r\n\r\n\r\n\r\n[cid:580173ee-5098-444c-ab1a-1dc59ebdc2f1]\r\n\r\n\r\n\r\n__________________"
+    }
+  ]
+}

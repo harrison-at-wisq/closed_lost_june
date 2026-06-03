@@ -1,0 +1,29 @@
+{
+  "company": "Dakkota Integrated Systems",
+  "deal_id": 55031439902,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Timing: Competing Priorities",
+  "close_date": "2026-01-30 12:52",
+  "last_activity_date": null,
+  "reengage_score": 60.0,
+  "contacts": [
+    {
+      "name": "Kieran Carr",
+      "title": "Director of Talent Acquisition"
+    },
+    {
+      "name": "Diana Styles",
+      "title": "Chief Human Resources Officer"
+    },
+    {
+      "name": "Michelle Hayes",
+      "title": "Vice President, Employee Relations"
+    },
+    {
+      "name": "None None",
+      "title": null
+    }
+  ],
+  "next_step_notes": "Nurture - looking at AI for TA then for HR team",
+  "feed": []
+}

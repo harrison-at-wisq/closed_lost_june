@@ -1,0 +1,34 @@
+{
+  "company": "Baker Roofing Company",
+  "deal_id": 56420621376,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-04-03 0:05",
+  "last_activity_date": "2026-02-17 13:00",
+  "reengage_score": 62.1,
+  "contacts": [
+    {
+      "name": "Justin Boyles",
+      "title": "VP"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2026-02-17T18:00:00",
+      "direction": null,
+      "subject": "[Gong] Zoom: Wisq & Baker Roofing",
+      "person": "Justin Boyles",
+      "text": "<a href=\"https://us-5622.app.gong.io/call?id=6445691109446789555\" target=\"_blank\">See the call recording and summary.</a><br>Took place on: Tue., Feb. 17, 2026, 1:00 PM EST, Duration: 31 minutes<br>\n-- Call highlights by Gong --<br><br>Call brief: <br>Alex from Wisq, along with Justin from Baker Roofing, discussed how Wisq's AI-powered HR agent, Harper, can streamline HR processes, improve employee experience, and offload routine tasks for Baker Roofing's large, diverse workforce. Key highlights included Harper's ability to handle complex queries like leave requests and performance management, its integration capabilities with systems like ADP, and its potential to reduce HR workload and enhance compliance. Both parties agreed to follow up in six months to assess progress and further explore Wisq's evolving AI features.<br><br>Key Discussion Points:<br>1. Customer Context: Justin Boyles, VP of Payroll and Performance at Baker Roofing (a 1,000-employee roofing contractor), is exploring AI solutions for HR as he prepares to take over the HR mantle, aiming to modernize their operations.<br>2. Current HR Challenges: Baker Roofing recently consolidated to ADP as their HCM system, but employees still struggle with finding specific policy information (e.g., maternity leave, PTO) and managers lack formalized guidance for performance or attendance issues, often relying on direct HR cont"
+    },
+    {
+      "type": "meeting",
+      "date": "2026-02-17T18:00:00",
+      "direction": null,
+      "subject": "Wisq & Baker Roofing",
+      "person": "Justin Boyles",
+      "text": "<p>Hey Justin Boyles,</p><p></p><p>Your meeting with Alex Macaulay | Wisq has been scheduled for 30 minutes at 01:00pm (EST) on Tuesday, February 17, 2026.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/87525218004?pwd=HkmO9gRE7G8Gl6NYf973bGhIT7HGMq.1\">https://wisq.zoom.us/j/87525218004?pwd=HkmO9gRE7G8Gl6NYf973bGhIT7HGMq.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/000ea66e-1844-42e6-8d76-b7ac16da2ad7/reschedule\">https://meet.wisq.com/meetings/000ea66e-1844-42e6-8d76-b7ac16da2ad7/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/000ea66e-1844-42e6-8d76-b7ac16da2ad7/cancel\">https://meet.wisq.com/meetings/000ea66e-1844-42e6-8d76-b7ac16da2ad7/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=alex@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Hannah Burton\n\ud83d\udcbc Elearning Specialist\n\ud83c\udfe2 <a href=\"http://bakerroofing.com/\">Baker Roofing Company</a>\n\ud83d\udccd Raleigh, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/hannah-grace-burton\">Linkedin Profile</a>\n\n\ud83d\udc64 Justin Boyles\n\ud83d\udcbc VP of Recruiting & Training\n\ud83c\udfe2 <a href=\"http://bakerroofing.com/\">Baker Roofing Company</a>\n\ud83d\udccd Chapel Hill, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/justin-boyles-shrm-scp-601ba519"
+    }
+  ]
+}

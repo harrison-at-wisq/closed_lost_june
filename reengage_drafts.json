@@ -1,0 +1,752 @@
+[
+  {
+    "deal_id": 42712762239,
+    "company": "Coca-Cola Southwest Beverages",
+    "contact_first_name": "Shelley",
+    "ae_first_name": "Alex",
+    "conversation_month": "November 2025",
+    "pause_reason": "2025 priorities made it tough to move forward, and the timing just wasn't right to take on something new",
+    "subject": "circling back from our chat in November",
+    "email_body": "Shelley, you spoke with my colleague, Alex, back in November 2025.\nSounded like 2025 priorities made it tough to move forward, and the timing just wasn't right to take on something new.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 43529279117,
+    "company": "Archrock",
+    "contact_first_name": "Fernanda",
+    "ae_first_name": "Marc",
+    "conversation_month": "January 2026",
+    "pause_reason": "the team was heads-down working through your internal AI framework and weighing some in-house options at the same time",
+    "subject": "circling back from our chat in January",
+    "email_body": "Fernanda, you spoke with my colleague, Marc, back in January 2026.\nSounded like the team was heads-down working through your internal AI framework and weighing some in-house options at the same time.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 48536407140,
+    "company": "GE Appliances, a Haier company",
+    "contact_first_name": "Ken",
+    "ae_first_name": "Alex",
+    "conversation_month": "December 2025",
+    "pause_reason": "the corporate budget decision didn't land the way everyone was hoping",
+    "subject": "circling back from our chat in December",
+    "email_body": "Ken, you spoke with my colleague, Alex, back in December 2025.\nSounded like the corporate budget decision didn't land the way everyone was hoping.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 49537642576,
+    "company": "Mohawk Industries",
+    "contact_first_name": "Jason",
+    "ae_first_name": "Alex",
+    "conversation_month": "November 2025",
+    "pause_reason": "things went quiet after the holidays before you two could reconnect",
+    "subject": "circling back from our chat in November",
+    "email_body": "Jason, you spoke with my colleague, Alex, back in November 2025.\nSounded like things went quiet after the holidays before you two could reconnect.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 41094018077,
+    "company": "Clark Construction Group",
+    "contact_first_name": "Chris",
+    "ae_first_name": "Alex",
+    "conversation_month": "September 2025",
+    "pause_reason": "the ServiceNow and Workday optimization projects had your team's hands full",
+    "subject": "circling back from our chat in September",
+    "email_body": "Chris, you spoke with my colleague, Alex, back in September 2025.\nSounded like the ServiceNow and Workday optimization projects had your team's hands full.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 44896928554,
+    "company": "mSupply",
+    "contact_first_name": "Kate",
+    "ae_first_name": "Marc",
+    "conversation_month": "December 2025",
+    "pause_reason": "the pricing and contract length were tough to justify while your budget was still being finalized",
+    "subject": "circling back from your chat in December",
+    "email_body": "Kate, you spoke with my colleague, Marc, back in December 2025.\nSounded like the pricing and contract length were tough to justify while your budget was still being finalized.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 49148812041,
+    "company": "The Aaron's Company, Inc.",
+    "contact_first_name": "Donnice",
+    "ae_first_name": "Alex",
+    "conversation_month": "December 2025",
+    "pause_reason": "the post-holiday rush kept things busy before the demo could get on the calendar",
+    "subject": "circling back from our chat in december",
+    "email_body": "Donnice, you spoke with my colleague, Alex, back in December 2025.\nSounded like the post-holiday rush kept things busy before the demo could get on the calendar.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 37875500320,
+    "company": "PROCEPT BioRobotics",
+    "contact_first_name": "Sudha",
+    "ae_first_name": "Alex",
+    "conversation_month": "March 2026",
+    "pause_reason": "the Workday rollout and new CEO transition had the team's full attention",
+    "subject": "circling back from our chat in March",
+    "email_body": "Sudha, you spoke with my colleague, Alex, back in March 2026.\nSounded like the Workday rollout and new CEO transition had the team's full attention.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 47880739944,
+    "company": "Rocket Lab",
+    "contact_first_name": "Connie",
+    "ae_first_name": "Marc",
+    "conversation_month": "November 2025",
+    "pause_reason": "the AOP planning cycle and exec alignment took priority before things could move forward",
+    "subject": "circling back from our chat in november",
+    "email_body": "Connie, you spoke with my colleague, Marc, back in November 2025.\nSounded like the AOP planning cycle and exec alignment took priority before things could move forward.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 45652160864,
+    "company": "HD Supply",
+    "contact_first_name": "Sarah",
+    "ae_first_name": "Fraser",
+    "conversation_month": "November 2025",
+    "pause_reason": "the timing wasn't quite right and things weren't urgent enough to move forward",
+    "subject": "circling back from our chat in November",
+    "email_body": "Sarah, you spoke with my colleague, Fraser, back in November 2025.\nSounded like the timing wasn't quite right and things weren't urgent enough to move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 54967139221,
+    "company": "Seadrill",
+    "contact_first_name": "Joni",
+    "ae_first_name": "Alex",
+    "conversation_month": "February 2026",
+    "pause_reason": "some urgent priorities came up right after your Oracle Fusion go-live and the timing wasn't right to move forward",
+    "subject": "circling back from our chat in February",
+    "email_body": "Joni, you spoke with my colleague, Alex, back in February 2026.\nSounded like some urgent priorities came up right after your Oracle Fusion go-live and the timing wasn't right to move forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 34687406357,
+    "company": "EG America",
+    "contact_first_name": "Kieran",
+    "ae_first_name": "Alex",
+    "conversation_month": "February 2026",
+    "pause_reason": "rebuilding the HR team after the leadership transition had everyone stretched thin",
+    "subject": "circling back from our chat in February",
+    "email_body": "Kieran, you spoke with my colleague, Alex, back in February 2026.\nSounded like rebuilding the HR team after the leadership transition had everyone stretched thin.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55034943302,
+    "company": "Barton Malow",
+    "contact_first_name": "Samuel",
+    "ae_first_name": "Fraser",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing just wasn't quite right to move forward",
+    "subject": "circling back from our chat in January",
+    "email_body": "Samuel, you spoke with my colleague, Fraser, back in January 2026.\nSounded like the timing just wasn't quite right to move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55031200546,
+    "company": "Sysco",
+    "contact_first_name": "Trey",
+    "ae_first_name": "Fraser",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing wasn't quite right while you and the team were still working through the HRIS evaluation",
+    "subject": "circling back from our chat in January",
+    "email_body": "Trey, you spoke with my colleague, Fraser, back in January 2026.\nSounded like the timing wasn't quite right while you and the team were still working through the HRIS evaluation.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40009431597,
+    "company": "SRS Distribution Inc.",
+    "contact_first_name": "Kiran",
+    "ae_first_name": "Alex",
+    "conversation_month": "September 2025",
+    "pause_reason": "the GMS acquisition and competing internal priorities had your team's attention pulled in a lot of directions at once",
+    "subject": "circling back from our chat in September",
+    "email_body": "Kiran, you spoke with my colleague, Alex, back in September 2025.\nSounded like the GMS acquisition and competing internal priorities had your team's attention pulled in a lot of directions at once.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 52511634261,
+    "company": "iFIT",
+    "contact_first_name": "Andy",
+    "ae_first_name": "Alex",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing wasn't quite right given iFIT's current headcount",
+    "subject": "circling back from our chat in January",
+    "email_body": "Andy, you spoke with my colleague, Alex, back in January 2026.\nSounded like the timing wasn't quite right given iFIT's current headcount.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 42409315142,
+    "company": "Haza Foods",
+    "contact_first_name": "Stephen",
+    "ae_first_name": "Alex",
+    "conversation_month": "October 2025",
+    "pause_reason": "you were still early in your AI evaluation and the timing wasn't quite right to move forward",
+    "subject": "circling back from our chat in October",
+    "email_body": "Stephen, you spoke with my colleague, Alex, back in October 2025.\nSounded like you were still early in your AI evaluation and the timing wasn't quite right to move forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 41078845312,
+    "company": "Entegris",
+    "contact_first_name": "Abhijeet",
+    "ae_first_name": "Alex",
+    "conversation_month": "September 2025",
+    "pause_reason": "things got busy while your team was still mapping out the HR roadmap and the timing slipped away",
+    "subject": "circling back from our conversation in September",
+    "email_body": "Abhijeet, you spoke with my colleague, Alex, back in September 2025.\nSounded like things got busy while your team was still mapping out the HR roadmap and the timing slipped away.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 49633680388,
+    "company": "Kohl's",
+    "contact_first_name": "Brian",
+    "ae_first_name": "Fraser",
+    "conversation_month": "December 2025",
+    "pause_reason": "the timing wasn't quite right with competing priorities pulling your team in different directions",
+    "subject": "circling back from our chat in December",
+    "email_body": "Brian, you spoke with my colleague, Fraser, back in December 2025.\nSounded like the timing wasn't quite right with competing priorities pulling your team in different directions.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 41797413561,
+    "company": "Perry Homes",
+    "contact_first_name": "Catherine",
+    "ae_first_name": "Marc",
+    "conversation_month": "October 2025",
+    "pause_reason": "other technology projects had the team's full attention and the timing wasn't quite right",
+    "subject": "circling back from our chat in October",
+    "email_body": "Catherine, you spoke with my colleague, Marc, back in October 2025.\nSounded like other technology projects had the team's full attention and the timing wasn't quite right.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 46902348071,
+    "company": "CHANEL",
+    "contact_first_name": "Michelle",
+    "ae_first_name": "Alex",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing just wasn't quite right and things got busy on your end",
+    "subject": "circling back from our chat in January",
+    "email_body": "Michelle, you spoke with my colleague, Alex, back in January 2026.\nSounded like the timing just wasn't quite right and things got busy on your end.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40011181333,
+    "company": "CarMax",
+    "contact_first_name": "Whitney",
+    "ae_first_name": "Alex",
+    "conversation_month": "July 2025",
+    "pause_reason": "things were still early and the AI Committee review was just getting started",
+    "subject": "circling back from our chat in July",
+    "email_body": "Whitney, you spoke with my colleague, Alex, back in July 2025.\nSounded like things were still early and the AI Committee review was just getting started.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 42491028809,
+    "company": "Pharmavite",
+    "contact_first_name": "Jennifer",
+    "ae_first_name": "Marc",
+    "conversation_month": "December 2025",
+    "pause_reason": "your team was working through a broader company AI strategy before committing to next steps",
+    "subject": "circling back from our chat in December",
+    "email_body": "Jennifer, you spoke with my colleague, Marc, back in December 2025.\nSounded like your team was working through a broader company AI strategy before committing to next steps.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 35681889100,
+    "company": "Mars",
+    "contact_first_name": "Jessica",
+    "ae_first_name": "Alex",
+    "conversation_month": "May 2025",
+    "pause_reason": "the team was still mapping out which AR processes to prioritize for AI before moving forward",
+    "subject": "circling back from your chat with Alex in May",
+    "email_body": "Jessica, you spoke with my colleague, Alex, back in May 2025.\nSounded like the team was still mapping out which AR processes to prioritize for AI before moving forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 45315271535,
+    "company": "Fabcon",
+    "contact_first_name": "Krissy",
+    "ae_first_name": "Marc",
+    "conversation_month": "November 2025",
+    "pause_reason": "things got busy and the timing pushed the demo to the new year",
+    "subject": "circling back from our chat in November",
+    "email_body": "Krissy, you spoke with my colleague, Marc, back in November 2025.\nSounded like things got busy and the timing pushed the demo to the new year.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 35852454785,
+    "company": "Nolan Transportation Group (NTG)",
+    "contact_first_name": "Christie",
+    "ae_first_name": "Alex",
+    "conversation_month": "August 2025",
+    "pause_reason": "NTG was sorting out how Wisq would fit into the broader AI roadmap alongside other vendor work happening across the org",
+    "subject": "circling back from our chat in august",
+    "email_body": "Christie, you spoke with my colleague, Alex, back in August 2025.\nSounded like NTG was sorting out how Wisq would fit into the broader AI roadmap alongside other vendor work happening across the org.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 56896863615,
+    "company": "Golden State Foods",
+    "contact_first_name": "Ken",
+    "ae_first_name": "Fraser",
+    "conversation_month": "March 2026",
+    "pause_reason": "things got busy after the demo and the timing wasn't quite right to move forward",
+    "subject": "circling back from our chat in March",
+    "email_body": "Ken, you spoke with my colleague, Fraser, back in March 2026.\nSounded like things got busy after the demo and the timing wasn't quite right to move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55212105117,
+    "company": "Panda Restaurant Group",
+    "contact_first_name": "Tarna",
+    "ae_first_name": "Fraser",
+    "conversation_month": "February 2026",
+    "pause_reason": "things got busy and the timing wasn't quite right to move forward",
+    "subject": "circling back from your chat with Fraser in February",
+    "email_body": "Tarna, you spoke with my colleague, Fraser, back in February 2026.\nSounded like things got busy and the timing wasn't quite right to move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 37277055366,
+    "company": "Benihana",
+    "contact_first_name": "Crystal",
+    "ae_first_name": "Alex",
+    "conversation_month": "May 2025",
+    "pause_reason": "competing priorities pulled the team's focus away before you could get to the next step",
+    "subject": "circling back from our chat in may",
+    "email_body": "Crystal, you spoke with my colleague, Alex, back in May 2025.\nSounded like competing priorities pulled the team's focus away before you could get to the next step.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 56420621376,
+    "company": "Baker Roofing Company",
+    "contact_first_name": "Justin",
+    "ae_first_name": "Alex",
+    "conversation_month": "February 2026",
+    "pause_reason": "you two agreed to reconnect in six months while you settled into the HR role and the ADP consolidation got underway",
+    "subject": "circling back from your chat in February",
+    "email_body": "Justin, you spoke with my colleague, Alex, back in February 2026.\nSounded like you two agreed to reconnect in six months while you settled into the HR role and the ADP consolidation got underway.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 56272529692,
+    "company": "Burlington Stores, Inc.",
+    "contact_first_name": "James",
+    "ae_first_name": "Alex",
+    "conversation_month": "February 2026",
+    "pause_reason": "things got busy and the timing just didn't work out after your initial chat",
+    "subject": "circling back from your chat in february",
+    "email_body": "James, you spoke with my colleague, Alex, back in February 2026.\nSounded like things got busy and the timing just didn't work out after your initial chat.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 46794766917,
+    "company": "Bloom Energy",
+    "contact_first_name": "there",
+    "ae_first_name": "Marc",
+    "conversation_month": "November 2025",
+    "pause_reason": "the timing got away from everyone heading into the holidays",
+    "subject": "circling back from our chat in november",
+    "email_body": "Hi there, you spoke with my colleague, Marc, back in November 2025.\nSounded like the timing got away from everyone heading into the holidays.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 41327669061,
+    "company": "Worldpac",
+    "contact_first_name": "Christina",
+    "ae_first_name": "Alex",
+    "conversation_month": "August 2025",
+    "pause_reason": "the timing just wasn't quite right to move forward",
+    "subject": "circling back from our chat in August",
+    "email_body": "Christina, you spoke with my colleague, Alex, back in August 2025.\nSounded like the timing just wasn't quite right to move forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55117240935,
+    "company": "Layton Construction",
+    "contact_first_name": "there",
+    "ae_first_name": "Marc",
+    "conversation_month": "January 2026",
+    "pause_reason": "navigating parent company approval made it hard to move a project forward at the time",
+    "subject": "circling back from our chat in January",
+    "email_body": "Hi there, you spoke with my colleague, Marc, back in January 2026.\nSounded like navigating parent company approval made it hard to move a project forward at the time.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 51942303536,
+    "company": "Knowles Corporation",
+    "contact_first_name": "Andrea",
+    "ae_first_name": "Fraser",
+    "conversation_month": "December 2025",
+    "pause_reason": "things got busy heading into the new year and the timing slipped away",
+    "subject": "circling back from our chat in december",
+    "email_body": "Andrea, you spoke with my colleague, Fraser, back in December 2025.\nSounded like things got busy heading into the new year and the timing slipped away.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 53902378613,
+    "company": "Mattress Firm",
+    "contact_first_name": "Danielle",
+    "ae_first_name": "Alex",
+    "conversation_month": "January 2026",
+    "pause_reason": "your team was heads-down on a separate AI initiative and wanted to wrap that up before exploring new tools",
+    "subject": "circling back from our chat in January",
+    "email_body": "Danielle, you spoke with my colleague, Alex, back in January 2026.\nSounded like your team was heads-down on a separate AI initiative and wanted to wrap that up before exploring new tools.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40170431621,
+    "company": "Altium Packaging",
+    "contact_first_name": "Steven",
+    "ae_first_name": "Alex",
+    "conversation_month": "August 2025",
+    "pause_reason": "a few internal things needed to get sorted out first before the timing was right",
+    "subject": "circling back from our chat in August",
+    "email_body": "Steven, you spoke with my colleague, Alex, back in August 2025.\nSounded like a few internal things needed to get sorted out first before the timing was right.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 51950779242,
+    "company": "Paul Davis Restoration, Inc.",
+    "contact_first_name": "James",
+    "ae_first_name": "Alex",
+    "conversation_month": "January 2026",
+    "pause_reason": "things got difficult following the loss of Paul Davis's CEO and the timing wasn't right to move forward",
+    "subject": "circling back from our chat in January",
+    "email_body": "James, you spoke with my colleague, Alex, back in January 2026.\nSounded like things got difficult following the loss of Paul Davis's CEO and the timing wasn't right to move forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 52414843968,
+    "company": "AutoZone",
+    "contact_first_name": "Coriana",
+    "ae_first_name": "Alex",
+    "conversation_month": "December 2025",
+    "pause_reason": "things got busy heading into the new year and the timing slipped away",
+    "subject": "circling back from your chat with Alex in December",
+    "email_body": "Coriana, you spoke with my colleague, Alex, back in December 2025.\nSounded like things got busy heading into the new year and the timing slipped away.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 51020286513,
+    "company": "Dairy Queen",
+    "contact_first_name": "there",
+    "ae_first_name": "Marc",
+    "conversation_month": "December 2025",
+    "pause_reason": "the timing just wasn't quite right for the team to move forward",
+    "subject": "circling back from Marc's chat in December",
+    "email_body": "Hi there, you spoke with my colleague, Marc, back in December 2025.\nSounded like the timing just wasn't quite right for the team to move forward.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 51514606674,
+    "company": "Daikin Applied Americas",
+    "contact_first_name": "there",
+    "ae_first_name": "Fraser",
+    "conversation_month": "December 2025",
+    "pause_reason": "the timing just wasn't quite right to move things forward",
+    "subject": "circling back from our chat in december",
+    "email_body": "Hi there, you spoke with my colleague, Fraser, back in December 2025.\nSounded like the timing just wasn't quite right to move things forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 53550519144,
+    "company": "Custom Truck One Source",
+    "contact_first_name": "Shawn",
+    "ae_first_name": "Fraser",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing just wasn't quite right to move forward",
+    "subject": "circling back from our chat in January",
+    "email_body": "Shawn, you spoke with my colleague, Fraser, back in January 2026.\nSounded like the timing just wasn't quite right to move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55031439902,
+    "company": "Dakkota Integrated Systems",
+    "contact_first_name": "Diana",
+    "ae_first_name": "Fraser",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing wasn't quite right with competing priorities pulling the team in different directions",
+    "subject": "circling back from our chat in January",
+    "email_body": "Diana, you spoke with my colleague, Fraser, back in January 2026.\nSounded like the timing wasn't quite right with competing priorities pulling the team in different directions.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55031194888,
+    "company": "Supermicro",
+    "contact_first_name": "Michelle",
+    "ae_first_name": "Fraser",
+    "conversation_month": "January 2026",
+    "pause_reason": "the timing just wasn't quite right to move forward",
+    "subject": "circling back from our chat in January",
+    "email_body": "Michelle, you spoke with my colleague, Fraser, back in January 2026.\nSounded like the timing just wasn't quite right to move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 55757962052,
+    "company": "Hallmark Cards",
+    "contact_first_name": "there",
+    "ae_first_name": "Fraser",
+    "conversation_month": "February 2026",
+    "pause_reason": "the timing wasn't quite right and the focus was on trimming costs rather than adding new tools",
+    "subject": "circling back from our chat in February",
+    "email_body": "Hi there, you spoke with my colleague, Fraser, back in February 2026.\nSounded like the timing wasn't quite right and the focus was on trimming costs rather than adding new tools.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 59186221865,
+    "company": "Enbridge",
+    "contact_first_name": "Alexis",
+    "ae_first_name": "Fraser",
+    "conversation_month": "April 2026",
+    "pause_reason": "the timing just wasn't quite right when you connected",
+    "subject": "circling back from your chat with Fraser in April",
+    "email_body": "Alexis, you spoke with my colleague, Fraser, back in April 2026.\nSounded like the timing just wasn't quite right when you connected.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 35185527199,
+    "company": "Vast",
+    "contact_first_name": "Jacob",
+    "ae_first_name": "Alex",
+    "conversation_month": "April 2025",
+    "pause_reason": "things got busy and the timing just wasn't quite right to move things forward",
+    "subject": "circling back from our chat in April",
+    "email_body": "Jacob, you spoke with my colleague, Alex, back in April 2025.\nSounded like things got busy and the timing just wasn't quite right to move things forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 34542648922,
+    "company": "Kum & Go",
+    "contact_first_name": "Kim",
+    "ae_first_name": "Alex",
+    "conversation_month": "April 2025",
+    "pause_reason": "pulling together the HR data took longer than expected and things got busy",
+    "subject": "circling back from your chat in april",
+    "email_body": "Kim, you spoke with my colleague, Alex, back in April 2025.\nSounded like pulling together the HR data took longer than expected and things got busy.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 35594905953,
+    "company": "Claire's",
+    "contact_first_name": "Charlotte",
+    "ae_first_name": "Alex",
+    "conversation_month": "April 2025",
+    "pause_reason": "getting CPO buy-in on where it would fit was the next hurdle and that piece hadn't quite landed yet",
+    "subject": "circling back from our chat in April",
+    "email_body": "Charlotte, you spoke with my colleague, Alex, back in April 2025.\nSounded like getting CPO buy-in on where it would fit was the next hurdle and that piece hadn't quite landed yet.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 51015904615,
+    "company": "JM Family Enterprises, Inc.",
+    "contact_first_name": "Jay",
+    "ae_first_name": "Marc",
+    "conversation_month": "December 2025",
+    "pause_reason": "the timing got tied up in budget planning at year-end",
+    "subject": "circling back from our chat in december",
+    "email_body": "Jay, you spoke with my colleague, Marc, back in December 2025.\nSounded like the timing got tied up in budget planning at year-end.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 46269054601,
+    "company": "American Electric Power",
+    "contact_first_name": "Julie",
+    "ae_first_name": "Fraser",
+    "conversation_month": "December 2025",
+    "pause_reason": "things got hectic toward year-end and the timing just wasn't quite right",
+    "subject": "circling back from our chat in December",
+    "email_body": "Julie, you spoke with my colleague, Fraser, back in December 2025.\nSounded like things got hectic toward year-end and the timing just wasn't quite right.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 37360262213,
+    "company": "IFF",
+    "contact_first_name": "Sheena",
+    "ae_first_name": "Alex",
+    "conversation_month": "September 2025",
+    "pause_reason": "some leadership changes had your team working through internal priorities, with an enterprise-wide solution taking the front seat",
+    "subject": "circling back from our chat in September",
+    "email_body": "Sheena, you spoke with my colleague, Alex, back in September 2025.\nSounded like some leadership changes had your team working through internal priorities, with an enterprise-wide solution taking the front seat.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 51317323682,
+    "company": "CCC Group, Inc.",
+    "contact_first_name": "there",
+    "ae_first_name": "Alex",
+    "conversation_month": "December 2025",
+    "pause_reason": "the timing just wasn't quite right to move things forward",
+    "subject": "circling back from our chat in December",
+    "email_body": "there, you spoke with my colleague, Alex, back in December 2025.\nSounded like the timing just wasn't quite right to move things forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 44645060213,
+    "company": "Clarios",
+    "contact_first_name": "Beth",
+    "ae_first_name": "Fraser",
+    "conversation_month": "October 2025",
+    "pause_reason": "things got busy after you had to reschedule and it slipped through the cracks",
+    "subject": "circling back from our chat in October",
+    "email_body": "Beth, you spoke with my colleague, Fraser, back in October 2025.\nSounded like things got busy after you had to reschedule and it slipped through the cracks.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 43913601395,
+    "company": "Perry Homes",
+    "contact_first_name": "Catherine",
+    "ae_first_name": "Marc",
+    "conversation_month": "October 2025",
+    "pause_reason": "you were mid-evaluation across a few different vendors and wanted to see how that process played out",
+    "subject": "circling back from our chat in October",
+    "email_body": "Catherine, you spoke with my colleague, Marc, back in October 2025.\nSounded like you were mid-evaluation across a few different vendors and wanted to see how that process played out.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40982045495,
+    "company": "Keolis North America Inc.",
+    "contact_first_name": "Robert",
+    "ae_first_name": "Alex",
+    "conversation_month": "August 2025",
+    "pause_reason": "things got busy and the timing just wasn't right to move forward",
+    "subject": "circling back from our chat in August",
+    "email_body": "Robert, you spoke with my colleague, Alex, back in August 2025.\nSounded like things got busy and the timing just wasn't right to move forward.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40532923029,
+    "company": "Spreetail",
+    "contact_first_name": "Jen",
+    "ae_first_name": "Alex",
+    "conversation_month": "July 2025",
+    "pause_reason": "you were mid-Freshdesk implementation and wanted to get that live before taking the next step with Wisq",
+    "subject": "circling back from our chat in july",
+    "email_body": "Jen, you spoke with my colleague, Alex, back in July 2025.\nSounded like you were mid-Freshdesk implementation and wanted to get that live before taking the next step with Wisq.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40832604977,
+    "company": "ICEYE",
+    "contact_first_name": "Laura",
+    "ae_first_name": "Alex",
+    "conversation_month": "August 2025",
+    "pause_reason": "things got busy right as pricing landed, and the timing slipped away",
+    "subject": "circling back from our chat in August",
+    "email_body": "Laura, you spoke with my colleague, Alex, back in August 2025.\nSounded like things got busy right as pricing landed, and the timing slipped away.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40984905647,
+    "company": "ABC Fitness",
+    "contact_first_name": "Markus",
+    "ae_first_name": "Alex",
+    "conversation_month": "August 2025",
+    "pause_reason": "the budget didn't come through when it needed to",
+    "subject": "circling back from your chat with Alex in August",
+    "email_body": "Markus, you spoke with my colleague, Alex, back in August 2025.\nSounded like the budget didn't come through when it needed to.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 38950393271,
+    "company": "Delta Air Lines",
+    "contact_first_name": "Brent",
+    "ae_first_name": "Alex",
+    "conversation_month": "September 2025",
+    "pause_reason": "the timing and feature fit weren't quite aligned with where Delta's roadmap was heading",
+    "subject": "circling back from our chat in September",
+    "email_body": "Brent, you spoke with my colleague, Alex, back in September 2025.\nSounded like the timing and feature fit weren't quite aligned with where Delta's roadmap was heading.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 48942346276,
+    "company": "Cooper Standard",
+    "contact_first_name": "there",
+    "ae_first_name": "Fraser",
+    "conversation_month": "November 2025",
+    "pause_reason": "the timing wasn't quite right to get full stakeholder alignment",
+    "subject": "circling back from our chat in November",
+    "email_body": "Hi there, you spoke with my colleague, Fraser, back in November 2025.\nSounded like the timing wasn't quite right to get full stakeholder alignment.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 35023900244,
+    "company": "TransPak",
+    "contact_first_name": "Annya",
+    "ae_first_name": "Alex",
+    "conversation_month": "April 2025",
+    "pause_reason": "things just got busy and the timing wasn't quite right",
+    "subject": "circling back from our chat in April",
+    "email_body": "Annya, you spoke with my colleague, Alex, back in April 2025.\nSounded like things just got busy and the timing wasn't quite right.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 42832759041,
+    "company": "Rexall Pharmacy Group Ltd.",
+    "contact_first_name": "Tunde",
+    "ae_first_name": "Marc",
+    "conversation_month": "September 2025",
+    "pause_reason": "the investment wasn't in the cards at the time",
+    "subject": "circling back from our chat in September",
+    "email_body": "Tunde, you spoke with my colleague, Marc, back in September 2025.\nSounded like the investment wasn't in the cards at the time.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 35026837167,
+    "company": "Red Bull",
+    "contact_first_name": "Kevin",
+    "ae_first_name": "Alex",
+    "conversation_month": "March 2025",
+    "pause_reason": "the timing wasn't quite right after your initial conversation",
+    "subject": "circling back from our chat in March",
+    "email_body": "Kevin, you spoke with my colleague, Alex, back in March 2025.\nSounded like the timing wasn't quite right after your initial conversation.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 43542981229,
+    "company": "CNH",
+    "contact_first_name": "Michelle",
+    "ae_first_name": "Fraser",
+    "conversation_month": "September 2025",
+    "pause_reason": "the conversation got routed to a different part of the organization before things could move forward",
+    "subject": "circling back from Fraser's conversation in September",
+    "email_body": "Michelle, you spoke with my colleague, Fraser, back in September 2025.\nSounded like the conversation got routed to a different part of the organization before things could move forward.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 45664147232,
+    "company": "Tractor Supply Company",
+    "contact_first_name": "Michael",
+    "ae_first_name": "Fraser",
+    "conversation_month": "October 2025",
+    "pause_reason": "the conversation didn't quite land with the right people at the time",
+    "subject": "circling back from our chat in October",
+    "email_body": "Michael, you spoke with my colleague, Fraser, back in October 2025.\nSounded like the conversation didn't quite land with the right people at the time.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 52207250283,
+    "company": "Invenergy",
+    "contact_first_name": "there",
+    "ae_first_name": "Fraser",
+    "conversation_month": "December 2025",
+    "pause_reason": "the timing wasn't quite right",
+    "subject": "circling back from our chat in December",
+    "email_body": "Hi there, you spoke with my colleague, Fraser, back in December 2025.\nSounded like the timing wasn't quite right.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 49652733085,
+    "company": "BMS CAT",
+    "contact_first_name": "Joyce",
+    "ae_first_name": "Marc",
+    "conversation_month": "December 2025",
+    "pause_reason": "the integration fit wasn't quite there at the time",
+    "subject": "circling back from our chat in December",
+    "email_body": "Joyce, you spoke with my colleague, Marc, back in December 2025.\nSounded like the integration fit wasn't quite there at the time.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 39509204272,
+    "company": "Chevron",
+    "contact_first_name": "there",
+    "ae_first_name": "Alex",
+    "conversation_month": "June 2025",
+    "pause_reason": "things got put on hold amid the reorg and team changes",
+    "subject": "circling back from our conversation last summer",
+    "email_body": "There, you spoke with my colleague, Alex, back in June 2025.\nSounded like things got put on hold amid the reorg and team changes.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 45359052867,
+    "company": "Holiday Inn Club Vacations",
+    "contact_first_name": "Erin",
+    "ae_first_name": "Marc",
+    "conversation_month": "October 2025",
+    "pause_reason": "the team was in cost-containment mode and the timing just wasn't right",
+    "subject": "circling back from our chat in October",
+    "email_body": "Erin, you spoke with my colleague, Marc, back in October 2025.\nSounded like the team was in cost-containment mode and the timing just wasn't right.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 40011181570,
+    "company": "Restaurant Brands International",
+    "contact_first_name": "Tarna",
+    "ae_first_name": "Alex",
+    "conversation_month": "February 2026",
+    "pause_reason": "things never quite found a natural next step after the initial conversations",
+    "subject": "circling back from the chat in February",
+    "email_body": "Tarna, you spoke with my colleague, Alex, back in February 2026.\nSounded like things never quite found a natural next step after the initial conversations.\nAlex let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 43708897352,
+    "company": "Sara Lee Food & Beverage",
+    "contact_first_name": "Terra",
+    "ae_first_name": "Fraser",
+    "conversation_month": "October 2025",
+    "pause_reason": "the timing wasn't quite right \u2014 the platform felt like a step ahead of where things were at internally",
+    "subject": "circling back from our chat in October",
+    "email_body": "Terra, you spoke with my colleague, Fraser, back in October 2025.\nSounded like the timing wasn't quite right \u2014 the platform felt like a step ahead of where things were at internally.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 41517503857,
+    "company": "Hexion Inc.",
+    "contact_first_name": "Sheila",
+    "ae_first_name": "Marc",
+    "conversation_month": "August 2025",
+    "pause_reason": "the budget got tight and the timing just wasn't there",
+    "subject": "circling back from our chat in August",
+    "email_body": "Sheila, you spoke with my colleague, Marc, back in August 2025.\nSounded like the budget got tight and the timing just wasn't there.\nMarc let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 43576210318,
+    "company": "Vanguard Logistics Services",
+    "contact_first_name": "Peter",
+    "ae_first_name": "Fraser",
+    "conversation_month": "September 2025",
+    "pause_reason": "the timing wasn't quite right for where the team was at",
+    "subject": "circling back from our chat in September",
+    "email_body": "Peter, you spoke with my colleague, Fraser, back in September 2025.\nSounded like the timing wasn't quite right for where the team was at.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  },
+  {
+    "deal_id": 57397077812,
+    "company": "Joby Aviation",
+    "contact_first_name": "there",
+    "ae_first_name": "Fraser",
+    "conversation_month": "March 2026",
+    "pause_reason": "the timing wasn't quite right as the team was still building toward the maturity level where Wisq would be the right fit",
+    "subject": "circling back from our chat in March",
+    "email_body": "There, you spoke with my colleague, Fraser, back in March 2026.\nSounded like the timing wasn't quite right as the team was still building toward the maturity level where Wisq would be the right fit.\nFraser let me know you two had a great conversation and asked me to check back in to see if it might be better timing now.\nWould you have any time in June to reconnect?"
+  }
+]

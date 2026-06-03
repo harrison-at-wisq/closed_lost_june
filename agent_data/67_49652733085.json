@@ -1,0 +1,17 @@
+{
+  "company": "BMS CAT",
+  "deal_id": 49652733085,
+  "owner": "Marc Lombardo",
+  "closed_lost_reason": "Product Misalignment: Lack of Integrations",
+  "close_date": "2025-12-12 17:35",
+  "last_activity_date": "2025-12-03 13:18",
+  "reengage_score": 44.2,
+  "contacts": [
+    {
+      "name": "Joyce Stock",
+      "title": "VPHR"
+    }
+  ],
+  "next_step_notes": "12/1: Need a scoping call to determine if we can integrate with their systems",
+  "feed": []
+}

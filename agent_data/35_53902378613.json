@@ -1,0 +1,58 @@
+{
+  "company": "Mattress Firm",
+  "deal_id": 53902378613,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-03-02 0:04",
+  "last_activity_date": "2026-01-30 14:00",
+  "reengage_score": 60.9,
+  "contacts": [
+    {
+      "name": "Danielle Deprey",
+      "title": "VP, Human Resources"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2026-01-30T19:00:00",
+      "direction": null,
+      "subject": "[Gong] Wisq & Mattress Firm",
+      "person": null,
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2026-01-30T19:00:00",
+      "direction": null,
+      "subject": "Wisq & Mattress Firm",
+      "person": "Danielle Deprey",
+      "text": "<p>Hey Danielle Deprey,</p><p></p><p>Your meeting with Alex Macaulay | Wisq has been scheduled for 30 minutes at 11:30am (CST) on Monday, January 26, 2026.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/84027601953?pwd=auGgAMxfge2le3W65tVip64nLn6VWD.1\">https://wisq.zoom.us/j/84027601953?pwd=auGgAMxfge2le3W65tVip64nLn6VWD.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/b8523551-f588-466e-b86b-e4c7108d6b1a/reschedule\">https://meet.wisq.com/meetings/b8523551-f588-466e-b86b-e4c7108d6b1a/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/b8523551-f588-466e-b86b-e4c7108d6b1a/cancel\">https://meet.wisq.com/meetings/b8523551-f588-466e-b86b-e4c7108d6b1a/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=alex@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Danielle Deprey\n\ud83d\udcbc Vice President Human Resources\n\ud83c\udfe2 <a href=\"https://www.mattressfirm.com/\">Mattress Firm</a>\n\ud83d\udccd Milwaukee, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/danielle-deprey-shrm-cp\">Linkedin Profile</a>\n\n\ud83d\udc64 Alex Macaulay\n\ud83d\udcbc Senior Account Executive\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Atlanta, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/alexmacaulay1\">Linkedin Profile</a>\n<p><stron"
+    },
+    {
+      "type": "email",
+      "date": "2026-01-26T22:48:31",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: [EXTERNAL] Re: Wisq - meeting",
+      "person": "Danielle Deprey",
+      "text": "Got it- yes- sorry for forgetting!\r\n\r\nI am actually going to postpone the call for the time being. We are currently working on an AI project in a different HR area and until we get through that, I would like to wait on exploring other AI tools.\r\n\r\nThank you,\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Monday, January 26, 2026 2:01 PM\r\nTo: Danielle Deprey <Danielle.Deprey@MFRM.com>\r\nSubject: Re: [EXTERNAL] Re: Wisq - meeting\r\n\r\nHi Danielle \u2014 you had reached out to schedule time with Wisq (possibly over LinkedIn from our \"champagne campaign\") and I had to shift our original slot due to travel. Wisq is an AI HR Generalist that helps HR teams scale service delivery.\r\n\r\nHappy to reschedule if it\u2019s still of interest.\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Mon, Ja"
+    },
+    {
+      "type": "email",
+      "date": "2026-01-26T19:51:06",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: [EXTERNAL] Re: Wisq - meeting",
+      "person": "Danielle Deprey",
+      "text": "Alex-\r\n\r\nWhat is this regarding?\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Monday, January 26, 2026 1:50 PM\r\nTo: Danielle Deprey <Danielle.Deprey@MFRM.com>\r\nSubject: [EXTERNAL] Re: Wisq - meeting\r\n\r\nIt looks like we may need to find a new time on Friday 1/30.\r\n\r\nWould you have availability between 10am - 3pm ET? Happy to look at the week of February 2nd if helpful as well.\r\n\r\n\r\nBest,\r\nAlex\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Thu, Jan 22, 2026 at 12:27\u202fPM Alex Macaulay <alex@wisq.com<mailto:alex@wisq.com>> wrote:\r\nDanielle,\r\n\r\nThanks for reaching out, I'm looking forward to connecting with you.\r\n\r\nFor some reason my calendar didn't update to reflect that I'll be on a plane for the majority of Monday heading to an offsite. Apologies for the inconvenience"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: [EXTERNAL] Re: Wisq - meeting",
+      "person": "Danielle Deprey",
+      "text": "Hi Danielle \u2014 you had reached out to schedule time with Wisq (possibly over\r\nLinkedIn from our \"champagne campaign\") and I had to shift our original\r\nslot due to travel. Wisq is an AI HR Generalist that helps HR teams scale\r\nservice delivery.\r\n\r\nHappy to reschedule if it\u2019s still of interest.\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Mon, Jan 26, 2026 at 2:51\u202fPM Danielle Deprey <Danielle.Deprey@mfrm.com>\r\nwrote:\r\n\r\n> Alex-\r\n>\r\n>\r\n>\r\n> What is this regarding?\r\n>\r\n>\r\n>\r\n> Danielle Deprey\r\n>\r\n> VP Human Resources\r\n>\r\n> O. 346.718.5413\r\n>\r\n> www.mattressfirm.com\r\n>\r\n> We make sleep easy\u2122\r\n>\r\n> [image: MostLovedWorkplace]\r\n>\r\n> This electronic mail (including any attachments) may contain information\r\n> that is privileged, confidential, and/or otherwise protect"
+    }
+  ]
+}

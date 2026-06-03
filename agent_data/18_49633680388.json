@@ -1,0 +1,17 @@
+{
+  "company": "Kohl's",
+  "deal_id": 49633680388,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Timing: Competing Priorities",
+  "close_date": "2025-12-19 10:08",
+  "last_activity_date": "2025-12-19 10:08",
+  "reengage_score": 67.0,
+  "contacts": [
+    {
+      "name": "Brian Banas",
+      "title": "Vice President, Human Resources"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": []
+}

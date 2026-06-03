@@ -1,0 +1,34 @@
+{
+  "company": "iFIT",
+  "deal_id": 52511634261,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Timing: No Urgency",
+  "close_date": "2026-01-15 8:48",
+  "last_activity_date": "2026-01-13 9:38",
+  "reengage_score": 68.7,
+  "contacts": [
+    {
+      "name": "Andy Stevens",
+      "title": "EVP, CHRO"
+    }
+  ],
+  "next_step_notes": "Following up with Andy to determine if a deeper dive with his team is warranted. Exploration mode.",
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2026-01-08T18:00:00",
+      "direction": null,
+      "subject": "[Gong] Zoom: Wisq & iFIT",
+      "person": null,
+      "text": "<a href=\"https://us-5622.app.gong.io/call?id=3138909278841078192\" target=\"_blank\">See the call recording and summary.</a><br>Took place on: Thu., Jan. 8, 2026, 1:00 PM EST, Duration: 21 minutes<br>\n-- Call highlights by Gong --<br><br>Call brief: <br>Alex from Wisq, along with Andy from iFIT, discussed the potential for Wisq's AI-powered HR solution to streamline iFIT's HR processes, but Andy believes iFIT is currently too small to justify the investment, though he is interested in revisiting the idea as the company grows. Alex offered a future case study and reconnection when the timing is more appropriate for iFIT.\n<br><br>Key Discussion Points:<br>1. Meeting Purpose: Alex outlines the introductory call's purpose: high-level discussion, understanding iFIT's needs, and sharing Wisq's vision for potential alignment.<br>2. iFIT's AI Strategy: Andy explains iFIT has 30 company-wide AI initiatives, including migrating call centers to AI, but HR has not yet adopted AI.<br>3. Wisq's HR Solution: Alex describes Wisq's focus on AI for HR service delivery, aiming to provide scalable and cost-effective support for employee requests and processes.<br>4. Headcount Justification: Andy questions if iFIT's 1,000 employees generate enough HR volume to justify an AI investment, suggesting human staff might be more cost-effective at their current size.<br>5. Wisq's Client Scale: Alex clarifies "
+    },
+    {
+      "type": "meeting",
+      "date": "2026-01-08T18:00:00",
+      "direction": null,
+      "subject": "Wisq & iFIT",
+      "person": "Andy Stevens",
+      "text": "<p>Hey Andy Stevens,</p><p></p><p>Your meeting with Alex Macaulay | Wisq has been scheduled for 30 minutes at 10:00am (PST) on Thursday, January 08, 2026.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/83748347433?pwd=a21akwbmS59rBpW8V3nnDRWCKUNH1I.1\">https://wisq.zoom.us/j/83748347433?pwd=a21akwbmS59rBpW8V3nnDRWCKUNH1I.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/4efe5c04-276f-448c-9ac5-aa3f085a776f/reschedule\">https://meet.wisq.com/meetings/4efe5c04-276f-448c-9ac5-aa3f085a776f/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/4efe5c04-276f-448c-9ac5-aa3f085a776f/cancel\">https://meet.wisq.com/meetings/4efe5c04-276f-448c-9ac5-aa3f085a776f/cancel</a></p>"
+    }
+  ]
+}

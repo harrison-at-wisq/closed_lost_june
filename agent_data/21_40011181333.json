@@ -1,0 +1,17 @@
+{
+  "company": "CarMax",
+  "deal_id": 40011181333,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-08-20 13:50",
+  "last_activity_date": null,
+  "reengage_score": 66.0,
+  "contacts": [
+    {
+      "name": "Whitney Pinna",
+      "title": null
+    }
+  ],
+  "next_step_notes": "7/11\n\nCompleted intro call with AVP HR Transformation and Operations. Still very early but she will be bringing Wisq to their AI Committee to determine if there's enough interest to warrant an evaluation. Will follow up next week.",
+  "feed": []
+}

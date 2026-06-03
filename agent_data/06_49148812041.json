@@ -1,0 +1,42 @@
+{
+  "company": "The Aaron's Company, Inc.",
+  "deal_id": 49148812041,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-02-04 12:24",
+  "last_activity_date": "2026-01-20 10:28",
+  "reengage_score": 75.2,
+  "contacts": [
+    {
+      "name": "Donnice Chubbs",
+      "title": "Director, Compensation"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-12-22T17:51:31",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: Wisq & Aaron's",
+      "person": "Donnice Chubbs",
+      "text": "Hi Alex,\r\n\r\nThanks for following up.  During our call, we shared details regarding Aaron\u2019s but didn\u2019t have a chance to see a demo of Wisq capabilities specific to HR/Compensation.  Early January will be super busy for us, hopefully we can get a demo on the calendar soon.\r\n\r\nHappy Holidays to you and yours!\r\nDonnice\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Monday, December 22, 2025 12:01 PM\r\nTo: Chubbs, Donnice <donnice.chubbs@aarons.com>\r\nSubject: Re: Wisq & Aaron's\r\n\r\nEXTERNAL EMAIL - This email was sent by a person from outside your organization. Exercise caution when clicking links, opening attachments or taking further action, before validating its authenticity.\r\nSecured by Check Point <https://www.checkpoint.com/harmony/email-security/email-office?friew>\r\n\r\nHi Donnice,\r\n\r\nI wante"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-11-19T18:00:00",
+      "direction": null,
+      "subject": "[Gong] Zoom: Wisq & Aaron's - Intro",
+      "person": null,
+      "text": "<a href=\"https://us-5622.app.gong.io/call?id=8532859345715128194\" target=\"_blank\">See the call recording and summary.</a><br>Took place on: Wed., Nov. 19, 2025, 1:00 PM EST, Duration: 31 minutes<br>\n-- Call highlights by Gong --<br><br>Call brief: <br>Alex from Wisq, along with Donnice from Aaron's, discussed the potential of Wisq's AI platform, Harper, to automate HR tasks, specifically within compensation, to address staffing shortages and increasing plan complexity. Donnice expressed interest in a more in-depth demo tailored to Aaron's specific use cases, with a focus on company-wide pricing and potential implementation timelines, and requested information on Wisq's customer base.\n<br><br>Key Discussion Points:<br>1. Donnice's Role: Donnice is responsible for all compensation programs at Aaron's, including base pay, 58 incentive plans, AIP, and executive compensation, across Aaron's and BrandSmart.<br>2. AI Interest: She is interested in Wisq's Harper AI to help with basic, repetitive employee questions like \"When is the next paycheck?\" or \"What plan am I on?\" to gain efficiency.<br>3. Current HR Process: Employees currently access published HR information via a \"one HR\" landing page and the company intranet, or contact their manager/HR representative directly.<br>4. HR Structure: Aaron's HR is delineated with field HR for store roles and corporate HR for the Store Support C"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-11-19T18:00:00",
+      "direction": null,
+      "subject": "Wisq & Aaron's - Intro",
+      "person": "Donnice Chubbs",
+      "text": "<p>Hey Donnice Chubbs,</p><p></p><p>Your meeting with Alex Macaulay | Wisq has been scheduled for 30 minutes at 01:00pm (EST) on Wednesday, November 19, 2025.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/81160960162?pwd=ae72u6nXzsZz2eN9ebCOMTZahXEOqP.1\">https://wisq.zoom.us/j/81160960162?pwd=ae72u6nXzsZz2eN9ebCOMTZahXEOqP.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/ad4455f7-231e-45d1-ad35-48f2989c83ad/reschedule\">https://meet.wisq.com/meetings/ad4455f7-231e-45d1-ad35-48f2989c83ad/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/ad4455f7-231e-45d1-ad35-48f2989c83ad/cancel\">https://meet.wisq.com/meetings/ad4455f7-231e-45d1-ad35-48f2989c83ad/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=alex@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Donnice Chubbs\n\ud83d\udcbc Director, Compensation\n\ud83c\udfe2 <a href=\"http://www.aarons.com\">The Aaron's Company</a>\n\ud83d\udccd United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/donnice-chubbs-ccp-shrm-cp-194b2644\">Linkedin Profile</a>\n\n\ud83d\udc64 Alex Macaulay\n\ud83d\udcbc Senior Account Executive\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Atlanta, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/alexmacaulay1\">Linkedin Profile</a>\n<p><strong>// po"
+    }
+  ]
+}

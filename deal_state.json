@@ -1,0 +1,142 @@
+{
+  "42712762239": {
+    "stage": "Not Started",
+    "dq": {
+      "reason": "Not Ready",
+      "note": "Alex just followed up"
+    }
+  },
+  "43529279117": {
+    "stage": "Not Started",
+    "dq": {
+      "reason": "Not Ready",
+      "note": "Follow up in Oct"
+    }
+  },
+  "48536407140": {
+    "stage": "Attempting Contact",
+    "dq": null,
+    "contacts": {
+      "alt-1445f75f": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Sylvia",
+        "lastname": "Tamez",
+        "title": "Human Resources Director",
+        "email": "sylvia.tamez@geappliances.com",
+        "linkedin": "https://www.linkedin.com/sales/lead/ACwAAAfCP-kBySKwyREBVhJbOJf3uRxkhvw1w1g,NAME_SEARCH,wALj?_ntb=%2B0hpNiEgRKWIdO1rX5ytoA%3D%3D"
+      },
+      "alt-560fd04b": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Laura",
+        "lastname": "Meyer",
+        "title": "HR Director",
+        "email": "laura.meyer@geappliances.com",
+        "linkedin": ""
+      },
+      "alt-89e7a096": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Rocki",
+        "lastname": "Rockingham",
+        "title": "CHRO",
+        "email": "rocki.rockingham@geappliances.com",
+        "linkedin": ""
+      },
+      "alt-8afeb944": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Lauren",
+        "lastname": "Bevilaqua",
+        "title": "HR Director",
+        "email": "lauren.bevilaqua@geappliances.com",
+        "linkedin": ""
+      },
+      "alt-cf5a5e18": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Andrea",
+        "lastname": "Pollard",
+        "title": "",
+        "email": "andrea.pollard@geappliances.com",
+        "linkedin": "Sr. Director HR"
+      },
+      "c164988765555": {
+        "contacted": true
+      }
+    }
+  },
+  "49537642576": {
+    "stage": "Not Started",
+    "dq": null,
+    "contacts": {
+      "alt-51838352": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Molly",
+        "lastname": "Cleary",
+        "title": "Sr. Director HR",
+        "email": "molly_cleary@mohawkind.com",
+        "linkedin": ""
+      },
+      "alt-c250fb33": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Nikki",
+        "lastname": "Robinson",
+        "title": "Sr. Director HR",
+        "email": "nikki_robinson@mohawkind.com",
+        "linkedin": ""
+      },
+      "alt-dd20c41e": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Jaime",
+        "lastname": "Colon",
+        "title": " Vice President Human Resources",
+        "email": "jaime_colon@mohawkind.com",
+        "linkedin": ""
+      },
+      "c176735117372": {
+        "contacted": true
+      }
+    }
+  },
+  "41094018077": {
+    "stage": "Not Started",
+    "dq": null,
+    "contacts": {
+      "alt-d847d871": {
+        "isAlternate": true,
+        "contacted": true,
+        "firstname": "Mark",
+        "lastname": "Hamberlin",
+        "title": "CPO & EVP",
+        "email": "mark.hamberlin@clarkconstruction.com",
+        "linkedin": ""
+      },
+      "alt-f814a33d": {
+        "isAlternate": true,
+        "contacted": false,
+        "firstname": "Robert",
+        "lastname": "Klein",
+        "title": "VP HR",
+        "email": "robert.klein@clarkconstruction.com",
+        "linkedin": ""
+      },
+      "alt-7ee70b7e": {
+        "isAlternate": true,
+        "contacted": false,
+        "firstname": "Ana",
+        "lastname": "Timmons",
+        "title": "DDirector HR",
+        "email": "ana.timmons@clarkconstruction.com",
+        "linkedin": ""
+      },
+      "c5260551": {
+        "contacted": true
+      }
+    }
+  }
+}

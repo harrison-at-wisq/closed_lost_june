@@ -1,0 +1,17 @@
+{
+  "company": "Golden State Foods",
+  "deal_id": 56896863615,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-03-31 13:21",
+  "last_activity_date": "2026-03-09 22:05",
+  "reengage_score": 63.5,
+  "contacts": [
+    {
+      "name": "Ken Mance",
+      "title": "Global Vp of HR"
+    }
+  ],
+  "next_step_notes": "3/2 Demo with the logistics team",
+  "feed": []
+}

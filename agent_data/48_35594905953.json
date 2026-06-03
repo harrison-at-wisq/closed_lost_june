@@ -1,0 +1,17 @@
+{
+  "company": "Claire's",
+  "deal_id": 35594905953,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-05-01 9:05",
+  "last_activity_date": "2025-04-16 8:35",
+  "reengage_score": 57.9,
+  "contacts": [
+    {
+      "name": "Charlotte Byrnes",
+      "title": "Recruitment Business Partner"
+    }
+  ],
+  "next_step_notes": "4/28\n\nProspect unresponsive. CPO would need to green light further evaluation, but doesn't seem to be prioritizing this type of project. Will attempt to follow up with our primary stakeholders one more time before closing this opportunity.\n\nAM 4/21: good conversation with contact who handles Europe HR. CPO doesn't seem that engaged - didn't grok where it would fit in. \nNext step is to reach back out to director of HR who reports to CPO. Goal would be to get green light from CPO to evaluate.",
+  "feed": []
+}

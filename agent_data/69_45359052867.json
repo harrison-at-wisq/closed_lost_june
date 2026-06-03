@@ -1,0 +1,26 @@
+{
+  "company": "Holiday Inn Club Vacations",
+  "deal_id": 45359052867,
+  "owner": "Marc Lombardo",
+  "closed_lost_reason": "Pricing: Budget Cut",
+  "close_date": "2025-10-22 10:10",
+  "last_activity_date": "2025-10-21 16:43",
+  "reengage_score": 40.7,
+  "contacts": [
+    {
+      "name": "Erin Booth",
+      "title": "SVP - HR"
+    }
+  ],
+  "next_step_notes": "10/10 - Liked the introduction to Harper, was up front about the cost constraints and I fear pricing will not work for them.  Awaiting their internal debrief and determination if they want to see a demo.",
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-10-21T20:39:25",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: Wisq Information",
+      "person": "Erin Booth",
+      "text": "Hello Marc.  It was such a pleasure meeting with you, and we really enjoyed being introduced to Harper \u2014 what an innovative concept!  At this point, though, we\u2019re in a cost-containment mode and don\u2019t have the resources to take on new implementations. While we see the value in what Wisq offers, it\u2019s just not the right time for us.\r\nWe truly appreciate the conversation and wish you continued success.\r\nBest,\r\nErin\r\n\r\nFrom: Marc Lombardo <mlombardo@wisq.com>\r\nSent: Tuesday, October 21, 2025 3:47 PM\r\nTo: Garcia, Daisy <DGarcia@holidayinnclub.com>; Booth, Erin <EBooth@holidayinnclub.com>\r\nSubject: Re: Wisq Information\r\n\r\nHi Erin and Daisy,\r\nI wanted to follow up on our meeting on 10/10.  Did you have a chance to debrief and determine if a demo makes sense?  Here is a link to my calendar<https://"
+    }
+  ]
+}

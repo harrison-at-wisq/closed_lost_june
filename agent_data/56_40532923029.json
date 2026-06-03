@@ -1,0 +1,34 @@
+{
+  "company": "Spreetail",
+  "deal_id": 40532923029,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-07-29 8:28",
+  "last_activity_date": "2025-07-29 11:07",
+  "reengage_score": 53.0,
+  "contacts": [
+    {
+      "name": "Melissa Baird",
+      "title": "Sr. Manager, HR Operations"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-07-29T15:07:32",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: Wisq Demo - talk soon!",
+      "person": "Melissa Baird",
+      "text": "Hi Alex! We are in process of trying to get Freshdesk implemented and looking at the Wisq platform as a secondary step once we are up and running. Can we circle back with each other in early October? If something moves faster and we are ready before then, I\u2019ll let you know.\r\n\r\nThanks,\r\n\r\nJen\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, July 29, 2025 7:28 AM\r\nTo: Melissa Baird <melissa.baird@spreetail.com>; Billye Merritts <billye.merritts@spreetail.com>; Jen Clemens <jen.clemens@spreetail.com>\r\nSubject: Re: Wisq Demo - talk soon!\r\n\r\nYou don't often get email from alex@wisq.com<mailto:alex@wisq.com>. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>\r\nHi Team,\r\n\r\nIf it\u2019s still of interest, I\u2019d be happy to schedule a deeper dive into the Wisq platform the we"
+    },
+    {
+      "type": "email",
+      "date": "2025-07-29T12:28:25",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Automatic reply: Wisq Demo - talk soon!",
+      "person": null,
+      "text": "I am currently out of the office.\r\n\r\nIf you have an immediate need, please reach out to hr@spreetail.com for urgent needs, otherwise I will respond upon my return."
+    }
+  ]
+}

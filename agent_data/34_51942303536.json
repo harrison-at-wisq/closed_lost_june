@@ -1,0 +1,50 @@
+{
+  "company": "Knowles Corporation",
+  "deal_id": 51942303536,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-02-03 10:25",
+  "last_activity_date": "2026-02-03 13:00",
+  "reengage_score": 61.2,
+  "contacts": [
+    {
+      "name": "Andrea Schafer",
+      "title": "HR Director"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": [
+    {
+      "type": "meeting",
+      "date": "2026-02-03T18:00:00",
+      "direction": null,
+      "subject": "[Gong] Wisq | Knowles",
+      "person": null,
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2026-02-03T18:00:00",
+      "direction": null,
+      "subject": "Wisq | Knowles",
+      "person": null,
+      "text": "Hi Andrea, \n\n\nSince I haven\u2019t heard back after your Wisq demo request before the new year, I put down 30 mins for us next week to share how other HR teams are winning with agentic AI.\n\nAs a quick refresher: Harper, our AI HR generalist, helps automate policy Q&, HR transactions, and other time-consuming admin tasks.\u00a0\n\nIf this time (Tues 2/3 at 10am PST) doesn\u2019t work, feel free to move it to something that does."
+    },
+    {
+      "type": "meeting",
+      "date": "2025-12-19T14:30:00",
+      "direction": null,
+      "subject": "[Gong] Andrea Schafer and Fraser Aitken | Wisq",
+      "person": "Andrea Schafer",
+      "text": ""
+    },
+    {
+      "type": "meeting",
+      "date": "2025-12-19T14:30:00",
+      "direction": null,
+      "subject": "Andrea Schafer and Fraser Aitken | Wisq",
+      "person": "Andrea Schafer",
+      "text": "<p>Hey Andrea Schafer,</p><p></p><p>Your meeting with Fraser Aitken | Wisq has been scheduled for 30 minutes at 08:30am (CST) on Friday, December 19, 2025.</p><p>You can use the link below to join: <a href=\"https://wisq.zoom.us/j/85011960293?pwd=bf0Ayuc352dw7OjMZmjC57kHaR6m9F.1\">https://wisq.zoom.us/j/85011960293?pwd=bf0Ayuc352dw7OjMZmjC57kHaR6m9F.1</a>.</p><p></p><p>Use this link if you want to re-schedule: <a href=\"https://meet.wisq.com/meetings/053a5e0f-5223-4744-9ed7-90969dbc8f68/reschedule\">https://meet.wisq.com/meetings/053a5e0f-5223-4744-9ed7-90969dbc8f68/reschedule</a></p><p></p><p>Use this link if you want to cancel: <a href=\"https://meet.wisq.com/meetings/053a5e0f-5223-4744-9ed7-90969dbc8f68/cancel\">https://meet.wisq.com/meetings/053a5e0f-5223-4744-9ed7-90969dbc8f68/cancel</a></p>\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c<p><strong>Attendee Info \u2014 powered by </strong><a href=\"https://amplemarket.com/?utm_source=cal_enrich&utm_campaign=faitken@wisq.com\"><strong>amplemarket.com</strong></a></p>\n\ud83d\udc64 Andrea Schafer\n\ud83d\udcbc Regional Human Resources Director\n\ud83c\udfe2 <a href=\"http://www.knowlescapacitors.com\">Knowles Precision Devices</a>\n\ud83d\udccd San Diego, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/andrea-schafer-0088259\">Linkedin Profile</a>\n\n\ud83d\udc64 Fraser Aitken\n\ud83d\udcbc NA Sales\n\ud83c\udfe2 <a href=\"http://www.wisq.com\">Wisq</a>\n\ud83d\udccd Chicago, United States\n\ud83d\udd17 <a href=\"https://www.linkedin.com/in/fraseraitken\">Linkedin Profile</a>\n<p><str"
+    }
+  ]
+}

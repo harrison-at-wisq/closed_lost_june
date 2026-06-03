@@ -1,0 +1,17 @@
+{
+  "company": "CNH",
+  "deal_id": 43542981229,
+  "owner": "Fraser Aitken",
+  "closed_lost_reason": "Wrong Point of Contact",
+  "close_date": "2025-09-11 10:37",
+  "last_activity_date": null,
+  "reengage_score": 44.3,
+  "contacts": [
+    {
+      "name": "Michelle Agnew",
+      "title": "Head of Development, Engagement, Diversity, Culture"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": []
+}

@@ -1,0 +1,26 @@
+{
+  "company": "JM Family Enterprises, Inc.",
+  "deal_id": 51015904615,
+  "owner": "Marc Lombardo",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-12-17 16:37",
+  "last_activity_date": "2025-12-12 17:16",
+  "reengage_score": 57.5,
+  "contacts": [
+    {
+      "name": "Jay Graff",
+      "title": "Employee Experience Director, Digital"
+    }
+  ],
+  "next_step_notes": "12/2 - In budgeting discussions - wants to reconnect in mid- Dec; not sure there is urgency here",
+  "feed": [
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Declined: Wisq & JM Family",
+      "person": "Jay Graff",
+      "text": "No worries, 11:30am ET next Friday works. Just updated the calendar invite.\r\n\r\nHave a wonderful weekend,\r\nHarrison\r\n\r\nOn Fri, Nov 7, 2025 at 8:26\u202fAM Jay Graff <Jay.Graff@jmfamily.com> wrote:\r\n\r\n> Hi Harrison, Sorry for the same day cancellation. Please move this to next\r\n> Friday. I am open at 10:30 and 11:30 eastern time. Thanks and have a great\r\n> weekend! Jay This e-mail transmission contains information intended only\r\n> for the use of the recipient(s) named above. Further, it contains\r\n> information that may be privileged and confidential. If you are not the\r\n> intended recipient, you are hereby notified that any dissemination,\r\n> distribution, or copying of this message (including any attachments) is\r\n> strictly prohibited. If you have received this e-mail in error, please\r\n> notify t"
+    }
+  ]
+}

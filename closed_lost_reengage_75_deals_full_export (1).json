@@ -1,0 +1,2373 @@
+{
+  "export_metadata": {
+    "exported_at": "2026-05-22",
+    "source": "HubSpot CRM - Wisq Portal (21694412)",
+    "purpose": "Closed Lost Re-Engage Campaign - May 2026 - Deskless",
+    "total_deals": 75,
+    "total_emails_captured": 541,
+    "total_meetings_captured": 143,
+    "data_included": [
+      "Deal properties (name, stage, close date, amount, owner, closed lost reason, next step notes, analytics source, days to close, note counts)",
+      "CSV context (company domain, industry, employee count, last activity, full next step history)",
+      "Associated contacts (name, email, title, phone, company)",
+      "Email activities (subject, timestamp, direction, sender, body preview)",
+      "Meeting records (title, start/end time, Gong call summaries)"
+    ],
+    "total_contacts_captured": 70
+  },
+  "deals": [
+    {
+      "deal_name": "PROCEPT BioRobotics - 750 EE",
+      "hubspot_deal_id": 37875500320,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/37875500320",
+      "csv_data": {
+        "close_date": "2026-04-06 11:17",
+        "deal_owner": "Alex Macaulay",
+        "amount": "85000",
+        "company_domain": "procept-biorobotics.com",
+        "create_date": "2025-05-23 14:44",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-03-23 16:44",
+        "next_step_notes": "9/11\n\nProcept is in a bit of a limbo, their new CEO started 9/2 and they are in the process of a Workday implementation which is consuming bandwidth. Planning to reach out again once I am back from leave. \n\n8/22\n\nDeep dive with CHRO scheduled with CHRO on 8.29. Clayton supporting.\n\n8/15\n\nPresented pricing to CHRO 8/5 which was well received. Their new CEO starts in September which is an unknown factor at this point. \n\nNext steps - scoping and technical call booked for 8/19. Goal is to have due diligence nearly complete when CEO starts so Procept can be ready to move if they get the green light. \n\n\n8/1\n\nMeeting scheduled with CHRO to discuss pricing and prioritize use cases.\n\n7/13\n\nCompleted a combination of intro/demo for their CHRO on 7/10. CHRO is very interested in a broad array of Wisq use cases. CHRO wants to proactively send a few key use cases in advance to see how we could support them. \n\n\n7/3\n\nDemo with CHRO on 7/10\n\n6/9\n\nCall scheduled with CHRO on 7/10",
+        "company_name": "PROCEPT BioRobotics",
+        "number_of_employees": "866",
+        "primary_industry": "Medical Equipment Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 121983270457,
+          "firstname": "Sudha",
+          "lastname": "Solayappan",
+          "email": "s.solayappan@procept-biorobotics.com",
+          "jobtitle": "VP Talent",
+          "phone": "650 232 7200 ext. 10004",
+          "company": "PROCEPT"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Golden State Foods Corp. - 6k ees",
+      "hubspot_deal_id": 56896863615,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/56896863615",
+      "csv_data": {
+        "close_date": "2026-03-31 13:21",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "goldenstatefoods.com",
+        "create_date": "2026-02-25 9:51",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-03-09 22:05",
+        "next_step_notes": "3/2 Demo with the logistics team",
+        "company_name": "Golden State Foods",
+        "number_of_employees": "2864",
+        "primary_industry": "Food Production"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 83345132611,
+          "firstname": "Ken",
+          "lastname": "Mance",
+          "email": "kmance@goldenstatefoods.com",
+          "jobtitle": "Global Vp of HR",
+          "phone": "+13174177623",
+          "company": "Golden State Foods"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Panda Restaurant Group, Inc. - 30,000 EE",
+      "hubspot_deal_id": 55212105117,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55212105117",
+      "csv_data": {
+        "close_date": "2026-04-09 0:03",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "pandarg.com",
+        "create_date": "2026-01-31 17:03",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-03-09 11:35",
+        "next_step_notes": null,
+        "company_name": "Panda Restaurant Group",
+        "number_of_employees": "18355",
+        "primary_industry": "Restaurants"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 198233187944,
+          "firstname": "Tarna",
+          "lastname": "Daniel",
+          "email": "tarna.aiem@pandarg.com",
+          "jobtitle": "Director, HR Services",
+          "company": "Panda Restaurant Group, Inc."
+        },
+        {
+          "contact_id": 132889861505,
+          "firstname": "Enrique",
+          "lastname": "Guitart",
+          "email": "eguitart@rbi.com",
+          "jobtitle": "Director of AI",
+          "company": "Restaurant Brands International"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Archrock Inc -  1400",
+      "hubspot_deal_id": 43529279117,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/43529279117",
+      "csv_data": {
+        "close_date": "2026-03-04 14:42",
+        "deal_owner": "Marc Lombardo",
+        "amount": "125000",
+        "company_domain": "archrock.com",
+        "create_date": "2025-09-09 20:57",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2026-03-04 14:36",
+        "next_step_notes": "3/2: Struggle to get feedback on teh status of the evaluation and Wisq's position.  This is par for the course from Fernanda.  There doesn't seem to be urgency here nor any champion.\n\n2/3: Team is \"evaluating Wisq in amongst some in house products so I believe we should have a little more clarity in a few weeks to a month or so\"\n\n1/24 - met with the team on 1/22 - they are early stage and need to put some internal thought into where they would find early wins utilizing a solution like Wisq.\n\n1/12: Fernanda introduced Steven McPhee from Flexpoint Consulting. Steven has joined them to support Archrock in defining our AI framework and strategic use cases, as well as assisting with internal development and evaluation of third-party software.\n\nMeeting 1/20",
+        "company_name": "Archrock",
+        "number_of_employees": "866",
+        "primary_industry": "Oil and Gas"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 154100559267,
+          "firstname": "Maria",
+          "lastname": "Banega",
+          "email": "fernanda.banega@archrock.com",
+          "jobtitle": "Director Total Rewards",
+          "phone": "281.836.8616",
+          "company": "Archrock Inc"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "EG America - 17,000 ee's",
+      "hubspot_deal_id": 34687406357,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/34687406357",
+      "csv_data": {
+        "close_date": "2025-12-11 11:04",
+        "deal_owner": "Alex Macaulay",
+        "amount": "323700",
+        "company_domain": "eg-america.com",
+        "create_date": "2025-03-14 18:49",
+        "closed_lost_reason": "Lost Point of Contact",
+        "last_activity_date": "2026-02-19 9:40",
+        "next_step_notes": "10/14\n\nKieran let us know that Diana (CHRO) abruptly resigned, which has paused all transformation activities. New CHRO will likely start in January at the earliest.\n\n9/11\n\nAlex connected with Kieran on 9/8, Kieran confirmed Wisq is still in the budget and EG intends to move forward with us. Their primary focus is ATS implementation and they believe Wisq could be a \"fast follow\". Sending Kieran Order Form and legal docs today, and will introduce him to Scott. They plan to announce their new HR org structure on 10/7, and we have another conversation with Kieran scheduled for 10/15. \n\n8/22\n\nReconnected with Kieran earlier this week. Wisq remains in scope and has been slotted into their budget (budget has not been finalized yet). Reconnecting on 9/8 as they progress their HR transformation.\n\n\n8/1\n\nThis might need to move to Closed Lost. I believe we should send a respectful breakup email the week of 8/4.\n\n7/13\n\nSent Kieran email on 7/9 with no response. \n\n7/3\n\nSent a follow up to the broader group on 7/1 with no response.\n\n6/13\n\nNo change, will send follow up next week\n\n6/9\n\nSent Kieran coaching follow up 5/30. No communication with other stakeholders since the 5/18 meeting.\n\n6/2\n\nSent Kieran follow up after he asked about psychometric coaching capabilities.\n\n5/12\n\nDemo scheduled for 5/20 with CHRO and broader HR team.\n\n4/28 \n\nMarc to introduce Alex this week.\n\n\n4/21 - AM to be introduced to this account in next ~\nweek",
+        "company_name": "EG America",
+        "number_of_employees": "9167",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 104311197030,
+          "firstname": "Kieran",
+          "lastname": "Carr",
+          "email": "kieran.carr@eg-america.com",
+          "jobtitle": "Director of Talent Acquisition",
+          "phone": "(508) 270-3137",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 104320092246,
+          "firstname": "Diana",
+          "lastname": "Styles",
+          "email": "diana.styles@eg-america.com",
+          "jobtitle": "Chief Human Resources Officer",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 111567233285,
+          "firstname": "Michelle",
+          "lastname": "Hayes",
+          "email": "michelle.hayes@eg-america.com",
+          "jobtitle": "Vice President, Employee Relations",
+          "phone": "(508) 988-0053",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 142067002157,
+          "firstname": "Abhijeet",
+          "lastname": "Bhandare",
+          "email": "abhijeet.bhandare@entegris.com",
+          "jobtitle": "CIO",
+          "company": "Entegris"
+        },
+        {
+          "contact_id": 197277873849,
+          "firstname": null,
+          "lastname": null,
+          "email": "suzanne.hicks@dakkota.com",
+          "jobtitle": null,
+          "company": "Dakkota Integrated Systems"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Coca-Cola Southwest Beverages - 9,000 EE",
+      "hubspot_deal_id": 42712762239,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/42712762239",
+      "csv_data": {
+        "close_date": "2025-11-21 11:47",
+        "deal_owner": "Alex Macaulay",
+        "amount": "460000",
+        "company_domain": "cocacolaswb.com",
+        "create_date": "2025-08-22 13:05",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2026-02-18 12:47",
+        "next_step_notes": "10/16\n\nEarly momentum from CHRO and team; now silent. Exploring re-engagement via Swire reference.\n\n10/15\n\nHave not been able to coordinate the deep dive with the appropriate stakeholders yet. Continuing to follow up with each contact.\n\n9/12\n\nSpoke to one of our primary project sponsors on the phone, aiming to coordinate a deeper dive with IT in the next 2 weeks based on mutual availability. Next conversation should include Angela and Clayton as they've worked closely with Swire. Alex to introduce Scott.\n\nSuggested connecting Shelley with Scott to coordinate deep dive to include Angela and Clayton given they are heavily involved with Swire.\n\n9/6\n\nSpoke to one of our primary project sponsors on the phone, aiming to coordinate a deeper dive with IT in the next 2 weeks based on mutual availability.\n\n8/22\n\nMet with CHRO at Gartner Dallas. She connected me with VP of Transformation and Director of Shared Services, and we completed QM earlier this week. Aiming to coordinate follow up for the week of 9/1 or 9/8",
+        "company_name": "Coca-Cola Southwest Beverages",
+        "number_of_employees": "2408",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 132065757112,
+          "firstname": "Silvia",
+          "lastname": "Martins Gomes",
+          "email": "silvia.martins@cocacolaswb.com",
+          "jobtitle": "VP, Human Resources",
+          "company": "Coca-Cola Southwest Beverages"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Baker Roofing - 1,250 EE",
+      "hubspot_deal_id": 56420621376,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/56420621376",
+      "csv_data": {
+        "close_date": "2026-04-03 0:05",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "bakerroofing.com",
+        "create_date": "2026-02-16 10:34",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-02-17 13:00",
+        "next_step_notes": null,
+        "company_name": "Baker Roofing Company",
+        "number_of_employees": "873",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 202951251774,
+          "firstname": "Justin",
+          "lastname": "Boyles",
+          "email": "justin.boyles@bakerroofing.com",
+          "jobtitle": "VP",
+          "company": "Baker Roofing"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Burlington Coat Factory Warehouse of Monmouth Inc. - 40,000 EE",
+      "hubspot_deal_id": 56272529692,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/56272529692",
+      "csv_data": {
+        "close_date": "2026-03-31 0:05",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "burlington.com",
+        "create_date": "2026-02-13 16:05",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-02-17 10:30",
+        "next_step_notes": null,
+        "company_name": "Burlington Stores, Inc.",
+        "number_of_employees": "38758",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 202181379871,
+          "firstname": "James Q.",
+          "lastname": "Bryant",
+          "email": "allison@burlington.com",
+          "jobtitle": "stocker",
+          "company": "Burlington Coat Factory"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "mSupply -  2400",
+      "hubspot_deal_id": 44896928554,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/44896928554",
+      "csv_data": {
+        "close_date": "2026-02-11 14:54",
+        "deal_owner": "Marc Lombardo",
+        "amount": "150000",
+        "company_domain": "msupply.com",
+        "create_date": "2025-09-29 22:18",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2026-02-10 19:40",
+        "next_step_notes": "2/3 - Not feeling optimistic on this - Kate noted concern about pricing.  Tried to address but she's not very responsive.  \n\n1/12 - connected via email with Kate; awaiting budget approval, wont do security or legal until then so Q4 is likely out of question",
+        "company_name": "mSupply",
+        "number_of_employees": "1197",
+        "primary_industry": "Wholesale Hardware, Plumbing, Heating Equipment"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 172632300708,
+          "firstname": "Kate",
+          "lastname": "Sberna",
+          "email": "kate.sberna@msupply.com",
+          "jobtitle": "HR",
+          "company": "mSupply"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Seadrill Americas, Inc. - 4,780 EE",
+      "hubspot_deal_id": 54967139221,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/54967139221",
+      "csv_data": {
+        "close_date": "2026-02-17 14:51",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "seadrill.com",
+        "create_date": "2026-01-28 15:42",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2026-02-10 12:00",
+        "next_step_notes": null,
+        "company_name": "Seadrill",
+        "number_of_employees": "5908",
+        "primary_industry": "Oil and Gas"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 197300983107,
+          "firstname": "Joni",
+          "lastname": "Phillips",
+          "email": "joni.phillips@seadrill.com",
+          "jobtitle": "HR Transformation",
+          "phone": "713.240.3853",
+          "company": "Seadrill Americas, Inc."
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Layton Construction Company - New Deal",
+      "hubspot_deal_id": 55117240935,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55117240935",
+      "csv_data": {
+        "close_date": "2026-02-09 15:02",
+        "deal_owner": "Marc Lombardo",
+        "amount": null,
+        "company_domain": "laytonconstruction.com",
+        "create_date": "2026-01-30 14:14",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-02-09 13:41",
+        "next_step_notes": "1/30 - Will talk with team - unsure if she can get a project through red tape of parent company - no formal project",
+        "company_name": "Layton Construction",
+        "number_of_employees": "1959",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 197522945384,
+          "firstname": null,
+          "lastname": null,
+          "email": "kari.plaster@laytonconstruction.com",
+          "jobtitle": null,
+          "company": "Layton Construction Company"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Mohawk Industries - 10K EE",
+      "hubspot_deal_id": 49537642576,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/49537642576",
+      "csv_data": {
+        "close_date": "2026-02-13 10:34",
+        "deal_owner": "Alex Macaulay",
+        "amount": "504900",
+        "company_domain": "mohawkind.com",
+        "create_date": "2025-11-19 14:24",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-02-09 13:23",
+        "next_step_notes": "1/23\n\nSent \"break up\" email, no response. Will move to CL if no response by next week.\n\n1/15\n\nLack of engagement since before the holidays, need to re-engage and determine the level of priority\n\n12/12\n\nCHRO is very engaged, sees Wisq as an opportunity to simultaneously provide better EX while maximizing their HR tech stack. Provided high level pricing range, should get feedback the week of 12/15.",
+        "company_name": "Mohawk Industries",
+        "number_of_employees": "12937",
+        "primary_industry": "Textile Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 176735117372,
+          "firstname": "Jason",
+          "lastname": "Leonard",
+          "email": "jason_leonard@mohawkind.com",
+          "jobtitle": "VP, Human Resources",
+          "company": "Mohawk Industries"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Barton Malow Company - 5k",
+      "hubspot_deal_id": 55034943302,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55034943302",
+      "csv_data": {
+        "close_date": "2026-01-30 17:10",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "bartonmalow.com",
+        "create_date": "2026-01-30 9:42",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2026-02-04 9:00",
+        "next_step_notes": "Nuture no next steps",
+        "company_name": "Barton Malow",
+        "number_of_employees": "2246",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 172726315360,
+          "firstname": "Samuel",
+          "lastname": "Veltri",
+          "email": "sam.veltri@bartonmalow.com",
+          "jobtitle": "Labor Relations Vice President, Human Resources",
+          "phone": "(248) 436-5608",
+          "company": "Barton Malow"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Knowles Electronics LLC - 7,000 EE",
+      "hubspot_deal_id": 51942303536,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/51942303536",
+      "csv_data": {
+        "close_date": "2026-02-03 10:25",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "knowles.com",
+        "create_date": "2025-12-15 16:27",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-02-03 13:00",
+        "next_step_notes": null,
+        "company_name": "Knowles Corporation",
+        "number_of_employees": "2139",
+        "primary_industry": "Appliances, Electrical, and Electronics Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 185228173357,
+          "firstname": "Andrea",
+          "lastname": "Schafer",
+          "email": "andrea.schafer@knowles.com",
+          "jobtitle": "HR Director",
+          "company": "Knowles Electronics LLC"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Sysco Holdings, LLC - New Deal",
+      "hubspot_deal_id": 55031200546,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55031200546",
+      "csv_data": {
+        "close_date": "2026-03-18 20:22",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "sysco.com",
+        "create_date": "2026-01-30 11:52",
+        "closed_lost_reason": "Timing: In Tourist Mode",
+        "last_activity_date": "2026-01-30 17:19",
+        "next_step_notes": "Working w the HRIS person to look at volume and content to see if it makes sense to continue the conversations",
+        "company_name": "Sysco",
+        "number_of_employees": "31735",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 193434434464,
+          "firstname": "Trey",
+          "lastname": "Rouse",
+          "email": "trey.rouse@sysco.com",
+          "jobtitle": "Director of Engineering, HR Technology",
+          "company": "Sysco Corporation"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Mattress Firm - 10,000 EE",
+      "hubspot_deal_id": 53902378613,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/53902378613",
+      "csv_data": {
+        "close_date": "2026-03-02 0:04",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "mfrm.com",
+        "create_date": "2026-01-14 17:42",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-30 14:00",
+        "next_step_notes": null,
+        "company_name": "Mattress Firm",
+        "number_of_employees": "6818",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 98517133382,
+          "firstname": "Danielle",
+          "lastname": "Deprey",
+          "email": "danielle.deprey@mfrm.com",
+          "jobtitle": "VP, Human Resources",
+          "phone": "(713) 923-1090",
+          "company": "Mattress Firm"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Paul Davis - 1,551 EE",
+      "hubspot_deal_id": 51950779242,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/51950779242",
+      "csv_data": {
+        "close_date": "2026-02-26 0:03",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "www.pauldavis.com",
+        "create_date": "2025-12-15 14:17",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-26 14:52",
+        "next_step_notes": null,
+        "company_name": "Paul Davis Restoration, Inc.",
+        "number_of_employees": "2515",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 117894141365,
+          "firstname": "James",
+          "lastname": "Crosten",
+          "email": "james.crosten@pauldavis.com",
+          "jobtitle": "SVP of People",
+          "phone": "(800) 722-1818",
+          "company": "Paul Davis"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Fabcon -  1500",
+      "hubspot_deal_id": 45315271535,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/45315271535",
+      "csv_data": {
+        "close_date": "2026-02-05 16:40",
+        "deal_owner": "Marc Lombardo",
+        "amount": "125000",
+        "company_domain": "fabconprecast.com",
+        "create_date": "2025-10-06 10:12",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-21 11:11",
+        "next_step_notes": "1/12 Reached out to schedule demo as requested in late November ( \"reconnect in the new year\")",
+        "company_name": "Fabcon",
+        "number_of_employees": "969",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 161379875340,
+          "firstname": "Krissy",
+          "lastname": "Alther",
+          "email": "krissy.alther@fabconprecast.com",
+          "jobtitle": "HR Transformation Consultant",
+          "company": "Fabcon"
+        },
+        {
+          "contact_id": 138072105903,
+          "firstname": "Markus",
+          "lastname": "Fraund",
+          "email": "markus.fraund@abcfitness.com",
+          "jobtitle": "VP, People Operations & Innovation",
+          "company": "ABC Fitness"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "AutoZone - 100,000 EE",
+      "hubspot_deal_id": 52414843968,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/52414843968",
+      "csv_data": {
+        "close_date": "2026-02-20 0:06",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "autozone.com",
+        "create_date": "2025-12-22 22:28",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-20 10:56",
+        "next_step_notes": null,
+        "company_name": "AutoZone",
+        "number_of_employees": "48253",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 187249168151,
+          "firstname": "Coriana",
+          "lastname": "Spight",
+          "email": "coriana.spight@autozone.com",
+          "jobtitle": "Benefits Specialist",
+          "company": "AutoZone"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Aaron's -  10K EE",
+      "hubspot_deal_id": 49148812041,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/49148812041",
+      "csv_data": {
+        "close_date": "2026-02-04 12:24",
+        "deal_owner": "Alex Macaulay",
+        "amount": "504900",
+        "company_domain": "aarons.com",
+        "create_date": "2025-11-14 21:10",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-20 10:28",
+        "next_step_notes": null,
+        "company_name": "The Aaron's Company, Inc.",
+        "number_of_employees": "7030",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 175232407880,
+          "firstname": "Donnice",
+          "lastname": "Chubbs",
+          "email": "donnice.chubbs@aarons.com",
+          "jobtitle": "Director, Compensation",
+          "company": "Aaron's"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "iFIT - 1,100 EE",
+      "hubspot_deal_id": 52511634261,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/52511634261",
+      "csv_data": {
+        "close_date": "2026-01-15 8:48",
+        "deal_owner": "Alex Macaulay",
+        "amount": null,
+        "company_domain": "ifit.com",
+        "create_date": "2025-12-24 14:37",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2026-01-13 9:38",
+        "next_step_notes": "Following up with Andy to determine if a deeper dive with his team is warranted. Exploration mode.",
+        "company_name": "iFIT",
+        "number_of_employees": "1494",
+        "primary_industry": "Wellness and Fitness Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 187720902972,
+          "firstname": "Andy",
+          "lastname": "Stevens",
+          "email": "andy@ifit.com",
+          "jobtitle": "EVP, CHRO",
+          "company": "iFIT"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Haier - 5K EE",
+      "hubspot_deal_id": 48536407140,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/48536407140",
+      "csv_data": {
+        "close_date": "2026-01-14 8:39",
+        "deal_owner": "Alex Macaulay",
+        "amount": "350000",
+        "company_domain": "geappliances.com",
+        "create_date": "2025-11-07 14:28",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2026-01-12 22:07",
+        "next_step_notes": "12/12\n\nSubmitted security questionnaire. We are awaiting corporate to finalize budget approval in January. They are anticipating a large chunk of funds to stand up a shared services function across businesses. Will be a competitive deal.",
+        "company_name": "GE Appliances, a Haier company",
+        "number_of_employees": "5605",
+        "primary_industry": "Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 132065757112,
+          "firstname": "Silvia",
+          "lastname": "Martins Gomes",
+          "email": "silvia.martins@cocacolaswb.com",
+          "jobtitle": "VP, Human Resources",
+          "company": "Coca-Cola Southwest Beverages"
+        },
+        {
+          "contact_id": 164988765555,
+          "firstname": "Ken",
+          "lastname": "Adamek",
+          "email": "kenneth.adamek@geappliances.com",
+          "jobtitle": "Executive Director HR Digitalization",
+          "company": "Haier"
+        },
+        {
+          "contact_id": 174858709873,
+          "firstname": "Joyce",
+          "lastname": "Stock",
+          "email": "jstock@bmsmanagement.com",
+          "jobtitle": "VPHR",
+          "company": "BMS Management"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Rocket Lab -  1700",
+      "hubspot_deal_id": 47880739944,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/47880739944",
+      "csv_data": {
+        "close_date": "2026-01-06 12:03",
+        "deal_owner": "Marc Lombardo",
+        "amount": "150000",
+        "company_domain": "rocketlabusa.com",
+        "create_date": "2025-11-01 8:12",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2026-01-06 12:00",
+        "next_step_notes": "12/1: demo on 11/25 went well.  AOP planning in Dec, Connie will pitch what we're doing and seeing if exec team supports Wisq.  Reconnect in early January",
+        "company_name": "Rocket Lab",
+        "number_of_employees": "2200",
+        "primary_industry": "Aviation and Aerospace Component Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 170962408600,
+          "firstname": "Connie",
+          "lastname": "Lundgren",
+          "email": "c.lundgren@rocketlabusa.com",
+          "jobtitle": "VP",
+          "phone": "+1 562-587-1844",
+          "company": "Rocket Lab"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "CHANEL - 20K EE",
+      "hubspot_deal_id": 46902348071,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/46902348071",
+      "csv_data": {
+        "close_date": "2026-01-06 14:39",
+        "deal_owner": "Alex Macaulay",
+        "amount": "250000",
+        "company_domain": "chanel.com",
+        "create_date": "2025-10-24 13:16",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-06 11:44",
+        "next_step_notes": null,
+        "company_name": "CHANEL",
+        "number_of_employees": "29976",
+        "primary_industry": "Retail Luxury Goods and Jewelry"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 157228462993,
+          "firstname": "Michelle",
+          "lastname": "Rhee",
+          "email": "michelle.rhee@chanel.com",
+          "jobtitle": "Head of People Operations and Transformation",
+          "phone": "6467893621",
+          "company": "Chanel"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "SRS Distribution - 11K EE",
+      "hubspot_deal_id": 40009431597,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40009431597",
+      "csv_data": {
+        "close_date": "2026-01-06 14:39",
+        "deal_owner": "Alex Macaulay",
+        "amount": "350000",
+        "company_domain": "srsdistribution.com",
+        "create_date": "2025-07-11 16:38",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2026-01-06 11:34",
+        "next_step_notes": "8/22\n\nSent follow up earlier this week, suggesting deeper conversation the week of 8/25\n\n7/11\n\n\nScoping session scheduled with VP of HRBPs + Sr Director HR Systems for 7/31",
+        "company_name": "SRS Distribution Inc.",
+        "number_of_employees": "3108",
+        "primary_industry": "Wholesale Building Materials"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 135675296342,
+          "firstname": "Kiran",
+          "lastname": "Jalakam",
+          "email": "kiran.jalakam@srsdistribution.com",
+          "jobtitle": "Sr Dir HR Tech & Payroll",
+          "company": "SRS Distribution"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Kohl's -  15k ees Pilot",
+      "hubspot_deal_id": 49633680388,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/49633680388",
+      "csv_data": {
+        "close_date": "2025-12-19 10:08",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "kohls.com",
+        "create_date": "2025-11-19 9:52",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2025-12-19 10:08",
+        "next_step_notes": null,
+        "company_name": "Kohl's",
+        "number_of_employees": "55240",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 176669024092,
+          "firstname": "Brian",
+          "lastname": "Banas",
+          "email": "brian.banas@kohls.com",
+          "jobtitle": "Vice President, Human Resources",
+          "phone": "262-703-7412",
+          "company": "Kohl's"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "JM Family Enterprises, Inc. - New Deal",
+      "hubspot_deal_id": 51015904615,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/51015904615",
+      "csv_data": {
+        "close_date": "2025-12-17 16:37",
+        "deal_owner": "Marc Lombardo",
+        "amount": null,
+        "company_domain": "jmfamily.com",
+        "create_date": "2025-12-02 12:28",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-12-12 17:16",
+        "next_step_notes": "12/2 - In budgeting discussions - wants to reconnect in mid- Dec; not sure there is urgency here",
+        "company_name": "JM Family Enterprises, Inc.",
+        "number_of_employees": "4696",
+        "primary_industry": "Motor Vehicle Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 167064472411,
+          "firstname": "Jay",
+          "lastname": "Graff",
+          "email": "jay.graff@jmfamily.com",
+          "jobtitle": "Employee Experience Director, Digital",
+          "phone": "954-596-3033",
+          "company": "JM Family Enterprises"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Pharmavite -  2300",
+      "hubspot_deal_id": 42491028809,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/42491028809",
+      "csv_data": {
+        "close_date": "2026-03-13 16:52",
+        "deal_owner": "Marc Lombardo",
+        "amount": "150000",
+        "company_domain": "pharmavite.com",
+        "create_date": "2025-08-19 16:54",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-12-12 17:13",
+        "next_step_notes": "3/2: Continue to struggle to reconnect with CHRO.  Doesn't see like there is any momentum nor urgency from the team.  \n\n12/9 - CHRO noted AI strategy is coming together - reconnect in February",
+        "company_name": "Pharmavite",
+        "number_of_employees": "1414",
+        "primary_industry": "Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 148574330715,
+          "firstname": "Jody",
+          "lastname": "Guthrie",
+          "email": "jguthrie@pharmavite.com",
+          "jobtitle": "HR Director",
+          "company": "Pharmavite"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Bloom Energy - 2100",
+      "hubspot_deal_id": 46794766917,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/46794766917",
+      "csv_data": {
+        "close_date": "2025-12-12 12:56",
+        "deal_owner": "Marc Lombardo",
+        "amount": "150000",
+        "company_domain": "bloomenergy.com",
+        "create_date": "2025-10-23 15:11",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-12-11 10:40",
+        "next_step_notes": "11/10 - connected via LinkedIn - reconnect after Thanksgiving; still interested in a demo",
+        "company_name": "Bloom Energy",
+        "number_of_employees": "2218",
+        "primary_industry": "Fuel Cell Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 166585458494,
+          "firstname": null,
+          "lastname": null,
+          "email": "megan.cheek@bloomenergy.com",
+          "jobtitle": null,
+          "company": "Bloom Energy"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "BMS Management - 1000 ee",
+      "hubspot_deal_id": 49652733085,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/49652733085",
+      "csv_data": {
+        "close_date": "2025-12-12 17:35",
+        "deal_owner": "Marc Lombardo",
+        "amount": "100000",
+        "company_domain": "bmsmanagement.com",
+        "create_date": "2025-11-19 18:51",
+        "closed_lost_reason": "Product Misalignment: Lack of Integrations",
+        "last_activity_date": "2025-12-03 13:18",
+        "next_step_notes": "12/1: Need a scoping call to determine if we can integrate with their systems",
+        "company_name": "BMS CAT",
+        "number_of_employees": "985",
+        "primary_industry": "Facilities Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 174858709873,
+          "firstname": "Joyce",
+          "lastname": "Stock",
+          "email": "jstock@bmsmanagement.com",
+          "jobtitle": "VPHR",
+          "company": "BMS Management"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Clark Construction - 4K  EE",
+      "hubspot_deal_id": 41094018077,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/41094018077",
+      "csv_data": {
+        "close_date": "2025-09-08 11:39",
+        "deal_owner": "Alex Macaulay",
+        "amount": "260000",
+        "company_domain": "clarkconstruction.com",
+        "create_date": "2025-07-30 13:24",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2025-12-02 14:59",
+        "next_step_notes": "8/22\n\nDemo with HR team 8/28",
+        "company_name": "Clark Construction Group",
+        "number_of_employees": "4664",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 5260551,
+          "firstname": "Chris",
+          "lastname": "Jordan",
+          "email": "chris.jordan@clarkconstruction.com",
+          "jobtitle": "VP HR",
+          "phone": "(301) 272-8419",
+          "company": "Clark Construction"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Vast - 750 EE",
+      "hubspot_deal_id": 35185527199,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/35185527199",
+      "csv_data": {
+        "close_date": "2025-05-14 10:25",
+        "deal_owner": "Alex Macaulay",
+        "amount": "90000",
+        "company_domain": "vastspace.com",
+        "create_date": "2025-03-28 17:41",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-12-02 12:54",
+        "next_step_notes": "4/28\n\nReached out to Head of HR Ops (was scheduled to meet at Transform but could not connect). Will continue to follow up as this has the opportunity to move to SQO.\n\n4/23\n\nProductive intro call with Head of Talent, but no response yet. Attempting to broaden DMU and connect with Head of HR Ops.",
+        "company_name": "Vast",
+        "number_of_employees": "1064",
+        "primary_industry": "Defense and Space Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 107823686222,
+          "firstname": "Jacob",
+          "lastname": "Bamattre",
+          "email": "jacob.bamattre@vastspace.com",
+          "jobtitle": "Director, Talent Development",
+          "company": "Vast"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Mars - 40K EE",
+      "hubspot_deal_id": 35681889100,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/35681889100",
+      "csv_data": {
+        "close_date": "2025-07-03 11:09",
+        "deal_owner": "Alex Macaulay",
+        "amount": "250000",
+        "company_domain": "effem.com",
+        "create_date": "2025-04-11 14:37",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-12-02 12:48",
+        "next_step_notes": "6/9\n\nJessica shared that they are in the process of identifying the highest priority HR processes, and to follow up toward the end of June.\n\n4/28\n\nSent follow up to Jessica on 4/23. Yet to hear back. Will continue follow up strategy this week.\n\nAM 4/21: positive call with Associate Relations contact at Mars. This deal will take a while but it has legs. Discovery around Mars environment. Next step: left off with her wanting to see where we could help most -- share a detailed Loom recording with broader group to socialize within Mars.",
+        "company_name": "Mars",
+        "number_of_employees": "66282",
+        "primary_industry": "Food and Beverage Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 103467572778,
+          "firstname": "Jessica",
+          "lastname": "Pyle",
+          "email": "jessica.pyle@effem.com",
+          "jobtitle": "Sr. Associate Relations Manager",
+          "company": "Mars"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "ABC Fitness - 2,000 EE",
+      "hubspot_deal_id": 40984905647,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40984905647",
+      "csv_data": {
+        "close_date": "2025-12-11 11:09",
+        "deal_owner": "Alex Macaulay",
+        "amount": "160000",
+        "company_domain": "abcfitness.com",
+        "create_date": "2025-07-28 15:15",
+        "closed_lost_reason": "Pricing: Budget Cut",
+        "last_activity_date": "2025-12-02 12:04",
+        "next_step_notes": "9/11\n\nHave sent 2 follow ups to Head of HR Ops, no response. \n\n8/29\n\nVP Global People Ops shared that AI implementation was a mandate across the biz, and seen as a way to scale the reach of HR without adding headcount, they've been growing like crazy over the past few years, several hundred percent. Received the following email last Friday - \"Hi Alex, I did not receive the funding to proceed with your product.  I will keep pushing internally and will pick this back up earlier next year.  Thanks for your partnership and demo.  Have a great weekend.\"\nI sent him a follow up to better understand the details but no response yet, will lightly try one more time\n\n8/22\n\nVP of Ops had to reschedule this week's meeting. Aiming to reschedule the week of 9/1 to include CHRO. \n\n8/15\n\nScoping session with Global Head of People Ops on 8/19\n\n8/10\n\nChampion (VP of Global People Ops) is presenting Wisq to CPO the week of 8/11. Scoping call scheduled with VP of Global People Ops and possibly CPO as well. I provided $160K pricing to champion which was well received.",
+        "company_name": "ABC Fitness",
+        "number_of_employees": "4386",
+        "primary_industry": "Wellness and Fitness Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 161379875340,
+          "firstname": "Krissy",
+          "lastname": "Alther",
+          "email": "krissy.alther@fabconprecast.com",
+          "jobtitle": "HR Transformation Consultant",
+          "company": "Fabcon"
+        },
+        {
+          "contact_id": 138072105903,
+          "firstname": "Markus",
+          "lastname": "Fraund",
+          "email": "markus.fraund@abcfitness.com",
+          "jobtitle": "VP, People Operations & Innovation",
+          "company": "ABC Fitness"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "HD Supply - 12k ees",
+      "hubspot_deal_id": 45652160864,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/45652160864",
+      "csv_data": {
+        "close_date": "2025-11-21 11:29",
+        "deal_owner": "Fraser Aitken",
+        "amount": "250000",
+        "company_domain": "hdsupply.com",
+        "create_date": "2025-10-09 13:06",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2025-11-20 19:06",
+        "next_step_notes": "Larger team demo still not scheduled. Reed is the person we need to connect with.",
+        "company_name": "HD Supply",
+        "number_of_employees": "11280",
+        "primary_industry": "Wholesale"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 166931438638,
+          "firstname": "Sarah",
+          "lastname": "Halsted",
+          "email": "sarah.halsted@hdsupply.com",
+          "jobtitle": "Systems Senior Manager, Human Resources",
+          "company": "HD Supply"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Cooper Standard - New Deal",
+      "hubspot_deal_id": 48942346276,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/48942346276",
+      "csv_data": {
+        "close_date": "2025-11-12 12:19",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "cooperstandard.com",
+        "create_date": "2025-11-12 12:19",
+        "closed_lost_reason": "Lack of Stakeholder Buy-In",
+        "last_activity_date": "2025-11-20 8:00",
+        "next_step_notes": null,
+        "company_name": "Cooper Standard",
+        "number_of_employees": "8051",
+        "primary_industry": "Motor Vehicle Parts Manufacturing"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "American Electric Power Co -  EE",
+      "hubspot_deal_id": 46269054601,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/46269054601",
+      "csv_data": {
+        "close_date": "2025-12-17 16:20",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "aep.com",
+        "create_date": "2025-10-16 14:45",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-11-12 15:51",
+        "next_step_notes": null,
+        "company_name": "American Electric Power",
+        "number_of_employees": "12892",
+        "primary_industry": "Utilities"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 166944273068,
+          "firstname": "Julie",
+          "lastname": "Rutter",
+          "email": "jarutter@aep.com",
+          "jobtitle": "Director Employee Relations",
+          "phone": "(614) 716-2229",
+          "company": "American Electric Power"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Clarios -  EE",
+      "hubspot_deal_id": 44645060213,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/44645060213",
+      "csv_data": {
+        "close_date": "2025-11-21 11:40",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "clarios.com",
+        "create_date": "2025-09-27 18:41",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-10-31 12:21",
+        "next_step_notes": "not sure this is real",
+        "company_name": "Clarios",
+        "number_of_employees": "6226",
+        "primary_industry": "Motor Vehicle Parts Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 158929628182,
+          "firstname": "Elizabeth",
+          "lastname": "Powers",
+          "email": "beth.powers@clarios.com",
+          "jobtitle": "CHRO",
+          "company": "Clarios"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "PERRY HOMES -  1700 EE",
+      "hubspot_deal_id": 41797413561,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/41797413561",
+      "csv_data": {
+        "close_date": "2025-12-12 17:14",
+        "deal_owner": "Marc Lombardo",
+        "amount": "125000",
+        "company_domain": "perryhomes.com",
+        "create_date": "2025-08-11 18:47",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2025-10-23 13:03",
+        "next_step_notes": "10/27: They are going to do other \"technology projects\" first and will take a look at this in the spring of 26'",
+        "company_name": "Perry Homes",
+        "number_of_employees": "1417",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 145898344838,
+          "firstname": "Lakeisha",
+          "lastname": "Jones",
+          "email": "lakeisha.jones@perryhomes.com",
+          "jobtitle": "SVP HR",
+          "company": "PERRY HOMES"
+        },
+        {
+          "contact_id": 156401316434,
+          "firstname": "Layne",
+          "lastname": "Browning",
+          "email": "layne.browning@perryhomes.com",
+          "jobtitle": "Sr HR Generalist",
+          "company": "PERRY HOMES"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "PERRY HOMES -  EE",
+      "hubspot_deal_id": 43913601395,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/43913601395",
+      "csv_data": {
+        "close_date": "2026-02-06 10:12",
+        "deal_owner": "Marc Lombardo",
+        "amount": null,
+        "company_domain": "perryhomes.com",
+        "create_date": "2025-09-18 14:15",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-10-23 13:03",
+        "next_step_notes": null,
+        "company_name": "Perry Homes",
+        "number_of_employees": "1417",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 145898344838,
+          "firstname": "Lakeisha",
+          "lastname": "Jones",
+          "email": "lakeisha.jones@perryhomes.com",
+          "jobtitle": "SVP HR",
+          "company": "PERRY HOMES"
+        },
+        {
+          "contact_id": 156401316434,
+          "firstname": "Layne",
+          "lastname": "Browning",
+          "email": "layne.browning@perryhomes.com",
+          "jobtitle": "Sr HR Generalist",
+          "company": "PERRY HOMES"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Rexall - 7000 EE",
+      "hubspot_deal_id": 42832759041,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/42832759041",
+      "csv_data": {
+        "close_date": "2025-10-27 17:50",
+        "deal_owner": "Marc Lombardo",
+        "amount": "250000",
+        "company_domain": "rexall.ca",
+        "create_date": "2025-08-25 15:12",
+        "closed_lost_reason": "Pricing: Too Expensive",
+        "last_activity_date": "2025-10-22 9:58",
+        "next_step_notes": "9/29 - came back that budget was too steep to move forward with demo.  trying to understand budget concerns and get them back to the table",
+        "company_name": "Rexall Pharmacy Group Ltd.",
+        "number_of_employees": "4553",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 150272144466,
+          "firstname": "Tunde",
+          "lastname": "Kolarinwa",
+          "email": "tkolarinwa@rexall.ca",
+          "jobtitle": "Snr. Director, Corporate Strategy",
+          "company": "Rexall"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Holiday Inn Club Vacations -  EE",
+      "hubspot_deal_id": 45359052867,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/45359052867",
+      "csv_data": {
+        "close_date": "2025-10-22 10:10",
+        "deal_owner": "Marc Lombardo",
+        "amount": null,
+        "company_domain": "holidayinnclub.com",
+        "create_date": "2025-10-07 9:44",
+        "closed_lost_reason": "Pricing: Budget Cut",
+        "last_activity_date": "2025-10-21 16:43",
+        "next_step_notes": "10/10 - Liked the introduction to Harper, was up front about the cost constraints and I fear pricing will not work for them.  Awaiting their internal debrief and determination if they want to see a demo.",
+        "company_name": "Holiday Inn Club Vacations",
+        "number_of_employees": "3595",
+        "primary_industry": "Hospitality"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 166303250319,
+          "firstname": "Erin",
+          "lastname": "Booth",
+          "email": "ebooth@holidayinnclub.com",
+          "jobtitle": "SVP - HR",
+          "phone": "(407) 905-1035",
+          "company": "Holiday Inn Club Vacations"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Altium Packaging - 4,000 EE",
+      "hubspot_deal_id": 40170431621,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40170431621",
+      "csv_data": {
+        "close_date": "2025-12-11 11:07",
+        "deal_owner": "Alex Macaulay",
+        "amount": "234000",
+        "company_domain": "altiumpkg.com",
+        "create_date": "2025-07-13 13:23",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-10-20 12:20",
+        "next_step_notes": "8/22\n\nSteven wants to reconnect in early September, working to coordinate dates.\n\n7/13\n\nCompleted intro with Corporate HRD + Sr. Director, HRIS & Shared Services. There is definitely a use case here. Unclear on timing. Sending summary email on Monday to schedule a scoping session.",
+        "company_name": "Altium Packaging",
+        "number_of_employees": "1956",
+        "primary_industry": "Packaging and Containers Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 135350895757,
+          "firstname": "Steven",
+          "lastname": "Rimmer",
+          "email": "steven.rimmer@altiumpkg.com",
+          "jobtitle": "HR Director",
+          "phone": "678-529-2029",
+          "company": "Altium Packaging"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Haza Foods - 11K EE",
+      "hubspot_deal_id": 42409315142,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/42409315142",
+      "csv_data": {
+        "close_date": "2025-12-11 11:10",
+        "deal_owner": "Alex Macaulay",
+        "amount": "695500",
+        "company_domain": "hazafoods.com",
+        "create_date": "2025-08-18 12:13",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-10-17 9:44",
+        "next_step_notes": "8/22\n\nQM completed 8/11, they are early in AI evaluation. Aiming to schedule follow up in a few weeks.",
+        "company_name": "Haza Foods",
+        "number_of_employees": "11000",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 26117312163,
+          "firstname": "Stephen",
+          "lastname": "Martin",
+          "email": "stephenmartin@hazafoods.com",
+          "jobtitle": "VP of HR",
+          "phone": "(346) 374-7472",
+          "company": "HAZA Foods"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Entegris -  8K EE",
+      "hubspot_deal_id": 41078845312,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/41078845312",
+      "csv_data": {
+        "close_date": "2025-11-24 14:47",
+        "deal_owner": "Alex Macaulay",
+        "amount": "420000",
+        "company_domain": "entegris.com",
+        "create_date": "2025-07-30 13:24",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-10-16 14:15",
+        "next_step_notes": "8/22\n\nDemo with IT stakeholders on 8/28, Danya will be suporting",
+        "company_name": "Entegris",
+        "number_of_employees": "6565",
+        "primary_industry": "Semiconductor Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 104311197030,
+          "firstname": "Kieran",
+          "lastname": "Carr",
+          "email": "kieran.carr@eg-america.com",
+          "jobtitle": "Director of Talent Acquisition",
+          "phone": "(508) 270-3137",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 104320092246,
+          "firstname": "Diana",
+          "lastname": "Styles",
+          "email": "diana.styles@eg-america.com",
+          "jobtitle": "Chief Human Resources Officer",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 111567233285,
+          "firstname": "Michelle",
+          "lastname": "Hayes",
+          "email": "michelle.hayes@eg-america.com",
+          "jobtitle": "Vice President, Employee Relations",
+          "phone": "(508) 988-0053",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 142067002157,
+          "firstname": "Abhijeet",
+          "lastname": "Bhandare",
+          "email": "abhijeet.bhandare@entegris.com",
+          "jobtitle": "CIO",
+          "company": "Entegris"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Sara Lee Food & Beverage - New Deal",
+      "hubspot_deal_id": 43708897352,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/43708897352",
+      "csv_data": {
+        "close_date": "2025-10-06 11:54",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "saraleefb.com",
+        "create_date": "2025-09-15 10:23",
+        "closed_lost_reason": "Product Misalignment: Too Advanced for Org",
+        "last_activity_date": "2025-10-07 12:53",
+        "next_step_notes": "We are too advanced for them currently. Nurture",
+        "company_name": "Sara Lee Food & Beverage",
+        "number_of_employees": "650",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 57800581958,
+          "firstname": "Terra",
+          "lastname": "Martire",
+          "email": "tmartire@saraleefb.com",
+          "jobtitle": "VP, Human Resources",
+          "phone": "(630) 282-9900",
+          "company": "Sara Lee"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Delta Air Lines - 75K EE",
+      "hubspot_deal_id": 38950393271,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/38950393271",
+      "csv_data": {
+        "close_date": "2025-10-17 14:22",
+        "deal_owner": "Alex Macaulay",
+        "amount": "200000",
+        "company_domain": "delta.com",
+        "create_date": "2025-06-16 10:40",
+        "closed_lost_reason": "Product Misalignment: Missing Features",
+        "last_activity_date": "2025-09-25 13:00",
+        "next_step_notes": "8/22\n\nCompleted 2nd call with HRIS Program Manager, confirmed that the \"agentic front door\" is a high priority initiative. Aiming to schedule a deeper demo with the broader Delta team in September.\n\n8/20\n\nMeeting scheduled with Program Manager 8/21\n\n7/13\n\nNo change\n\n7/3\n\nVery early - will likely be late July or August before we reconnect",
+        "company_name": "Delta Air Lines",
+        "number_of_employees": "81305",
+        "primary_industry": "Airlines and Aviation"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 121090956127,
+          "firstname": "Brent",
+          "lastname": "Love",
+          "email": "brent.love@delta.com",
+          "jobtitle": null,
+          "company": "Delta Air Lines"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Vanguard Logistics Services - New Deal",
+      "hubspot_deal_id": 43576210318,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/43576210318",
+      "csv_data": {
+        "close_date": "2025-09-11 10:33",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "vanguardlogistics.com",
+        "create_date": "2025-09-11 10:29",
+        "closed_lost_reason": "Product Misalignment: Too Advanced for Org",
+        "last_activity_date": "2025-09-11 10:32",
+        "next_step_notes": null,
+        "company_name": "Vanguard Logistics Services",
+        "number_of_employees": "1794",
+        "primary_industry": "Transportation, Logistics, Supply Chain and Storage"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 154564616211,
+          "firstname": "Peter",
+          "lastname": "Lemperis",
+          "email": "peter.lemperis@vanguardlogistics.com",
+          "jobtitle": "CHRO",
+          "company": "Vanguard Logistics Services"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "IFF - 20K EE",
+      "hubspot_deal_id": 37360262213,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/37360262213",
+      "csv_data": {
+        "close_date": "2025-10-17 14:25",
+        "deal_owner": "Alex Macaulay",
+        "amount": "500000",
+        "company_domain": "iff.com",
+        "create_date": "2025-05-16 15:52",
+        "closed_lost_reason": "Product Misalignment: Missing Features",
+        "last_activity_date": "2025-09-09 16:28",
+        "next_step_notes": "8/22\n\nFollowing up with Sheena to determine what IFF's IT team has been evaluating and determine if there's a path to partnership or POC for HR specific use cases.\n\n7/13\n\nNo change, Sheena OOO until 7/21\n\n7/3\n\nMet with Sheena on 7/1 to discuss project status. IT is reviewing 2 solutions that are enterprise wide. Sheena is on vacation and returns the week of 7/21. Will follow up with her then. Discussed the idea of a pilot for US and Netherlands based populations.\n\n5/16\n\nCompleted intro call with Sheena to prep for broader presentation.\n\nNext Step - \n\nAlex + Clayton to present to broader HR + IT team 5/22",
+        "company_name": "IFF",
+        "number_of_employees": "15037",
+        "primary_industry": "Chemical Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 77637835532,
+          "firstname": "Sheena",
+          "lastname": "Jacob",
+          "email": "sheena.jacob@iff.com",
+          "jobtitle": "SVP, Total Rewards & People Operations",
+          "phone": "1 914-649-3881",
+          "company": "IFF"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "ICEYE - 750 EE",
+      "hubspot_deal_id": 40832604977,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40832604977",
+      "csv_data": {
+        "close_date": "2025-08-29 11:48",
+        "deal_owner": "Alex Macaulay",
+        "amount": "75000",
+        "company_domain": "iceye.com",
+        "create_date": "2025-07-25 13:20",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-08-28 10:58",
+        "next_step_notes": "8/22\n\nSent another email on 8.19, if no response next week I will move to CL\n\n8/10\n\nNo change, champion was OOO last week and returns 8/11\n\n8/1\n\nSent pricing to Laura via, email, she is OOO until 8/11",
+        "company_name": "ICEYE",
+        "number_of_employees": "924",
+        "primary_industry": "Defense and Space Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 135289906836,
+          "firstname": "Laura",
+          "lastname": "Reponen",
+          "email": "laura.reponen@iceye.com",
+          "jobtitle": "Global Head of People Operations",
+          "phone": "+358406315625",
+          "company": "ICEYE"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Hexion -  1,800",
+      "hubspot_deal_id": 41517503857,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/41517503857",
+      "csv_data": {
+        "close_date": "2025-08-25 15:05",
+        "deal_owner": "Marc Lombardo",
+        "amount": "100000",
+        "company_domain": "hexion.com",
+        "create_date": "2025-08-07 14:56",
+        "closed_lost_reason": "Pricing: Budget Cut",
+        "last_activity_date": "2025-08-18 12:30",
+        "next_step_notes": null,
+        "company_name": "Hexion Inc.",
+        "number_of_employees": "1775",
+        "primary_industry": "Chemical Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 144893343414,
+          "firstname": "Sheila",
+          "lastname": "Rutt",
+          "email": "sheila.rutt@hexion.com",
+          "jobtitle": "CHRO",
+          "company": "Hexion"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "NTG - 1500 - POC",
+      "hubspot_deal_id": 35852454785,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/35852454785",
+      "csv_data": {
+        "close_date": "2025-08-13 8:24",
+        "deal_owner": "Alex Macaulay",
+        "amount": "25000",
+        "company_domain": "ntgfreight.com",
+        "create_date": "2025-04-16 12:16",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2025-08-13 8:55",
+        "next_step_notes": "7/13\n\nNo update, plan to follow up directly with CHRO on 7/14. Goal is to propose in-office sync as they are based in ATL\n\n7/3\n\nSlow moving account, positive feedback from CHRO presentation, but will still likely require a pilot. Continuing to follow up, we are competing for bandwidth with several priorities.\n\n6/13\n\nPresented to CHRO earlier this week, he is open to an additional discussion to scope a POC and align on ROI metrics\n\n6/9\n\nSync with primary stakeholder scheduled for 6/10 prior to CHRO meeting which is on 6/11.\n\nThe goal is to secure CHRO buy-in for a POC and scope a full partnership.\n\n6/2\n\nWorking with primary stakeholder to coordinate CHRO call the week of 6/9\n\n5/19\n\nCall scheduled with primary stakeholder on 5/28 to discuss pilot logistics and bring in broader stakeholder group to align on highest priority use cases of a potential pilot.\n\n5/2\n\nNTG is exploring Wisq to reduce the manual workload on a lean HR team by automating HR service delivery and scaling support across their 1,500 employees. Christie McNeill (Director of People Solutions) is the primary stakeholder and is driving the evaluation. She’s aligned on the value but has budget constraints, so we are discussing a $25K paid pilot focused on low-lift, high-impact use cases—starting with Benefits and Knowledge Management. NTG has internal data scientists, but Christie acknowledged that building internally would be barebones and high risk due to limited HR domain expertise. \n\nNext step \n\n Working session with additional HR stakeholders (e.g. Benefits, HRBPs, Talent Development) to validate use cases, define pilot scope, and pre-align on success criteria and potential full partnership (~$100K).\n\n\n\n\n\n\n4/28\n\nNext step - meeting on 5/1\n\nBroaden Discovery:\nSuggest a working session with Christie and additional NTG stakeholders (Comp, Benefits, Payroll, Talent Acquisition, Talent Development) to deeply understand their unique challenges, workflows, and high-impact opportunities.\n\nAvoid a Pilot if Possible:\nChristie insinuated that her definition of \"pilot\" would be a small, paid, limited-user rollout to validate functionality before committing.\nInstead of defaulting into a pilot, your goal is to uncover the real concerns driving this desire (e.g., risk, cost, adoption fears) and determine what NTG would need to feel confident in a full partnership — without a formal pilot.\n\nClarify Evaluation and Success Criteria:\nDig into what NTG would need to see in terms of functionality, value, user adoption, and ROI to greenlight a full rollout confidently.\n\n4/23\n\nCompleted 2nd call with Director of People Solutions. Very interested in the platform and there's clear need, but she had pushback about pricing, and also asked about some type of pilot. Call scheduled 5/1 to discuss options. Need to involve more senior stakeholders and align on timing.\n\n\nAM 4/21: call rescheduled for 4/22\nDiscussing key use cases, didn't get all the way through intro deck last time. Discover priority use cases on 4/22 call. Expand DMU.",
+        "company_name": "Nolan Transportation Group (NTG)",
+        "number_of_employees": "1310",
+        "primary_industry": "Truck Transportation"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 112726361231,
+          "firstname": "Christie",
+          "lastname": "McNeill",
+          "email": "christie.mcneill@ntgfreight.com",
+          "jobtitle": "Director of People Solutions",
+          "phone": "512-617-9348",
+          "company": "NTG"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "WORLDPAC - 1,500 EE",
+      "hubspot_deal_id": 41327669061,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/41327669061",
+      "csv_data": {
+        "close_date": "2025-08-15 12:55",
+        "deal_owner": "Alex Macaulay",
+        "amount": "130000",
+        "company_domain": "worldpac.com",
+        "create_date": "2025-08-04 9:08",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": "2025-08-11 11:15",
+        "next_step_notes": null,
+        "company_name": "Worldpac",
+        "number_of_employees": "2183",
+        "primary_industry": "Wholesale Motor Vehicles and Parts"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 172726329393,
+          "firstname": "Christina",
+          "lastname": "P",
+          "email": "christina.pishko@worldpac.com",
+          "jobtitle": "Director Human Resources Operations",
+          "company": "WORLDPAC"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Spreetail - 750 EE",
+      "hubspot_deal_id": 40532923029,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40532923029",
+      "csv_data": {
+        "close_date": "2025-07-29 8:28",
+        "deal_owner": "Alex Macaulay",
+        "amount": "75000",
+        "company_domain": "spreetail.com",
+        "create_date": "2025-07-20 10:57",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-07-29 11:07",
+        "next_step_notes": null,
+        "company_name": "Spreetail",
+        "number_of_employees": "877",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 122630536757,
+          "firstname": "Melissa",
+          "lastname": "Baird",
+          "email": "melissa.baird@spreetail.com",
+          "jobtitle": "Sr. Manager, HR Operations",
+          "company": "Spreetail"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Restaurant Brands International - 8K EE",
+      "hubspot_deal_id": 40011181570,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40011181570",
+      "csv_data": {
+        "close_date": "2025-08-13 8:21",
+        "deal_owner": "Alex Macaulay",
+        "amount": "250000",
+        "company_domain": "rbi.com",
+        "create_date": "2025-07-11 16:58",
+        "closed_lost_reason": "Disqualified / DQ'd",
+        "last_activity_date": "2025-07-24 14:00",
+        "next_step_notes": "7/11\n\nCompleted intro call with VP of HR Ops and two IT contacts. They want to pilot a tool like Wisq for Tier 0 service delivery. No scheduled next steps yet, but we verbally discussed executing an NDA and scheduling a scoping session. Following up next week. \n\nWill move to SQO once that meeting is scheduled.",
+        "company_name": "Restaurant Brands International",
+        "number_of_employees": "9511",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 198233187944,
+          "firstname": "Tarna",
+          "lastname": "Daniel",
+          "email": "tarna.aiem@pandarg.com",
+          "jobtitle": "Director, HR Services",
+          "company": "Panda Restaurant Group, Inc."
+        },
+        {
+          "contact_id": 132889861505,
+          "firstname": "Enrique",
+          "lastname": "Guitart",
+          "email": "eguitart@rbi.com",
+          "jobtitle": "Director of AI",
+          "company": "Restaurant Brands International"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Benihana  - 11K EE",
+      "hubspot_deal_id": 37277055366,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/37277055366",
+      "csv_data": {
+        "close_date": "2025-06-13 15:13",
+        "deal_owner": "Alex Macaulay",
+        "amount": "300000",
+        "company_domain": "benihana.com",
+        "create_date": "2025-05-15 17:58",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": "2025-06-11 16:46",
+        "next_step_notes": "6/9\n\nStakeholders unresponsive since our 2nd meeting with VP (Freddy). Will attempt one additional follow up this week and next before moving to closed-lost\n\n5/16\n\nCompleted intro call with HRIS Manager in advance of a broader demo, followed by an additional call with VP of HR for The One Group (Holding company).\n\nNext Steps -\n\nSending follow up to schedule an additional conversation around use case scoping. Still VERY early.",
+        "company_name": "Benihana",
+        "number_of_employees": "3477",
+        "primary_industry": "Restaurants"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 120528960891,
+          "firstname": "Crystal",
+          "lastname": "Thompson",
+          "email": "crthompson@benihana.com",
+          "jobtitle": "HRIS Manager",
+          "phone": "(305) 593-0770",
+          "company": "Benihana"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "TransPak - New Deal",
+      "hubspot_deal_id": 35023900244,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/35023900244",
+      "csv_data": {
+        "close_date": "2025-04-23 12:57",
+        "deal_owner": "Alex Macaulay",
+        "amount": "120000",
+        "company_domain": "transpak.com",
+        "create_date": "2025-03-24 9:30",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-04-23 12:57",
+        "next_step_notes": null,
+        "company_name": "TransPak",
+        "number_of_employees": "1138",
+        "primary_industry": "Packaging and Containers Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 166922079813,
+          "firstname": "Annya",
+          "lastname": "Andrade",
+          "email": "annya.andrade@transpak.com",
+          "jobtitle": "Manager, Benefits & Compensation",
+          "phone": "(408) 478-9356",
+          "company": "TransPak"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Claire's - 10K EE",
+      "hubspot_deal_id": 35594905953,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/35594905953",
+      "csv_data": {
+        "close_date": "2025-05-01 9:05",
+        "deal_owner": "Alex Macaulay",
+        "amount": "480000",
+        "company_domain": "claires.com",
+        "create_date": "2025-04-08 15:50",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-04-16 8:35",
+        "next_step_notes": "4/28\n\nProspect unresponsive. CPO would need to green light further evaluation, but doesn't seem to be prioritizing this type of project. Will attempt to follow up with our primary stakeholders one more time before closing this opportunity.\n\nAM 4/21: good conversation with contact who handles Europe HR. CPO doesn't seem that engaged - didn't grok where it would fit in. \nNext step is to reach back out to director of HR who reports to CPO. Goal would be to get green light from CPO to evaluate.",
+        "company_name": "Claire's",
+        "number_of_employees": "9917",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 111258184973,
+          "firstname": "Charlotte",
+          "lastname": "Byrnes",
+          "email": "charlotte.byrnes@claires.com",
+          "jobtitle": "Recruitment Business Partner",
+          "phone": "(847) 765-1100",
+          "company": "Claire's"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Redbull - POC 7k",
+      "hubspot_deal_id": 35026837167,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/35026837167",
+      "csv_data": {
+        "close_date": "2025-05-14 10:25",
+        "deal_owner": "Alex Macaulay",
+        "amount": "50000",
+        "company_domain": "redbull.com",
+        "create_date": "2025-03-24 9:40",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-04-09 13:17",
+        "next_step_notes": "4/28\n\nProspect has been unresponsive since initial conversation 3.27. Will send break up email this week and close the opportunity if we do not receive response.",
+        "company_name": "Red Bull",
+        "number_of_employees": "31298",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 107818850339,
+          "firstname": "Kevin",
+          "lastname": "Navikas",
+          "email": "knavikas@moneylion.com",
+          "jobtitle": "VP, People",
+          "company": "MoneyLion (Redbull deal)"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Maverik, Inc. - New Deal",
+      "hubspot_deal_id": 34542648922,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/34542648922",
+      "csv_data": {
+        "close_date": "2025-07-03 11:21",
+        "deal_owner": "Alex Macaulay",
+        "amount": "343910",
+        "company_domain": "maverik.com",
+        "create_date": "2025-03-11 11:54",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": "2025-04-04 12:48",
+        "next_step_notes": "6/9\n\nClayton to reach out to Cindy Mudge to see if she can gain intel from Kim Lazerus (Maverik CHRO)\n\n6/2\n\nPlanning to follow up this week to re-engage Kim.\n\n5/12\n\nEmailed 5/6 but no response from Kim, will follow up later this week\n\n5/6\n\nSent additional follow up to Kim to align on a follow up. Aiming to continue the momentum while she and her team pull together the data Marc previously suggested.\n\n4/28\n\nWe should be receiving feedback from Kim this week after they've audited their current HR service delivery data. Marc will introduce Alex this week.\n\nAM 4.21 - awaiting update from Kim next week, will schedule a call for early May. Intro Alex last week of April.\nMM early April - Emailed Kim disco questions to size Harper business case",
+        "company_name": "Kum & Go",
+        "number_of_employees": "2299",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Hess Corporation - 5K EE",
+      "hubspot_deal_id": 39509204272,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/39509204272",
+      "csv_data": {
+        "close_date": "2025-07-03 11:07",
+        "deal_owner": "Alex Macaulay",
+        "amount": "300000",
+        "company_domain": "chevron.com",
+        "create_date": "2025-06-30 9:21",
+        "closed_lost_reason": "Internal Reorg / Layoffs",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "Chevron",
+        "number_of_employees": "54898",
+        "primary_industry": "Oil and Gas"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "CarMax - 17K EE",
+      "hubspot_deal_id": 40011181333,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40011181333",
+      "csv_data": {
+        "close_date": "2025-08-20 13:50",
+        "deal_owner": "Alex Macaulay",
+        "amount": "500000",
+        "company_domain": "carmax.com",
+        "create_date": "2025-07-11 16:56",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": null,
+        "next_step_notes": "7/11\n\nCompleted intro call with AVP HR Transformation and Operations. Still very early but she will be bringing Wisq to their AI Committee to determine if there's enough interest to warrant an evaluation. Will follow up next week.",
+        "company_name": "CarMax",
+        "number_of_employees": "17437",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 127190770845,
+          "firstname": "Whitney",
+          "lastname": "Pinna",
+          "email": "whitney_w_pinna@carmax.com",
+          "jobtitle": null,
+          "company": "CarMax"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Keolis North America - 850 EE",
+      "hubspot_deal_id": 40982045495,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/40982045495",
+      "csv_data": {
+        "close_date": "2025-08-06 18:48",
+        "deal_owner": "Alex Macaulay",
+        "amount": "85000",
+        "company_domain": "keolisna.com",
+        "create_date": "2025-07-28 15:06",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "Keolis North America Inc.",
+        "number_of_employees": "902",
+        "primary_industry": "Transportation/Trucking/Railroad"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 58451833390,
+          "firstname": "Robert",
+          "lastname": "Anderson",
+          "email": "robert.anderson@keolisna.com",
+          "jobtitle": "EVP HR",
+          "phone": "(857) 598-6455",
+          "company": "Keolis"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "CNH Industrial - New Deal",
+      "hubspot_deal_id": 43542981229,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/43542981229",
+      "csv_data": {
+        "close_date": "2025-09-11 10:37",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "cnh.com",
+        "create_date": "2025-09-11 10:36",
+        "closed_lost_reason": "Wrong Point of Contact",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "CNH",
+        "number_of_employees": "29232",
+        "primary_industry": "Machinery Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 154583401251,
+          "firstname": "Michelle",
+          "lastname": "Agnew",
+          "email": "michelle.agnew@cnh.com",
+          "jobtitle": "Head of Development, Engagement, Diversity, Culture",
+          "company": "CNH Industrial"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Tractor Supply - New Deal",
+      "hubspot_deal_id": 45664147232,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/45664147232",
+      "csv_data": {
+        "close_date": "2025-10-10 9:51",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "tractorsupply.com",
+        "create_date": "2025-10-10 9:50",
+        "closed_lost_reason": "Wrong Point of Contact",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "Tractor Supply Company",
+        "number_of_employees": "20895",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 166922644090,
+          "firstname": "Michael",
+          "lastname": "Priest",
+          "email": "mpriest@tractorsupply.com",
+          "jobtitle": "Director, Human Resources Technology & Analytics",
+          "company": "Tractor Supply"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Dairy Queen - New Deal",
+      "hubspot_deal_id": 51020286513,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/51020286513",
+      "csv_data": {
+        "close_date": "2025-12-12 12:57",
+        "deal_owner": "Marc Lombardo",
+        "amount": null,
+        "company_domain": "dairyqueen.com",
+        "create_date": "2025-12-02 13:22",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": null,
+        "next_step_notes": "12/3 - unlikely anything here - waiting to circle back with the team for any next steps",
+        "company_name": "Dairy Queen",
+        "number_of_employees": "35409",
+        "primary_industry": "Food and Beverage Services"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "CCC Group, - 1,200 EE",
+      "hubspot_deal_id": 51317323682,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/51317323682",
+      "csv_data": {
+        "close_date": "2025-12-18 8:38",
+        "deal_owner": "Alex Macaulay",
+        "amount": "133000",
+        "company_domain": "cccgroupinc.com",
+        "create_date": "2025-12-08 17:28",
+        "closed_lost_reason": "Unresponsive",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "CCC Group, Inc.",
+        "number_of_employees": "1455",
+        "primary_industry": "Construction"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 179174749582,
+          "firstname": null,
+          "lastname": null,
+          "email": "monicab@cccgroupinc.com",
+          "jobtitle": null,
+          "company": "CCC Group"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Daikin Applied - New Deal",
+      "hubspot_deal_id": 51514606674,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/51514606674",
+      "csv_data": {
+        "close_date": "2025-12-10 11:26",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "daikinapplied.com",
+        "create_date": "2025-12-09 15:24",
+        "closed_lost_reason": "Timing: In Tourist Mode",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "Daikin Applied Americas",
+        "number_of_employees": "4691",
+        "primary_industry": "Industrial Machinery Manufacturing"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Invenergy - New Deal",
+      "hubspot_deal_id": 52207250283,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/52207250283",
+      "csv_data": {
+        "close_date": "2025-12-19 9:20",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "invenergy.com",
+        "create_date": "2025-12-19 9:19",
+        "closed_lost_reason": "Wrong Point of Contact",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "Invenergy",
+        "number_of_employees": "2463",
+        "primary_industry": "Electric Power Generation"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Custom Truck One Source - 2.5k ees",
+      "hubspot_deal_id": 53550519144,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/53550519144",
+      "csv_data": {
+        "close_date": "2026-01-12 10:47",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "customtruck.com",
+        "create_date": "2026-01-12 10:45",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": null,
+        "next_step_notes": "Not a good lead, but the right title and within our ICP. QM but then Close losts",
+        "company_name": "Custom Truck One Source",
+        "number_of_employees": "1154",
+        "primary_industry": "Machinery Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 181604350901,
+          "firstname": "Shawn",
+          "lastname": "Richardson",
+          "email": "shawn.richardson@customtruck.com",
+          "jobtitle": "VP HR and Talent",
+          "phone": "+1 (816) 627-2614",
+          "company": "Custom Truck One Source"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Dakkota Integrated Systems - New Deal",
+      "hubspot_deal_id": 55031439902,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55031439902",
+      "csv_data": {
+        "close_date": "2026-01-30 12:52",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "dakkota.com",
+        "create_date": "2026-01-30 9:39",
+        "closed_lost_reason": "Timing: Competing Priorities",
+        "last_activity_date": null,
+        "next_step_notes": "Nurture - looking at AI for TA then for HR team",
+        "company_name": "Dakkota Integrated Systems",
+        "number_of_employees": "1104",
+        "primary_industry": "Motor Vehicle Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 104311197030,
+          "firstname": "Kieran",
+          "lastname": "Carr",
+          "email": "kieran.carr@eg-america.com",
+          "jobtitle": "Director of Talent Acquisition",
+          "phone": "(508) 270-3137",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 104320092246,
+          "firstname": "Diana",
+          "lastname": "Styles",
+          "email": "diana.styles@eg-america.com",
+          "jobtitle": "Chief Human Resources Officer",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 111567233285,
+          "firstname": "Michelle",
+          "lastname": "Hayes",
+          "email": "michelle.hayes@eg-america.com",
+          "jobtitle": "Vice President, Employee Relations",
+          "phone": "(508) 988-0053",
+          "company": "EG America"
+        },
+        {
+          "contact_id": 197277873849,
+          "firstname": null,
+          "lastname": null,
+          "email": "suzanne.hicks@dakkota.com",
+          "jobtitle": null,
+          "company": "Dakkota Integrated Systems"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "SuperMicro - New Deal",
+      "hubspot_deal_id": 55031194888,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55031194888",
+      "csv_data": {
+        "close_date": "2026-01-30 17:08",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "supermicro.com",
+        "create_date": "2026-01-30 9:49",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": null,
+        "next_step_notes": "Nurture",
+        "company_name": "Supermicro",
+        "number_of_employees": "5465",
+        "primary_industry": "Computer Hardware Manufacturing"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 172740337465,
+          "firstname": "Michelle",
+          "lastname": "Montoya",
+          "email": "michelle.m@supermicro.com",
+          "jobtitle": "Director, Human Resources Compliance & Employee Relations",
+          "company": "SuperMicro"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Hallmark Cards Inc - New Deal",
+      "hubspot_deal_id": 55757962052,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/55757962052",
+      "csv_data": {
+        "close_date": "2026-02-09 10:10",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "hallmark.com",
+        "create_date": "2026-02-09 10:09",
+        "closed_lost_reason": "Timing: No Urgency",
+        "last_activity_date": null,
+        "next_step_notes": "No next steps - push out for 6/9 months and not budget looking to cut HR heads and not add any new spend",
+        "company_name": "Hallmark Cards",
+        "number_of_employees": "17315",
+        "primary_industry": "Retail"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "Joby Aviation - New Deal",
+      "hubspot_deal_id": 57397077812,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/57397077812",
+      "csv_data": {
+        "close_date": "2026-03-02 16:08",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "jobyaviation.com",
+        "create_date": "2026-03-02 16:07",
+        "closed_lost_reason": "Product Misalignment: Too Advanced for Org",
+        "last_activity_date": null,
+        "next_step_notes": null,
+        "company_name": "Joby Aviation",
+        "number_of_employees": "2002",
+        "primary_industry": "Airlines and Aviation"
+      },
+      "associated_contacts": [
+        {
+          "contact_id": 160707882363,
+          "firstname": null,
+          "lastname": null,
+          "email": "lauren.meisenheimer@jobyaviation.com",
+          "jobtitle": null,
+          "company": "Joby Aviation"
+        }
+      ],
+      "emails": [],
+      "meetings": []
+    },
+    {
+      "deal_name": "East Tennessee Natural Gas, LLC - New Deal",
+      "hubspot_deal_id": 59186221865,
+      "hubspot_url": "https://app.hubspot.com/contacts/21694412/record/0-3/59186221865",
+      "csv_data": {
+        "close_date": "2026-04-20 12:45",
+        "deal_owner": "Fraser Aitken",
+        "amount": null,
+        "company_domain": "enbridge.com",
+        "create_date": "2026-04-16 18:22",
+        "closed_lost_reason": "Timing: In Tourist Mode",
+        "last_activity_date": null,
+        "next_step_notes": "React with Alexis after the 20 person demo",
+        "company_name": "Enbridge",
+        "number_of_employees": "11686",
+        "primary_industry": "Oil and Gas"
+      },
+      "associated_contacts": [],
+      "emails": [],
+      "meetings": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "company": "Nolan Transportation Group (NTG)",
+  "deal_id": 35852454785,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Timing: No Urgency",
+  "close_date": "2025-08-13 8:24",
+  "last_activity_date": "2025-08-13 8:55",
+  "reengage_score": 64.0,
+  "contacts": [
+    {
+      "name": "Christie McNeill",
+      "title": "Director of People Solutions"
+    }
+  ],
+  "next_step_notes": "7/13\n\nNo update, plan to follow up directly with CHRO on 7/14. Goal is to propose in-office sync as they are based in ATL\n\n7/3\n\nSlow moving account, positive feedback from CHRO presentation, but will still likely require a pilot. Continuing to follow up, we are competing for bandwidth with several priorities.\n\n6/13\n\nPresented to CHRO earlier this week, he is open to an additional discussion to scope a POC and align on ROI metrics\n\n6/9\n\nSync with primary stakeholder scheduled for 6/10 prior to CHRO meeting which is on 6/11.\n\nThe goal is to secure CHRO buy-in for a POC and scope a full partnership.\n\n6/2\n\nWorking with primary stakeholder to coordinate CHRO call the week of 6/9\n\n5/19\n\nCall scheduled with primary stakeholder on 5/28 to discuss pilot logistics and bring in broader stakeholder group to align on highest priority use cases of a potential pilot.\n\n5/2\n\nNTG is exploring Wisq to reduce the manual workload on a lean HR team by automating HR service delivery and scaling support across their 1,500 employees. Christie McNeill (Director of People Solutions) is the primary stakeholder and is driving the evaluation. She\u2019s aligned on the value but has budget constraints, so we are discussing a $25K paid pilot focused on low-lift, high-impact use cases\u2014starting with Benefits and Knowledge Management. NTG has internal data scientists, but Christie acknowledged that building internally would be barebones and high risk due to limited HR domain expertise. \n\nNext step \n\n Working session with additional HR stakeholders (e.g. Benefits, HRBPs, Talent Development) to validate use cases, define pilot scope, and pre-align on success criteria and potential full partnership (~$100K).\n\n\n\n\n\n\n4/28\n\nNext step - meeting on 5/1\n\nBroaden Discovery:\nSuggest a working session with Christie and additional NTG stakeholders (Comp, Benefits, Payroll, Talent Acquisition, Talent Development) to deeply understand their unique challenges, workflows, and high-impact opportunities.\n\nAvoid a Pilot if Possible:\nChristie insinuated that her definition of \"pilot\" would be a small, paid, limited-user rollout to validate functionality before committing.\nInstead of defaulting into a pilot, your goal is to uncover the real concerns driving this desire (e.g., risk, cost, adoption fears) and determine what NTG would need to feel confident in a full partnership \u2014 without a formal pilot.\n\nClarify Evaluation and Success Criteria:\nDig into what NTG would need to see in terms of functionality, value, user adoption, and ROI to greenlight a full rollout confidently.\n\n4/23\n\nCompleted 2nd call with Director of People Solutions. Very interested in the platform and there's clear need, but she had pushback about pricing, and also asked about some type of pilot. Call scheduled 5/1 to discuss options. Need to involve more senior stakeholders and align on timing.\n\n\nAM 4/21: call rescheduled for 4/22\nDiscussing key use cases, didn't get all the way through intro deck last time. Discover priority use cases on 4/22 call. Expand DMU.",
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-08-13T12:55:45",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: That was awesome",
+      "person": "Christie McNeill",
+      "text": "[like]  Christie McNeill (Nolan Transp... reacted to your message:\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Wednesday, August 13, 2025 12:24:14 PM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: That was awesome\r\n\r\nThanks for the update - let me know when it makes sense to revisit the conversation.\r\n\r\nHave a great week!\r\n\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Fri, Aug 8, 2025 at 3:08\u202fPM Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com<mailto:christie.mcneill@ntgfreight.com>> wrote:\r\nOK thanks for this-- I'll let Bryan know.\r\n\r\nI haven't heard much about this.  Full transparency I think they're trying to figure out where this fits in the broad"
+    },
+    {
+      "type": "email",
+      "date": "2025-08-08T19:08:46",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "OK thanks for this-- I'll let Bryan know.\r\n\r\nI haven't heard much about this.  Full transparency I think they're trying to figure out where this fits in the broader AI roadmap... I know our product teams are working with other AI vendors to automate a bunch of stuff in Sales & Ops so we're just making sure that whatever we do will fit nicely with the rest of the org.\r\n\r\nI'll let you know when I get any more info.  Have a good weekend!\r\n-Christie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Wednesday, August 6, 2025 2:44 PM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: That was awesome\r\n\r\nHi Christie,\r\n\r\nThanks for the note! Apologies for the delay.\r\n\r\nTo address his concern directly: Wisq takes accountabi"
+    },
+    {
+      "type": "email",
+      "date": "2025-07-21T20:40:30",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "I got a 2 minute convo with him about it late last week. His biggest comment was about compliance-- just the uncertainty of \"who is liable\" if the tool gives an incorrect answer.\r\n\r\nIs there an easy answer to that?\r\n\r\nAlso just think- transparently- it's going to be a struggle to get any project over the finish line right now with several other unrelated projects taking priority. I'm still trying though!!\r\n\r\n-Christie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Monday, July 21, 2025 2:39 PM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: That was awesome\r\n\r\nHi Christie!\r\n\r\nHope all has been well since we last connected. I've followed up with Bryan a few times but I've yet to hear back.\r\n\r\nDoes this feel li"
+    },
+    {
+      "type": "email",
+      "date": "2025-06-24T20:21:09",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: That was awesome",
+      "person": "Christie McNeill",
+      "text": "[like]  Christie McNeill (Nolan Transp... reacted to your message:\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, June 24, 2025 8:10:25 PM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: That was awesome\r\n\r\nThanks for the note! I'll follow up with Bryan (darn autocorrect!) on the previous thread with the three of us.\r\n\r\nYou'll be able to see if he replies, but let me know if you all have a chance to chat internally as well. Appreciate your partnership as always!\r\n\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Mon, Jun 23, 2025 at 5:31\u202fPM Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com<mailto:christie.mcneill@ntgfreight.com>> wrote:\r\nHonestly we h"
+    },
+    {
+      "type": "email",
+      "date": "2025-06-23T21:31:25",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "Honestly we haven't even had a chance to truly debrief about this yet-- not because we aren't excited, just because other unrelated things keep coming up.\r\nBetween us, I think it would be fine if you wanted to reach out directly to him-- either just by email or to take him up on his idea of yall meeting up in ATL!  Only if you want!\r\n\r\nI should have time to debrief with him next week.\r\n\r\nAnd in case you do reach out-- it's Bryan with a y, not an i! \ud83e\udd2a\r\n\r\nI'm still super excited about this and he seemed to be too-- just a matter of where it sits on his priority list.\r\nFingers crossed!\r\n-Christie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Monday, June 23, 2025 12:35 PM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubj"
+    },
+    {
+      "type": "email",
+      "date": "2025-06-05T18:27:33",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Great use case for this new \"booking\" tool I just set up!\r\nWould you mind being my guinea pig to see if this works?  You should be able to click below to schedule a 30 minute check-in (or at least see my openings so you can send your own invite, if you want.)\r\n\r\nBook a meeting with me!<https://outlook.office.com/book/ChristieMcNeill@ntgfreight.onmicrosoft.com/s/s9ZPxPPxMUKpx1-P-Y2NUA2?ismsaljsauthenabled>\r\n\r\n-Christie\r\n\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Thursday, June 5, 2025 8:46 AM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: Wisq & NTG\r\n\r\nGreat! I will send an invite to confirm.\r\n\r\nDo you have availability on Tuesday 6/10 to ensure we are aligned ahead of time?\r\n\r\n\r\nAlex Macaulay\r\nEnterpris"
+    },
+    {
+      "type": "email",
+      "date": "2025-06-05T14:01:55",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Confirmed that Wednesday 6/11 at 2:30pm ET for 30 minutes works for both Bryan and I.\r\n\r\nYou can loop him into the invite: Bryan Rueger , brueger@t-insight.com\r\n\r\nLet's schedule a call (just us) prior to make sure we're aligned on content.\r\n\r\nThanks!\r\n-Christie\r\n________________________________\r\nFrom: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSent: Wednesday, June 4, 2025 1:31 PM\r\nTo: Alex Macaulay <alex@wisq.com>\r\nSubject: Re: Wisq & NTG\r\n\r\nStill working on it but haven't forgotten!\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Wednesday, June 4, 2025 9:22 AM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: Wisq & NTG\r\n\r\nThanks Christie! Let me know if you have any prel"
+    },
+    {
+      "type": "email",
+      "date": "2025-06-04T19:31:56",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Still working on it but haven't forgotten!\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Wednesday, June 4, 2025 9:22 AM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: Wisq & NTG\r\n\r\nThanks Christie! Let me know if you have any preliminary time slots so I can coordinate on my side.\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Thu, May 29, 2025 at 2:58\u202fPM Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com<mailto:christie.mcneill@ntgfreight.com>> wrote:\r\nAgreed on approach!\r\nIt'll take me a few days to get back to you about his schedule but I'm working on it!\r\n\r\nThanks,\r\nChristie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com<mailto:al"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-29T18:58:16",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Agreed on approach!\r\nIt'll take me a few days to get back to you about his schedule but I'm working on it!\r\n\r\nThanks,\r\nChristie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Thursday, May 29, 2025 12:53 PM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: Wisq & NTG\r\n\r\n\r\nHi Christie,\r\n\r\nThanks again for the thoughtful conversation earlier this week\u2014I really appreciate your transparency and the way you're thinking about balancing long-term strategy with making meaningful progress now.\r\n\r\nFrom our discussion, it\u2019s clear that two of Brian\u2019s key priorities for this year are:\r\n\r\n  *   Driving efficiency without adding headcount\r\n\r\n  *   Elevating the role of HR by freeing up time for more strategic work\r\n\r\nThese ar"
+    },
+    {
+      "type": "email",
+      "date": "2025-04-21T16:00:16",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Aw I'm sorry you're sick!\r\nNo worries on the reschedule-- I'm free tomorrow from 11am-12:30pm CT, or from 1pm- 2pm CT. Do any of those work?\r\n\r\nHope you feel better.\r\n-Christie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Monday, April 21, 2025 10:52 AM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Re: Wisq & NTG\r\n\r\nChristie - Apologies for the inconvenience, I'm out sick today with a stomach bug. Could we please move our call to Tuesday or Wednesday?\r\n\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Fri, Apr 18, 2025 at 9:07\u202fAM Alex Macaulay <alex@wisq.com<mailto:alex@wisq.com>> wrote:\r\nHey Christie,\r\n\r\nThanks for letting me know. Can we plan for 12pm CT on Monday?\r\n\r\nIf that works I'll"
+    },
+    {
+      "type": "email",
+      "date": "2025-04-18T00:29:26",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Hey Alex,\r\nI had a scheduling mixup and need to bump our call tomorrow to next week.\r\nDo you have any time on Monday?  I am free from 10:30am - 2pm CT Monday, or anytime Tuesday morning.\r\n\r\nThank you and looking forward to connecting again!\r\n\r\nThanks,\r\nChristie\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Thursday, April 17, 2025 8:58 AM\r\nTo: Christie McNeill (Nolan Transportation Group) <christie.mcneill@ntgfreight.com>\r\nSubject: Wisq & NTG\r\n\r\n\r\nHi Christie,\r\n\r\nThanks again for taking the time to connect earlier this week. It was great to learn more about NTG\u2019s priorities and the innovative mindset you\u2019re bringing to the People function. Based on our conversation, I wanted to share a quick recap and outline how Wisq may be able to support your team:\r\n\r\nWha"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "Thanks for the update - let me know when it makes sense to revisit the\r\nconversation.\r\n\r\nHave a great week!\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Fri, Aug 8, 2025 at 3:08\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> OK thanks for this-- I'll let Bryan know.\r\n>\r\n> I haven't heard much about this.  Full transparency I think they're trying\r\n> to figure out where this fits in the broader AI roadmap... I know our\r\n> product teams are working with other AI vendors to automate a bunch of\r\n> stuff in Sales & Ops so we're just making sure that whatever we do will fit\r\n> nicely with the rest of the org.\r\n>\r\n> I'll let you know when I get any more info.  Have a good weekend!\r\n> -Christie\r\n> ------------------"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "Hi Christie!\r\n\r\nHope all has been well since we last connected. I've followed up with Bryan\r\na few times but I've yet to hear back.\r\n\r\nDoes this feel like a project that is still on his radar? Would love your\r\nfeedback as to how we can best align moving forward. Thanks!\r\n\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Tue, Jun 24, 2025 at 4:21\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> [image: like] Christie McNeill (Nolan Transp... reacted to your message:\r\n> ------------------------------\r\n> *From:* Alex Macaulay <alex@wisq.com>\r\n> *Sent:* Tuesday, June 24, 2025 8:10:25 PM\r\n> *To:* Christie McNeill (Nolan Transportation Group) <\r\n> christie.mcneill@ntgfreight.com>\r\n> *Subject:* Re: That was awesome\r\n>\r\n"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "Thanks for the note! I'll follow up with Bryan (darn autocorrect!) on the\r\nprevious thread with the three of us.\r\n\r\nYou'll be able to see if he replies, but let me know if you all have a\r\nchance to chat internally as well. Appreciate your partnership as always!\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Mon, Jun 23, 2025 at 5:31\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> Honestly we haven't even had a chance to truly debrief about this yet--\r\n> not because we aren't excited, just because other unrelated things keep\r\n> coming up.\r\n> Between us, I think it would be fine if you wanted to reach out directly\r\n> to him-- either just by email or to take him up on his idea of yall meeting\r\n> up in ATL!  Only "
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: That was awesome",
+      "person": "Christie McNeill",
+      "text": "Thanks Christie! Really appreciate your partnership and preparation.\r\n\r\nI'll review my notes and send a detailed follow up tomorrow. Let me know if\r\nyou/Brian have any additional thoughts or feedback in the meantime.\r\n\r\nThanks again!\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, Jun 12, 2025 at 11:33\u202fAM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> That went about as well as I could have hoped!  You did so good-- thank\r\n> you!!\r\n> -Christie\r\n>\r\n>\r\n>\r\n> [image: photo]\r\n>\r\n> [image: photo]\r\n>\r\n> *Christie McNeill*\r\n> *Director, People Solutions*\r\n>\r\n> 512-617-9348  |  *christie.mcneill@ntgfreight.com\r\n> <christie.mcneill@ntgfreight.com>*\r\n>\r\n>\r\n>\r\n> Transportation Insight  |  *www.transportationinsight.com\r\n>"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "It worked! It showed your availability. I just booked us for Tuesday at\r\n12:15pm EST.\r\n\r\nLet me know if you have any questions or feedback ahead of time. Have a\r\ngreat weekend!\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, Jun 5, 2025 at 2:27\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> Great use case for this new \"booking\" tool I just set up!\r\n> Would you mind being my guinea pig to see if this works?  You should be\r\n> able to click below to schedule a 30 minute check-in (or at least see my\r\n> openings so you can send your own invite, if you want.)\r\n>\r\n> Book a meeting with me!\r\n> <https://outlook.office.com/book/ChristieMcNeill@ntgfreight.onmicrosoft.com/s/s9ZPxPPxMUKpx1-P-Y2NUA2?ismsaljsauthenabled>\r"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Great! I will send an invite to confirm.\r\n\r\nDo you have availability on Tuesday 6/10 to ensure we are aligned ahead of\r\ntime?\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, Jun 5, 2025 at 10:01\u202fAM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> Confirmed that *Wednesday 6/11 at 2:30pm ET for 30 minutes* works for\r\n> both Bryan and I.\r\n>\r\n> You can loop him into the invite: Bryan Rueger , brueger@t-insight.com\r\n>\r\n> Let's schedule a call (just us) prior to make sure we're aligned on\r\n> content.\r\n>\r\n> Thanks!\r\n> -Christie\r\n> ------------------------------\r\n> *From:* Christie McNeill (Nolan Transportation Group) <\r\n> christie.mcneill@ntgfreight.com>\r\n> *Sent:* Wednesday, June 4, 2025 1:31 PM\r\n> *To:* Alex Macau"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Thanks Christie! Let me know if you have any preliminary time slots so I\r\ncan coordinate on my side.\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, May 29, 2025 at 2:58\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> Agreed on approach!\r\n> It'll take me a few days to get back to you about his schedule but I'm\r\n> working on it!\r\n>\r\n> Thanks,\r\n> Christie\r\n> ------------------------------\r\n> *From:* Alex Macaulay <alex@wisq.com>\r\n> *Sent:* Thursday, May 29, 2025 12:53 PM\r\n> *To:* Christie McNeill (Nolan Transportation Group) <\r\n> christie.mcneill@ntgfreight.com>\r\n> *Subject:* Re: Wisq & NTG\r\n>\r\n>\r\n> Hi Christie,\r\n>\r\n> Thanks again for the thoughtful conversation earlier this week\u2014I really\r\n> appreciate your tr"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Invitation: Wisq & NTG @ Wed May 21, 2025 10am - 10:15am (EDT) (christie.mcneill@ntgfreight.com)",
+      "person": "Christie McNeill",
+      "text": "No worries! I just sent a new invite for the afternoon on 5/27.\r\n\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, May 8, 2025 at 1:20\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> I am so sorry, for some reason this particular day keeps getting filled\r\n> up! Turns out I'll be traveling this week so can we push to the following\r\n> week? Anytime on 5/26 or in the afternoon on 5/27 would work.\r\n> Thanks,\r\n> Christie\r\n>\r\n> ------------------------------\r\n> *From:* Alex Macaulay <alex@wisq.com>\r\n> *Sent:* Monday, May 5, 2025 7:15 AM\r\n> *To:* Christie McNeill (Nolan Transportation Group) <\r\n> christie.mcneill@ntgfreight.com>\r\n> *Subject:* Invitation: Wisq & NTG @ Wed May 21, 2025 10am - 10:15am (EDT)\r\n> (chris"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Christie - Apologies for the inconvenience, I'm out sick today with a\r\nstomach bug. Could we please move our call to Tuesday or Wednesday?\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Fri, Apr 18, 2025 at 9:07\u202fAM Alex Macaulay <alex@wisq.com> wrote:\r\n\r\n> Hey Christie,\r\n>\r\n> Thanks for letting me know. Can we plan for 12pm CT on Monday?\r\n>\r\n> If that works I'll update the calendar invite. Looking forward to\r\n> continuing the conversation!\r\n>\r\n> Best,\r\n> Alex\r\n>\r\n> *Alex Macaulay*\r\n> *Enterprise Partnerships*\r\n> *952-649-8120*\r\n> *Wisq*\r\n>\r\n>\r\n> On Thu, Apr 17, 2025 at 8:29\u202fPM Christie McNeill (Nolan Transportation\r\n> Group) <christie.mcneill@ntgfreight.com> wrote:\r\n>\r\n>> Hey Alex,\r\n>> I had a scheduling mixup and need to bump our call tomorrow to next week"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Wisq & NTG",
+      "person": "Christie McNeill",
+      "text": "Hey Christie,\r\n\r\nThanks for letting me know. Can we plan for 12pm CT on Monday?\r\n\r\nIf that works I'll update the calendar invite. Looking forward to\r\ncontinuing the conversation!\r\n\r\nBest,\r\nAlex\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, Apr 17, 2025 at 8:29\u202fPM Christie McNeill (Nolan Transportation\r\nGroup) <christie.mcneill@ntgfreight.com> wrote:\r\n\r\n> Hey Alex,\r\n> I had a scheduling mixup and need to bump our call tomorrow to next week.\r\n> Do you have any time on Monday?  I am free from 10:30am - 2pm CT Monday,\r\n> or anytime Tuesday morning.\r\n>\r\n> Thank you and looking forward to connecting again!\r\n>\r\n> Thanks,\r\n> Christie\r\n> ------------------------------\r\n> *From:* Alex Macaulay <alex@wisq.com>\r\n> *Sent:* Thursday, April 17, 2025 8:58 AM\r\n> *To:* C"
+    }
+  ]
+}

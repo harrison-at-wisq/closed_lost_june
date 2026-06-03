@@ -1,0 +1,17 @@
+{
+  "company": "CCC Group, Inc.",
+  "deal_id": 51317323682,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-12-18 8:38",
+  "last_activity_date": null,
+  "reengage_score": 55.0,
+  "contacts": [
+    {
+      "name": "None None",
+      "title": null
+    }
+  ],
+  "next_step_notes": null,
+  "feed": []
+}

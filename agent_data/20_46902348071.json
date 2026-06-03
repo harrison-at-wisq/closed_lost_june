@@ -1,0 +1,17 @@
+{
+  "company": "CHANEL",
+  "deal_id": 46902348071,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2026-01-06 14:39",
+  "last_activity_date": "2026-01-06 11:44",
+  "reengage_score": 66.8,
+  "contacts": [
+    {
+      "name": "Michelle Rhee",
+      "title": "Head of People Operations and Transformation"
+    }
+  ],
+  "next_step_notes": null,
+  "feed": []
+}

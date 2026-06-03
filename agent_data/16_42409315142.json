@@ -1,0 +1,17 @@
+{
+  "company": "Haza Foods",
+  "deal_id": 42409315142,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Unresponsive",
+  "close_date": "2025-12-11 11:10",
+  "last_activity_date": "2025-10-17 9:44",
+  "reengage_score": 68.7,
+  "contacts": [
+    {
+      "name": "Stephen Martin",
+      "title": "VP of HR"
+    }
+  ],
+  "next_step_notes": "8/22\n\nQM completed 8/11, they are early in AI evaluation. Aiming to schedule follow up in a few weeks.",
+  "feed": []
+}

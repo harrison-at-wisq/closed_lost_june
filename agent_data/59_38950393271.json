@@ -1,0 +1,122 @@
+{
+  "company": "Delta Air Lines",
+  "deal_id": 38950393271,
+  "owner": "Alex Macaulay",
+  "closed_lost_reason": "Product Misalignment: Missing Features",
+  "close_date": "2025-10-17 14:22",
+  "last_activity_date": "2025-09-25 13:00",
+  "reengage_score": 49.9,
+  "contacts": [
+    {
+      "name": "Brent Love",
+      "title": null
+    }
+  ],
+  "next_step_notes": "8/22\n\nCompleted 2nd call with HRIS Program Manager, confirmed that the \"agentic front door\" is a high priority initiative. Aiming to schedule a deeper demo with the broader Delta team in September.\n\n8/20\n\nMeeting scheduled with Program Manager 8/21\n\n7/13\n\nNo change\n\n7/3\n\nVery early - will likely be late July or August before we reconnect",
+  "feed": [
+    {
+      "type": "email",
+      "date": "2025-09-12T20:36:33",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Hey @Alex Macaulay<mailto:alex@wisq.com> -\r\n\r\nYeah of course...let's do 2pm!\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Friday, September 12, 2025 3:43 PM\r\nTo: Love, Brent <brent.love@delta.com>\r\nCc: Scott Sinatra <ssinatra@wisq.com>\r\nSubject: Re: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\n\r\nHi Brent,\r\n\r\nThanks again for connecting me with Leah\u2014I've received the calendar invite for our session on September 25th at 1pm EST and am looking forward to it.\r\n\r\nIn advance of that, I\u2019d love to see if you might have a few minutes Monday (9/15) to align on the demo agenda and determine how we can best tailor the session to Delta\u2019s needs and priorities. I\u2019ll be beginning a short paternity leave next week and will be back mid-October, so it would be great to connect before t"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-12T14:54:03",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: [EXTERNAL] Re: Delta & Wisq (Agentic)",
+      "person": null,
+      "text": "Hi Alex!\r\n\r\nThanks for confirming - I've just sent the invitation with the Teams link. Please let me know when the agenda is confirmed with Brent, and I'll update the invite.\r\n\r\nHave a great weekend,\r\nLeah B. Jang\r\nAdministrative Assistant | Project Administrator\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Friday, September 12, 2025 10:38 AM\r\nTo: Jang, Leah <leah.jang@delta.com>\r\nSubject: [EXTERNAL] Re: Delta & Wisq (Agentic)\r\n\r\n\r\n\r\nHi Leah,\r\n\r\nThank you for coordinating! Could we please confirm Thursday 9/25 1-2pm EST?\r\n\r\nKindly include Scott Sinatra (ssinatra@wisq.com<mailto:ssinatra@wisq.com>) and Clayton Holz (clayton@wisq.com<mailto:clayton@wisq.com>) from Wisq on the invite. I\u2019ll also reach out to Brent to share our proposed agenda.\r\n\r\nAppreciate you"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-11T15:13:58",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: Delta & Wisq (Agentic)",
+      "person": "Brent Love",
+      "text": "Hi Alex,\r\n\r\nNice to meet you! Moving Brent to BCC for now.\r\n\r\nHappy to look at 1-hour slots for a virtual demo and get the invite organized.\r\nLooking at the week of 9/22, we have the following options available (all in EST):\r\n\r\n  *\r\nTues 9/23, 3:30-4:30pm (preferred)\r\n  *\r\nThurs 9/25, 1-2pm\r\n  *\r\nFri 9/26, 12-1pm\r\n\r\nWould any of these options work for your team? Once a date/time is confirmed, I'm happy to send the invite to Wisq team members. Just let me know their name and email address.\r\n\r\nThanks!\r\nLeah B. Jang\r\nAdministrative Assistant | Project Administrator\r\n________________________________\r\nFrom: Love, Brent <brent.love@delta.com>\r\nSent: Thursday, September 11, 2025 10:06 AM\r\nTo: Jang, Leah <leah.jang@delta.com>; Alex Macaulay <alex@wisq.com>\r\nSubject: Fw: Delta & Wisq (Agentic)\r\n\r\nH"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-11T14:06:24",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Fw: Delta & Wisq (Agentic)",
+      "person": "Brent Love",
+      "text": "Hey @Jang, Leah<mailto:leah.jang@delta.com> - Tim would like to set up an hour with the Wisq team for a demo. I've added @Alex Macaulay<mailto:alex@wisq.com> from Wisq to assist in scheduling. Sanaa and I are at a conference next week, but can we look for the week of Sept 22nd.\r\n\r\n\r\nDelta Attendees:\r\n\r\n  *\r\nVansai\r\n  *\r\nSanaa\r\n  *\r\nBrent\r\n\r\n\r\n\r\n________________________________\r\n\r\nFrom: Alex Macaulay <alex@wisq.com<mailto:alex@wisq.com>>\r\nSent: Friday, August 22, 2025 10:53 AM\r\nTo: Love, Brent <brent.love@delta.com<mailto:brent.love@delta.com>>\r\nSubject: Re: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHi Brent,\r\n\r\nThank you again for the conversation yesterday. Your clarity around Delta\u2019s vision and the depth of what you're building with QuickView and AI-driven service delivery is energizing"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-10T20:16:26",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: HR Executive Dinner with Wisq - Sept 17 - HR Tech",
+      "person": "Brent Love",
+      "text": "Thanks so much Julian!\r\n\r\nLook forward to seeing everyone next Wednesday.\r\n\r\nBest,\r\n\r\nKelly Rocke\r\nDirector, Workforce Analytics\r\n\r\ne: Kelly.rocke@bhnetwork.com<mailto:Kelly.rocke@bhnetwork.com>\r\np: 19257383863 (Teams)\r\nCalifornia (PST)\r\n\r\nBlackhawknetwork.com<http://www.blackhawknetwork.com/>\r\n\r\nThis information is confidential and proprietary to Blackhawk Network\r\n\r\nFrom: Julian Clarke <julian@wisq.com>\r\nSent: Wednesday, September 10, 2025 12:23 PM\r\nTo: adam.putz@beamsuntory.com; aimee.billingsley@mercy.net; anita.grantham@gmail.com; brent.love@delta.com; darizzo@deloitte.com; diana.valler@travelbrands.com; Gilbert, Franz <frgilbert@deloitte.com>; jason.whetstone@swirecc.com; Kelly Rocke <Kelly.Rocke@bhn.com>; Shubha Murali <Shubha.Murali@ryan.com>\r\nCc: Scott Sinatra <ssinatra@wisq.com>;"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-10T17:25:43",
+      "direction": "INCOMING_EMAIL",
+      "subject": "Re: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "@Alex Macaulay<mailto:alex@wisq.com> - so sorry but I didnt realize that the vendor I'm co-presenting with at the conference is taking us out to dinner at this time. Happy to connect any other evening.\r\n\r\nSide note: I'm trying to get schedules aligned on the demo with my leaders...I've had out of offices, but should be able to get some times over to you this week.\r\n________________________________\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, September 9, 2025 3:44 PM\r\nTo: Love, Brent <brent.love@delta.com>\r\nCc: Kachach, Sanaa <sanaa.kachach@delta.com>\r\nSubject: Re: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\nHey Brent - great to hear. You should receive a calendar invite with the details from Julian Clarke, our Head of Marketing, shortly.\r\n\r\nAnd my apologies for the confusion, I was referri"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-10T11:45:39",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Hey Alex,\r\n\r\nThank you for the invite, unfortunately I have another dinner around the same time. Please feel free to send me the invite and I will see if I can pop up for few min.\r\n\r\nRegards,\r\n\r\nSANAA KACHACH\r\nHR Systems Operations\r\nHR Service Delivery\r\nMobile: 470-512-4610\r\nEmail: Sanaa.Kachach@delta.com<mailto:Sanaa.Kachach@delta.com>\r\n[A picture containing food, drawing  Description automatically generated]\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, September 9, 2025 3:44 PM\r\nTo: Love, Brent <brent.love@delta.com>\r\nCc: Kachach, Sanaa <sanaa.kachach@delta.com>\r\nSubject: Re: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\nHey Brent - great to hear. You should receive a calendar invite with the details from Julian Clarke, our Head of Marketing, shortly.\r\n\r\nAnd my apologies for the confusion"
+    },
+    {
+      "type": "email",
+      "date": "2025-09-09T19:37:00",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Hey @Alex Macaulay<mailto:alex@wisq.com> \u2013 count me in\u2026.I\u2019ll let Sanaa respond as I know she has a packed schedule.\r\n\r\nAlso, curious which Stephanie is attending from Delta?\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, September 9, 2025 3:30 PM\r\nTo: Love, Brent <brent.love@delta.com>\r\nSubject: Re: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\n\r\nBrent,\r\n\r\nQuick follow-up\u2014we have a few seats left for our HR Executive dinner on Wed, Sept 17th at 7 PM at Bourbon Steak (Four Seasons). We\u2019d love to host you, Sanaa and Stephanie.\r\n\r\nIf that works, I\u2019ll lock in three seats for Delta. Thanks!\r\n\r\n\r\n\r\nBest,\r\nAlex\r\n\r\n\r\nAlex Macaulay\r\nEnterprise Partnerships\r\n952-649-8120\r\nWisq\r\n\r\n\r\nOn Fri, Sep 5, 2025 at 9:08\u202fAM Alex Macaulay <alex@wisq.com<mailto:alex@wisq.com>> wrote:\r\nBrent,\r\n\r\nOne additional note -"
+    },
+    {
+      "type": "email",
+      "date": "2025-08-20T15:57:44",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Hey @Alex Macaulay<mailto:alex@wisq.com> \u2013\r\n\r\nI think this is perfect timing\u2026.we are starting to have internal conversations around a \u201cAgentic Digital Front Door\u201d for our employees. Can we setup some time to regroup tomorrow? Pretty open to chat after 1pm if you\u2019re free.\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Wednesday, August 20, 2025 10:39 AM\r\nTo: Love, Brent <brent.love@delta.com>\r\nSubject: Re: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\n\r\nHi Brent,\r\n\r\nAppreciate your time and thought partnership during our recent conversation. As a follow-up, I\u2019d love to coordinate a session with you and your team the week of August 25th or September 1st. We can walk through a few of the most impactful use cases we\u2019re seeing across our client base and continue aligning on where Wisq could best support De"
+    },
+    {
+      "type": "email",
+      "date": "2025-07-03T14:00:52",
+      "direction": "INCOMING_EMAIL",
+      "subject": "RE: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Hey @Alex Macaulay<mailto:alex@wisq.com> \u2013 no worries at all as I haven\u2019t had a chance to meet with my Director about this\u2026planning to connect mid-July with him.\r\n\r\nAlso, figured out why your name looked so familiar\u2026.I remember your wife Emily from college\u2026what a small world! Hope she\u2019s doing well and tell her hi for me.\r\n\r\nFrom: Alex Macaulay <alex@wisq.com>\r\nSent: Tuesday, July 1, 2025 4:02 PM\r\nTo: Love, Brent <brent.love@delta.com>\r\nSubject: [EXTERNAL] Re: Delta & Wisq\r\n\r\n\r\n\r\nBrent,\r\n\r\nApologies for the delay in response. I planned to send a follow up as I hadn't heard from you, only to realize that my original summary email was sitting in my outbox!\r\n\r\nThank you again for making time to connect with us. Your vision for enabling AI across Delta\u2019s workforce is both thoughtful and ambitio"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Sounds great! I just sent the invite - looking forward to reconnecting on\r\nMonday.\r\n\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Fri, Sep 12, 2025 at 4:36\u202fPM Love, Brent <brent.love@delta.com> wrote:\r\n\r\n> Hey @Alex Macaulay <alex@wisq.com> -\r\n>\r\n> Yeah of course...let's do 2pm!\r\n> ------------------------------\r\n> *From:* Alex Macaulay <alex@wisq.com>\r\n> *Sent:* Friday, September 12, 2025 3:43 PM\r\n> *To:* Love, Brent <brent.love@delta.com>\r\n> *Cc:* Scott Sinatra <ssinatra@wisq.com>\r\n> *Subject:* Re: [EXTERNAL] Re: Delta & Wisq\r\n>\r\n>\r\n> Hi Brent,\r\n>\r\n> Thanks again for connecting me with Leah\u2014I've received the calendar invite\r\n> for our session on *September 25th at 1pm EST* and am looking forward to\r\n> it.\r\n>\r\n> In advance of that, I\u2019d love to see if you"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: Delta & Wisq (Agentic)",
+      "person": null,
+      "text": "Hi Leah,\r\n\r\nThank you for coordinating! Could we please confirm *Thursday 9/25 1-2pm\r\nEST*?\r\n\r\nKindly include Scott Sinatra (ssinatra@wisq.com) and Clayton Holz (\r\nclayton@wisq.com) from Wisq on the invite. I\u2019ll also reach out to Brent to\r\nshare our proposed agenda.\r\n\r\nAppreciate your partnership!\r\n\r\nBest,\r\nAlex\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Thu, Sep 11, 2025 at 11:13\u202fAM Jang, Leah <leah.jang@delta.com> wrote:\r\n\r\n> Hi Alex,\r\n>\r\n> Nice to meet you! Moving Brent to BCC for now.\r\n>\r\n> Happy to look at 1-hour slots for a virtual demo and get the invite\r\n> organized.\r\n> Looking at the week of 9/22, we have the following options available (all\r\n> in EST):\r\n>\r\n>    - Tues 9/23, 3:30-4:30pm (preferred)\r\n>    - Thurs 9/25, 1-2pm\r\n>    - Fri 9/26, 12"
+    },
+    {
+      "type": "email",
+      "date": null,
+      "direction": "EMAIL",
+      "subject": "Re: [EXTERNAL] Re: Delta & Wisq",
+      "person": "Brent Love",
+      "text": "Hey Brent - great to hear. You should receive a calendar invite with the\r\ndetails from Julian Clarke, our Head of Marketing, shortly.\r\n\r\nAnd my apologies for the confusion, I was referring to Stephanie Asbury.\r\nLet me know if you'd like me to reserve seats for Sanaa and Stephanie as\r\nwell and I'll have invites sent out accordingly. Thanks!\r\n\r\nBest,\r\nAlex\r\n\r\n\r\n*Alex Macaulay*\r\n*Enterprise Partnerships*\r\n*952-649-8120*\r\n*Wisq*\r\n\r\n\r\nOn Tue, Sep 9, 2025 at 3:37\u202fPM Love, Brent <brent.love@delta.com> wrote:\r\n\r\n> Hey @Alex Macaulay <alex@wisq.com> \u2013 count me in\u2026.I\u2019ll let Sanaa respond\r\n> as I know she has a packed schedule.\r\n>\r\n>\r\n>\r\n> Also, curious which Stephanie is attending from Delta?\r\n>\r\n>\r\n>\r\n> *From:* Alex Macaulay <alex@wisq.com>\r\n> *Sent:* Tuesday, September 9, 2025 3:30 PM\r\n> *To:* Lov"
+    }
+  ]
+}
